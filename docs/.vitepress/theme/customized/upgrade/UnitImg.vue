@@ -43,6 +43,7 @@ onMounted(() => {
     const localWebp = replaceFileExtension(localOriginal, ".webp");
 
     const testImg = new Image();
+    testImg.referrerPolicy = "no-referrer";
     testImg.src = imgLinkOriginal;
     testImg.onload = () => {
         imgDom.setAttribute("src", imgLinkOriginal);

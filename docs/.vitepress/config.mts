@@ -10,6 +10,7 @@ export default defineConfig({
     ignoreDeadLinks: true,
     head: [
         ["meta", { name: "format-detection", content: "telephone=no"}],
+        ["meta", { name: "referrer", content: "no-referrer"}],
         ["link", { rel: "icon", href: "https://static.clashpost.com/favicon.ico" }],
         ["link", { rel: "icon", href: "https://static.clashpost.com/favicon.svg", type: "image/svg+xml" }],
         ["link", { rel: "apple-touch-icon", href: "https://static.clashpost.com/apple-touch-icon.png"}],

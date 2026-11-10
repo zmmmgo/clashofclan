@@ -43,6 +43,7 @@ const currentSrc = ref(imgLinkOriginal);
 onMounted(() => {
     if (!isAbsolute) {
         const testImg = new Image();
+        testImg.referrerPolicy = "no-referrer";
         testImg.src = imgLinkOriginal;
         testImg.onerror = () => {
             currentWebp.value = localWebp;
