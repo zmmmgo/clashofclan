@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "cross-spawn": "^7.0.6",
+    "markdown-it-mathjax3": "^4.3.2",
+    "p-map": "^7.0.7",
+    "sass": "^1.104.0",
+    "vitepress": "^2.0.0-alpha.20"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
