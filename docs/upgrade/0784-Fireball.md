@@ -107,7 +107,7 @@ const tableExtraInfo = [
     <TimelineItem date="2025/02/10">
         <TimelineRow>18 ~ 23 级巨大火球的溅射半径减小。</TimelineRow>
     </TimelineItem>
-    <TimelineItem date="2023/03/11">
+    <TimelineItem date="2024/03/11">
         <TimelineRow>新装备：巨大火球。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />
