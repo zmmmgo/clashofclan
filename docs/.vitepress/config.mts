@@ -24,9 +24,9 @@ export default defineConfig({
         }
         const canonical = pageData.frontmatter.canonical;
         if (canonical === "/") {
-            head.push(["link", { rel: "canonical", content: "https://clashpost.com" }]);
+            head.push(["link", { rel: "canonical", content: "https://coc.zmmmgo.cc.cd" }]);
         } else {
-            head.push(["link", { rel: "canonical", content: "https://clashpost.com" + canonical }]);
+            head.push(["link", { rel: "canonical", content: "https://coc.zmmmgo.cc.cd" + canonical }]);
         }
         return head;
     },
@@ -41,7 +41,7 @@ export default defineConfig({
         }
     },
     sitemap: {
-        hostname: "https://clashpost.com",
+        hostname: "https://coc.zmmmgo.cc.cd",
         transformItems: (items) => {
             const excludedUrls = [
                 "/faq",
