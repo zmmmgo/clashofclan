@@ -40,8 +40,8 @@ canonical: /upgrade/0842-Logger
     <UnitProperty pKey="所需大本等级" pValue="18" />
 </UnitProperties>
 
-① （待证实）如果敌军进入这个范围，守卫会看向部队的方向，准备反击。<br>
-② （待证实）在没有敌人的情况下，守卫也会走动，而这个走动的范围叫巡逻半径。
+① 如果敌军进入这个范围，守卫会看向部队的方向，准备反击。<br>
+② 在没有敌人的情况下，守卫也会走动，而这个走动的范围叫巡逻半径。
 
 <SmallTitle>升级数据</SmallTitle>
 
