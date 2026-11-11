@@ -9,6 +9,8 @@ wiki: https://clashofclans.fandom.com/wiki/Battle_Machine
 canonical: /upgrade/10f0-Battle-Machine
 ---
 
+- 如想查看战争机器王座的建筑数据，请访问：[战争机器王座](/upgrade/1287-Battle-Machine-Altar)。
+
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Battle_Machine_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>更多图片</SmallTitle>

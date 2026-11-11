@@ -92,6 +92,7 @@ if (activeTabCookieValue === "bh-buildings") {
         <ListItem name="星空实验室" imgSrc="1282/Star_Laboratory10.png" link="1282-Star-Laboratory" />
         <ListItem name="预备营" imgSrc="1285/Reinforcement_Camp.png" link="1285-Reinforcement-Camp" />
         <ListItem name="治疗小屋" imgSrc="1286/Healing_Hut5.png" link="1286-Healing-Hut" />
+        <ListItem name="战争机器王座" imgSrc="1287/Battle_Machine_Altar.png" link="1287-Battle-Machine-Altar" />
     </ListItems>
     <ListItems title="其他建筑" imgFolder="bh_buildings">
         <ListItem name="时光钟楼" imgSrc="1283/Clock_Tower10.png" link="1283-Clock-Tower" />

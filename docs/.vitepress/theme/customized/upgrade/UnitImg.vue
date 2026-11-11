@@ -41,7 +41,7 @@ onMounted(() => {
 
     const localOriginal = "/images/upgrade/" + folder + "/" + imgSrcOriginal;
     const localWebp = replaceFileExtension(localOriginal, ".webp");
-    const isKnownLocal = ["008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14", "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9"].some(k => folder.includes(k) || imgSrcOriginal.includes(k));
+    const isKnownLocal = ["008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "1287", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14", "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9"].some(k => folder.includes(k) || imgSrcOriginal.includes(k));
 
     if (isKnownLocal) {
         imgDom.setAttribute("src", localOriginal);
