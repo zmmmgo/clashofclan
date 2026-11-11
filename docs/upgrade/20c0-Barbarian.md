@@ -22,7 +22,7 @@ canonical: /upgrade/20c0-Barbarian
 <SmallTitle>重要说明</SmallTitle>
 
 1. 都城野蛮人是 [野蛮人攻城槌](/upgrade/2003-Battle-Ram) 和 [突袭炮车](/upgrade/2009-Raid-Cart) 的派生兵种，不能单独部署。
-2. 都城的野蛮人属性相同。
+2. 由野蛮人攻城槌和突袭炮车召唤的都城野蛮人属性相同，其等级取决于对应兵种训练营的等级。
 
 <SmallTitle>野蛮人的属性</SmallTitle>
 
@@ -30,7 +30,7 @@ canonical: /upgrade/20c0-Barbarian
     <UnitProperty pKey="部队类型" pValue="地面近战单位" />
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="防守人口" pValue="1.25" />
     <UnitProperty pKey="移动速度" pValue="1.5 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="1 秒/次" />
@@ -56,6 +56,9 @@ canonical: /upgrade/20c0-Barbarian
 <Timeline>
     <TimelineItem date="2022/12/12">
         <TimelineRow>本次更新后，兵种拥有了防守人口属性。每个都城野蛮人占 1.25 人口。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2022/05/02">
+        <TimelineRow>都城野蛮人随着部落都城玩法一同推出。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />
 </Timeline>
