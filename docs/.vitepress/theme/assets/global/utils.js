@@ -13,13 +13,10 @@ export function isNumber(num) {
  * @returns Cookie 的域名
  */
 function getDomain() {
-    let domain;
-    if (window.location.origin.indexOf("localhost") >= 0) {
-        domain = "localhost";
-    } else {
-        domain = ".clashpost.com";
+    if (typeof window === "undefined") {
+        return "";
     }
-    return domain;
+    return window.location.hostname;
 }
 
 /**

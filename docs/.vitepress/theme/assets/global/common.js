@@ -187,14 +187,7 @@ export function bodyClickEvent(event) {
  * 如果用户没访问过网站，则弹出网站会使用 Cookie 的提示
  */
 export function showCookieTip() {
-    // 只有在浏览器环境下才运行，node 环境不运行
-    if (inBrowser) {
-        const cookieUsed = getCookie("cp-cookie-setting");
-        if (!cookieUsed) {
-            generateToast("网站使用 Cookie 分析访问数据及保存设置，继续访问网站即代表您同意我们使用 Cookie。");
-            setCookie("cp-cookie-setting", "1", "10", "years");
-        }
-    }
+    // 已禁用 Cookie 提示弹窗
 }
 
 /**

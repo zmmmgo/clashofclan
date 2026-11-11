@@ -22,8 +22,6 @@ onMounted(() => {
     window.addEventListener("resize", resetSidebarsResizeEvent);
     // 点击空白处收缩弹窗、下拉框等元素
     window.addEventListener("click", bodyClickWindowEvent);
-    // 如果用户没访问过网站，则弹出网站会使用 Cookie 的提示
-    showCookieTip();
     // 滚动和缩放结束时重新设定 vh 的大小（仅针对不能正确支持 dvh 的浏览器）
     resetDvhValue();
     window.addEventListener("scroll", resetDvhScrollEvent);
