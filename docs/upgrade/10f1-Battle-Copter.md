@@ -9,6 +9,8 @@ wiki: https://clashofclans.fandom.com/wiki/Battle_Copter
 canonical: /upgrade/10f1-Battle-Copter
 ---
 
+- 如想查看战斗直升机王座的建筑数据，请访问：[战斗直升机王座](/upgrade/1288-Battle-Copter-Altar)。
+
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Battle_Copter_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>更多图片</SmallTitle>
