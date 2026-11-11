@@ -33,7 +33,7 @@ const hasAdditionalSource = !isAbsolute && getConvertWebpInfo(imgExtension);
 
 const localOriginal = "/images/upgrade/" + props.folder + "/" + props.imgSrc;
 const localWebp = replaceFileExtension(localOriginal, ".webp");
-const isKnownLocal = ["008c", "0842", "0747", "0726", "07e5", "0906", "0907", "0908"].some(k => props.folder.includes(k) || props.imgSrc.includes(k));
+const isKnownLocal = ["008c", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5"].some(k => props.folder.includes(k) || props.imgSrc.includes(k));
 
 const imgSrcWebp = isKnownLocal ? localWebp : (isAbsolute ? imgSrcOriginal : linkPrefix + replaceFileExtension(imgSrcOriginal, ".webp"));
 const imgLinkOriginal = isKnownLocal ? localOriginal : (isAbsolute ? imgSrcOriginal : linkPrefix + imgSrcOriginal);
