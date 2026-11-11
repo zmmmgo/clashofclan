@@ -2,7 +2,7 @@
 title: "部落冲突 coc 都城永恒急速法术升级数据"
 navTitle: "永恒急速法术"
 shownTitle: "永恒急速法术"
-description: "永久提速部队的速度！施放该法术产生一个急速光环，穿过该光环的单位会获得加速效果，一直持续当场战斗结束！"
+description: "永久提速部队的速度！施放该法术产生一个急速光环，穿过该光环的单位会获得加速效果，一直持续到当场战斗结束！"
 module: upgrade-capital
 imgFolder: capital_tech/2106
 wiki: https://clashofclans.fandom.com/wiki/Endless_Haste_Spell
@@ -10,7 +10,7 @@ canonical: /upgrade/2106-Endless-Haste-Spell
 ---
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Endless_Haste_Spell_info.png" :imgAlt="$frontmatter.navTitle"
-    description="永久提速部队的速度！<br>施放该法术产生一个急速光环，穿过该光环的单位会获得加速效果，一直持续当场战斗结束！"
+    description="永久提速部队的速度！<br>施放该法术产生一个急速光环，穿过该光环的单位会获得加速效果，一直持续到当场战斗结束！"
     :isSmallImg="true" />
 
 <SmallTitle>重要说明</SmallTitle>
@@ -33,14 +33,16 @@ canonical: /upgrade/2106-Endless-Haste-Spell
 
 <UnitTable>
 
-| 等级 | 提升移动速度 |
-| ---- |    ----     |
+| 等级 | 提升移动速度<sup>*</sup> |
+| ---- |          ---           |
 | 1 | 7 |
 | 2 | 8 |
 | 3 | 9 |
 | 4 | 10 |
 
 </UnitTable>
+
+\* 这里的 8 点移动速度代表 1 格/秒。
 
 <SmallTitle>更新历史</SmallTitle>
 

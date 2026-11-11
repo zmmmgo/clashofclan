@@ -33,7 +33,7 @@ canonical: /upgrade/2104-Rage-Spell
 
 <UnitTable>
 
-| 等级 | 伤害提升 |移动速度提升<sup>*</sup>|
+| 等级 | 伤害提升 | 移动速度提升<sup>*</sup> |
 | ---- |  ----   |          ---          |
 | 1 | 70% | 10 |
 | 2 | 80% | 12 |

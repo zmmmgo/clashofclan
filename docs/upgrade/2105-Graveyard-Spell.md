@@ -19,7 +19,7 @@ canonical: /upgrade/2105-Graveyard-Spell
 2. 骷髅召唤法术可以在部队被打死之后生成骷髅，三个人口折合一个骷髅。攻击部队和防御部队都计入总数，产生的骷髅类型取决于死了的部队是哪种类型，地面部队产生地面骷髅，空中部队产生空中骷髅。
 3. 死亡的地面部队和空中部队是分开计算的，比如说你打死了 5 人口的地面单位和 10 人口的空中单位，则只会生成 1 个地面骷髅和 3 个空中骷髅，一共生成 4 个骷髅，而不是 5 个。
 4. 计算人口时需使用“防守人口”，而非“配兵人口”，相关数据在对应的兵种页面能看到。
-5. 地面的骷髅携带盾牌，可以至少承受两次攻击，类似于家乡的骷髅法术召唤出来的骷髅。此外，空中的骷髅类似于家乡的骷髅陷阱中的对空骷髅，空中的骷髅移动速度更快，并且可以瞄准空中单位。
+5. 地面的骷髅携带盾牌，可以至少承受两次攻击，类似于家乡的骷髅法术召唤出来的骷髅。空中的骷髅移动速度比地面骷髅更慢，但攻击速度更快，并且可以瞄准地面和空中目标。
 6. 如果生成的骷髅被障碍物阻挡或者离陆地太远，则骷髅不会生成。未能生成的骷髅也会计入总数，并受上限影响。
 
 <SmallTitle>骷髅召唤法术的属性</SmallTitle>
@@ -37,7 +37,7 @@ canonical: /upgrade/2105-Graveyard-Spell
 <UnitProperties>
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
-    <UnitProperty pKey="移动速度" pValue="2 秒" />
+    <UnitProperty pKey="移动速度" pValue="2 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="1 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="0.3 格" />
     <UnitProperty pKey="每秒伤害" pValue="25" />
@@ -51,7 +51,7 @@ canonical: /upgrade/2105-Graveyard-Spell
 <UnitProperties>
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
-    <UnitProperty pKey="移动速度" pValue="1.2 秒" />
+    <UnitProperty pKey="移动速度" pValue="1.125 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="0.7 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="0.1 格" />
     <UnitProperty pKey="每秒伤害" pValue="25" />

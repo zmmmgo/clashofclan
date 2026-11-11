@@ -24,7 +24,7 @@ canonical: /upgrade/2102-Lightning-Spell
 <UnitProperties>
     <UnitProperty pKey="作用方式" pValue="一次性伤害" />
     <UnitProperty pKey="作用半径" pValue="1.5 格" />
-    <UnitProperty pKey="击晕时长" pValue="0.1 秒" />
+    <UnitProperty pKey="击晕时长" pValue="0.5 秒" />
     <UnitProperty pKey="占用的法术空间" pValue="1" />
 </UnitProperties>
 

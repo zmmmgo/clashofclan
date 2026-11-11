@@ -36,11 +36,11 @@ canonical: /upgrade/2101-Jump-Spell
 
 | 等级 | 作用半径 |
 | ---- |   ----  |
-| 1 | 3.2 tiles |
-| 2 | 3.4 tiles |
-| 3 | 3.6 tiles |
-| 4 | 3.8 tiles |
-| 5 | 4 tiles |
+| 1 | 3.2 格 |
+| 2 | 3.4 格 |
+| 3 | 3.6 格 |
+| 4 | 3.8 格 |
+| 5 | 4 格 |
 
 </UnitTable>
 

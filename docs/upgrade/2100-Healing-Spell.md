@@ -48,9 +48,9 @@ canonical: /upgrade/2100-Healing-Spell
 <Timeline>
     <TimelineItem date="2022/06/30">
         <TimelineRow>1 ~ 5 级疗伤法术的每秒治疗量减少 33.</TimelineRow>
-        <TimelineRow>1 ~ 5 级疗伤法术的每秒脉冲治疗量 34/38/42/46/50 减少到 24/28/32/36/40.</TimelineRow>
+        <TimelineRow>1 ~ 5 级疗伤法术的每次脉冲治疗量从 34/38/42/46/50 减少到 24/28/32/36/40.</TimelineRow>
     </TimelineItem>
-    <TimelineItem date="2022/06/07">
+    <TimelineItem date="2022/06/27">
         <TimelineRow>被摧毁的攻城炮车将无法享受到疗伤法术的治疗效果。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
