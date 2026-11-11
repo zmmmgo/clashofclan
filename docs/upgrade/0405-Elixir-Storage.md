@@ -5,7 +5,7 @@ shownTitle: "圣水瓶"
 description: "圣水瓶用来保存从地下收集的圣水。升级圣水瓶以提升其存储上限。"
 module: upgrade-home
 imgFolder: home_buildings/0405
-wiki: https://clashofclans.fandom.com/wiki/Elixir_Storage
+wiki: https://clashofclans.fandom.com/wiki/Elixir_Storage/Home_Village
 canonical: /upgrade/0405-Elixir-Storage
 ---
 

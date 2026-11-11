@@ -5,7 +5,7 @@ shownTitle: "储金罐"
 description: "您珍贵的金币都存在这里！不要让狡猾的哥布林有机可乘！升级储金罐，提高它们的容量和抗打击能力。"
 module: upgrade-home
 imgFolder: home_buildings/0404
-wiki: https://clashofclans.fandom.com/wiki/Gold_Storage
+wiki: https://clashofclans.fandom.com/wiki/Gold_Storage/Home_Village
 canonical: /upgrade/0404-Gold-Storage
 ---
 
