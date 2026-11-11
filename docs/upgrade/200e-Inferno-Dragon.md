@@ -23,7 +23,7 @@ canonical: /upgrade/200e-Inferno-Dragon
 
 <SmallTitle>重要说明</SmallTitle>
 
-1. 地狱飞龙的解锁条件是建造 [ 地狱飞龙训练营](/upgrade/234e-Inferno-Dragon-Barracks)，而这需要部落解锁骷髅乐园，且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 8 级。
+1. 地狱飞龙的解锁条件是建造 [地狱飞龙训练营](/upgrade/234e-Inferno-Dragon-Barracks)，而这需要部落解锁骷髅乐园，且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 8 级。
 2. 地狱飞龙的技能（地狱烈焰）：持续攻击同一目标时，地狱飞龙的攻击伤害会随着时间递增。初始伤害切换二段伤害需要 1.7 秒，二段到三段需要 1.5 秒。也就是说从初始伤害到最高伤害需要 3.2 秒。
 
 <SmallTitle>属性</SmallTitle>

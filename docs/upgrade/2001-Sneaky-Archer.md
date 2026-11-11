@@ -60,7 +60,7 @@ canonical: /upgrade/2001-Sneaky-Archer
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>4 ~ 5 级隐秘弓箭手的每秒伤害由 72/16 减少到 71/74.</TimelineRow>
+        <TimelineRow>4 ~ 5 级隐秘弓箭手的每秒伤害由 72/76 减少到 71/74.</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>隐秘弓箭手随着部落都城玩法一同推出。</TimelineRow>

@@ -5,7 +5,7 @@ shownTitle: "骷髅"
 description: "这些不死生物独自行动时并不具备什么威胁，但它们从不单打独斗，而是成群结队，并肩作战！"
 module: upgrade-capital
 imgFolder: capital_tech/20c1
-wiki: https://clashofclans.fandom.com/wiki/Barbarian/Clan_Capital
+wiki: https://clashofclans.fandom.com/wiki/Skeleton/Clan_Capital
 canonical: /upgrade/20c1-Skeleton
 ---
 

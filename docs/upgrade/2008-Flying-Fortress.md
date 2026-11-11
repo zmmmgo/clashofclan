@@ -31,7 +31,7 @@ canonical: /upgrade/2008-Flying-Fortress
 
 <SmallTitle>重要说明</SmallTitle>
 
-1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 4 级。
+1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 5 级。
 2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成骷髅飞骑，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
 
 <SmallTitle>飞行堡垒的属性</SmallTitle>
@@ -44,6 +44,7 @@ canonical: /upgrade/2008-Flying-Fortress
     <UnitProperty pKey="配兵人口" pValue="100" />
     <UnitProperty pKey="防守人口" pValue="100" />
     <UnitProperty pKey="移动速度" pValue="1.1 格/秒" />
+    <UnitProperty pKey="攻击速度" pValue="2 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="4.5 格" />
 </UnitProperties>
 
@@ -53,11 +54,11 @@ canonical: /upgrade/2008-Flying-Fortress
 
 | 等级 | 每秒伤害 | 每次伤害 |可分裂的<br>骷髅飞骑数量|死亡后分裂的<br>骷髅数量|  生命值 |
 | ---- |  ----   |  ----   |         ----         |         ----          |   ---- |
-| 1 | 300 | 600 | 10 | 10 | 12000 |
-| 2 | 325 | 650 | 12 | 12 | 13500 |
-| 3 | 350 | 700 | 14 | 14 | 15000 |
-| 4 | 375 | 750 | 16 | 16 | 16500 |
-| 5 | 400 | 800 | 18 | 18 | 18000 |
+| 1 | 300 | 600 | 10 | 22 | 12000 |
+| 2 | 325 | 650 | 12 | 24 | 13500 |
+| 3 | 350 | 700 | 14 | 26 | 15000 |
+| 4 | 375 | 750 | 16 | 28 | 16500 |
+| 5 | 400 | 800 | 18 | 30 | 18000 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -75,7 +76,7 @@ canonical: /upgrade/2008-Flying-Fortress
 
 <SmallTitle>重要说明</SmallTitle>
 
-1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 4 级。
+1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 5 级。
 2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成骷髅飞骑，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
 
 <SmallTitle>骷髅飞骑的属性</SmallTitle>
@@ -88,7 +89,7 @@ canonical: /upgrade/2008-Flying-Fortress
     <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
     <UnitProperty pKey="防守人口" pValue="0" />
     <UnitProperty pKey="移动速度" pValue="2.3 格/秒" />
-    <UnitProperty pKey="攻击距离" pValue="0 (建筑头顶)" />
+    <UnitProperty pKey="攻击距离" pValue="0.25 格" />
 </UnitProperties>
 
 <SmallTitle>骷髅飞骑的升级数据</SmallTitle>

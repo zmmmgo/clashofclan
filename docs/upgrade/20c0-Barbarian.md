@@ -24,9 +24,6 @@ canonical: /upgrade/20c0-Barbarian
 1. 都城野蛮人是 [野蛮人攻城槌](/upgrade/2003-Battle-Ram) 和 [突袭炮车](/upgrade/2009-Raid-Cart) 的派生兵种，不能单独部署。
 2. 都城的野蛮人属性相同。
 
-<SmallTitle>突袭炮车的属性</SmallTitle>
-
-
 <SmallTitle>野蛮人的属性</SmallTitle>
 
 <UnitProperties>

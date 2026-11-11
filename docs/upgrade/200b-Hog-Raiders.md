@@ -65,6 +65,7 @@ canonical: /upgrade/200b-Hog-Raiders
     <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
     <UnitProperty pKey="野猪飞骑的防守人口" pValue="5" />
     <UnitProperty pKey="首次进攻时机" pValue="到达目标后 0.2 秒" />
+    <UnitProperty pKey="击晕时间" pValue="4 秒" />
     <UnitProperty pKey="移动速度" pValue="2.3 格/秒" />
     <UnitProperty pKey="攻击距离" pValue="0.25 格" />
 </UnitProperties>

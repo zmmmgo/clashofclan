@@ -48,7 +48,7 @@ canonical: /upgrade/2009-Raid-Cart
     <UnitProperty pKey="移动速度" pValue="1.1 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="2.5 秒/次" />
     <UnitProperty pKey="首次进攻时机" pValue="到达目标后 1.8 秒" />
-    <UnitProperty pKey="攻击距离" pValue="3 格" />
+    <UnitProperty pKey="攻击距离" pValue="4.5 格" />
 </UnitProperties>
 
 <SmallTitle>突袭炮车的升级数据</SmallTitle>

@@ -39,7 +39,7 @@ canonical: /upgrade/200f-Super-Miner
     <UnitProperty pKey="防守人口" pValue="25" />
     <UnitProperty pKey="移动速度" pValue="3 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="0.25 秒/次" />
-    <UnitProperty pKey="攻击距离" pValue="0.45 格" />
+    <UnitProperty pKey="攻击距离" pValue="0.6 格" />
 </UnitProperties>
 
 <SmallTitle>升级数据</SmallTitle>
@@ -50,7 +50,7 @@ canonical: /upgrade/200f-Super-Miner
 | ---- |  ----   |     ----    |     ----   |   ----  |  ----  |
 | 1 | 160 | 340 | 630 | 1400 | 3300 |
 | 2 | 170 | 370 | 660 | 1700 | 3500 |
-| 3 | 180 | 400 | 690 | 2000 | 3.700 |
+| 3 | 180 | 400 | 690 | 2000 | 3700 |
 | 4 | 190 | 430 | 720 | 2300 | 3900 |
 
 </UnitTable>
@@ -59,7 +59,7 @@ canonical: /upgrade/200f-Super-Miner
 
 <Timeline>
     <TimelineItem date="2024/02/27">
-        <TimelineRow>所有等级超级矿工的生命值减少。</TimelineRow>
+        <TimelineRow>1 ~ 4 级超级矿工的生命值由 3700/3900/4100/4300 减少到 3300/3500/3700/3900.</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2023/11/27">
         <TimelineRow>1 级超级矿工的秒伤由 170-340-510 减少到 160-340-630.</TimelineRow>
