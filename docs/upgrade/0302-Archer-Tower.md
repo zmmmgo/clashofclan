@@ -183,7 +183,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
     <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
-    <UnitProperty pKey="射程" pValue="7 格" />
+    <UnitProperty pKey="射程" pValue="8 格" />
     <UnitProperty pKey="攻速" pValue="0.25 秒/次" />
     <UnitProperty pKey="改装所需箭塔等级" pValue="10" />
     <UnitProperty pKey="改装所需夜世界箭塔等级" pValue="6" />
@@ -218,6 +218,9 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/02/23">
+        <TimelineRow>快速模式箭塔的射程由 7 格增加到 8 格。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>16 ~ 21 级箭塔的升级时间减少。</TimelineRow>
     </TimelineItem>

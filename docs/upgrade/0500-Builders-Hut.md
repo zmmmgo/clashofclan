@@ -11,7 +11,7 @@ canonical: /upgrade/0500-Builders-Hut
 
 - *如想查看村庄内类似于建筑工人小屋的另一种建筑，请访问：[小博木屋（巴布小屋）](/upgrade/0501-B.O.Bs-Hut)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builders_Hut7_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builders_Hut8_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -24,6 +24,7 @@ canonical: /upgrade/0500-Builders-Hut
         <UnitImg imgTitle="5 级" imgSrc="Builders_Hut5.png" />
         <UnitImg imgTitle="6 级" imgSrc="Builders_Hut6.png" imgHd="Builders_Hut6_hd.png" />
         <UnitImg imgTitle="7 级" imgSrc="Builders_Hut7.png" imgHd="Builders_Hut7_hd.png" />
+        <UnitImg imgTitle="8 级" imgSrc="Builders_Hut8.png" imgHd="Builders_Hut8_hd.png" />
     </UnitImgGroup>
     <UnitImgGroup title="激活状态" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 级" imgSrc="Builders_Hut1.png" />
@@ -33,6 +34,7 @@ canonical: /upgrade/0500-Builders-Hut
         <UnitImg imgTitle="5 级" imgSrc="Builders_Hut5_Active.png" />
         <UnitImg imgTitle="6 级" imgSrc="Builders_Hut6_Active.png" />
         <UnitImg imgTitle="7 级" imgSrc="Builders_Hut7_Active.png" />
+        <UnitImg imgTitle="8 级" imgSrc="Builders_Hut8_Active.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -104,9 +106,10 @@ const tableExtraInfo = [
 |   4  |   120   |    48   |      70     |        52.5         |  1600 |     6M  |   4     |                    |      14       |
 |   5  |   135   |    54   |      80     |        60           |  1800 |     7M  |   5     |                    |      15       |
 |   6  |   150   |    60   |      85     |        63.75        |  1900 |     8M  |   5,12  |                    |      16       |
-|   7  |   165   |    66   |      90     |        67.5         |  2000 |  15.5M  |   9,12  |                    |      17       |
-| ⚡1  |   172   |   68.8  |      90     |        67.5         |  2000 |    10M  |   4     |                    |      17       |
-| ⚡2  |   172   |   68.8  |      90     |        67.5         |  2050 |     5M  |   6     |                    |      17       |
+|   7  |   165   |    66   |      90     |        67.5         |  2000 |  15.5M  |   7     |                    |      17       |
+|   8  |   180   |    72   |      95     |        71.25        |  2100 |    24M  |  13     |                    |      18       |
+| ⚡1  |   187   |   74.8  |      95     |        71.25        |  2100 |     4M  |   1,14  |                    |      18       |
+| ⚡2  |   187   |   74.8  |      95     |        71.25        |  2150 |  3.25M  |   2,10  |                    |      18       |
 
 </UnitTable>
 
@@ -126,6 +129,15 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/10/20">
+        <TimelineRow>建筑工人小屋充能耗时与费用减少。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/08/31">
+        <TimelineRow>为 18 本建筑工人小屋新增 2 个精工充能等级。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/06/16">
+        <TimelineRow>在 18 本新增 8 级建筑工人小屋，同时移除 7 级的精工充能等级。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>建筑工人的移动速度由 3.5 格/秒 降低到 2.5 格/秒。</TimelineRow>
     </TimelineItem>

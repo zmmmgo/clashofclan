@@ -9,7 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Monolith
 canonical: /upgrade/0312-Monolith
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Monolith4_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Monolith5_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -19,6 +19,7 @@ canonical: /upgrade/0312-Monolith
         <UnitImg imgTitle="2 级" imgSrc="Monolith2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Monolith3.png" imgHd="Monolith3_hd.png" />
         <UnitImg imgTitle="4 级" imgSrc="Monolith4.png" imgHd="Monolith4_hd.png" />
+        <UnitImg imgTitle="5 级" imgSrc="Monolith5.png" imgHd="Monolith5_hd.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -76,13 +77,16 @@ const tableExtraInfo = [
 | 2 | 175 | 262.5 | 12% | 5050 | 250k | 8 |  | 15 |
 | 3 | 193 | 289.5 | 13% | 5353 | 260k | 9 |  | 16 |
 | 4 | 209 | 313.5 | 14% | 5656 | 300k | 11 |  | 17 |
-| 5 | \ | \ | \ | 5959 | 470k | 15 |  | 18 |
+| 5 | 225 | 337.5 | 15% | 5959 | 470k | 15 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/06/16">
+        <TimelineRow>在 18 本新增 5 级巨石碑，同时移除 4 级的精工充能等级。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>4 级巨石碑的升级时间减少。</TimelineRow>
     </TimelineItem>

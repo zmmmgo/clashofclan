@@ -51,7 +51,7 @@ canonical: /upgrade/0300-Walls
 
 <UnitProperties>
     <UnitProperty pKey="占地面积" pValue="1×1" />
-    <UnitProperty pKey="19 级城墙最高可升级" pValue="200 块" />
+    <UnitProperty pKey="19 级城墙最高可升级" pValue="275 块" />
 </UnitProperties>
 
 <SmallTitle>升级数据</SmallTitle>
@@ -111,6 +111,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>18 本新解锁 75 块 19 级城墙（共 275 块）。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>18 本新解锁 75 块 19 级城墙（共 200 块）。</TimelineRow>
     </TimelineItem>

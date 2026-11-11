@@ -89,6 +89,8 @@ const tableExtraInfoFastAttackMode = tableExtraInfoLongRageMode;
 | 1 | 350 | 350 | 4000 | 17M | 8 |  | 17 |
 | 2 | 370 | 370 | 4200 | 18M | 9 |  | 17 |
 | 3 | 390 | 390 | 4350 | 28M | 14 |  | 18 |
+| ⚡1 | 400 | 400 | 4350 | 4.75M | 2,10 |  | 18 |
+| ⚡2 | 400 | 400 | 4500 | 4M | 2,19 |  | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -145,8 +147,8 @@ const tableExtraInfoFastAttackMode = tableExtraInfoLongRageMode;
 |   1  |     540     |   155   |  4000  |    17M  |  10     |                     |        17      |
 |   2  |     574     |   165   |  4200  |    18M  |  10,18  |                     |        17      |
 |   3  |     588     |   169   |  4350  |    28M  |  14      |                     |        18      |
-| ⚡1  |     600     |   172   |  4350  |   12M  |   6     |                     |        18      |
-| ⚡2  |     600     |   172   |  4500  |   10M  |   7     |                     |        18      |
+| ⚡1  |     600     |   172   |  4350  | 4.75M  |   2,10  |                     |        18      |
+| ⚡2  |     600     |   172   |  4500  |   4M   |   2,19  |                     |        18      |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -155,6 +157,9 @@ const tableExtraInfoFastAttackMode = tableExtraInfoLongRageMode;
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/10/20">
+        <TimelineRow>复合机械塔充能耗时与费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>所有等级复合机械塔在远程攻击模式下的伤害提升，在快速攻击模式下的伤害降低。</TimelineRow>
     </TimelineItem>
