@@ -64,13 +64,16 @@ const tableExtraInfo = [
 | 6 | 34 | 5M | 4 | 11 | 13 |
 | 7 | 38 | 8M | 5 | 12 | 14 |
 | 8 | 42 | 9M | 7 | 13 | 15 |
-| 9 | \ | 26M | 13,12 | 16 | 18 |
+| 9 | 48 | 26M | 13,12 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>新增 9 级镜像法术。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>法术的配置时间取消，但新增了捐赠费用。</TimelineRow>
     </TimelineItem>

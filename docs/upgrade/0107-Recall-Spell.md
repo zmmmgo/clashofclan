@@ -38,7 +38,7 @@ canonical: /upgrade/0107-Recall-Spell
 7. 如果召回时部队正受毒药效果<sup>④</sup>影响，那么重新部署之后部队仍然是中毒状态。如果部署后不吃毒，那么部队的中毒效果遵循走出毒药圈时的机制；如果部署后吃毒，那么部队遵循毒药叠加机制。参见：[【毒药法术原理】9 项实验让你怀疑你从未用过毒药法术](/p/1505)。
    - ④ 包括 [毒药法术](/upgrade/0180-Poison-Spell) 的毒药效果、被 [英雄猎手](/upgrade/0088-Headhunter) 攻击的中毒效果和 14 - 16 级 [大本营](/upgrade/0400-Town-Hall) 被摧毁后的毒雾效果。
 8. 如果部队被召回后没有再部署出去，战斗结束后部队会全部消失，不能回收到兵营。如果英雄或战宠被召回后没有再部署出去，战斗结束后英雄和战宠会恢复到满血状态。
-9.  回溯法术召回部队时是大单位的先被召回，重新部署到战场上时是大单位先出来，与 [城堡援军出来的顺序](/p/593) 相反。
+9.  回溯法术召回部队时会优先召回英雄，然后是大单位先被召回，重新部署到战场上时是大单位先出来，与 [城堡援军出来的顺序](/p/593) 相反。
 
 <SmallTitle>属性</SmallTitle>
 
@@ -81,13 +81,18 @@ const tableExtraInfo = [
 | 4 | 101 | 9M | 8 | 13 | 15 |
 | 5 | 107 | 13M | 9 | 14 | 16 |
 | 6 | 113 | 19M | 11 | 15 | 17 |
-| 7 | \ | 29M | 16 | 16 | 18 |
+| 7 | 120 | 29M | 16 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>新增 7 级回溯法术。</TimelineRow>
+        <TimelineRow>3 ~ 6 级回溯法术的升级时间减少。</TimelineRow>
+        <TimelineRow>回溯法术现在会优先召回英雄。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>6 级回溯法术的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>

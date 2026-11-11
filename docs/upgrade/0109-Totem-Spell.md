@@ -23,7 +23,7 @@ canonical: /upgrade/0109-Totem-Spell
 5. 虽然 [治疗法术](/upgrade/0101-Healing-Spell) 能治疗图腾，但是图腾不会被 [天使](/upgrade/0007-Healer) 和 [德鲁伊](/upgrade/008a-Druid) 锁定。
 6. 图腾被计作 20 人口，可以用作 [暗黑王冠](/upgrade/0724-Dark-Crown) 的人口计算，也可以免疫 [隐形弹簧](/upgrade/0381-Spring-Trap) 的**弹飞**效果。但是，对于 [天鹰火炮](/upgrade/030b-Eagle-Artillery)，图腾法术与其他 1 单位的法术一样只会计作 5 人口。
 7. [大守护者](/upgrade/0202-Grand-Warden) 的 [永恒书卷](/upgrade/0780-Eternal-Tome) 装备不能令图腾免疫伤害。
-8. 2026/02 更新后，图腾落地时不能对地方建筑和部队造成伤害了，但游戏内的简介仍然保留了相关表述。本页暂时采用官方表述。
+8. 2026/02 更新后，图腾落地时不能对敌方建筑和部队造成伤害了，但游戏内的简介仍然保留了相关表述。本页暂时采用官方表述。
 
 <SmallTitle>属性</SmallTitle>
 
@@ -75,7 +75,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/02/23">
         <TimelineRow>图腾的有效半径由 6 格改为 5 格。</TimelineRow>
-        <TimelineRow>图腾落地时不能对地方建筑和部队造成伤害了。</TimelineRow>
+        <TimelineRow>图腾落地时不能对敌方建筑和部队造成伤害了。</TimelineRow>
         <TimelineRow>守护者学徒和生命宝石装备无法再给图腾施加加血效果了。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/01/12">
