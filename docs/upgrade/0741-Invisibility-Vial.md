@@ -105,6 +105,9 @@ const tableExtraInfo = [
     <TimelineItem date="2024/11/25">
         <TimelineRow>现在 8 本就可以解锁弓箭女皇了，该页面的部分信息需要同步更改。</TimelineRow>
     </TimelineItem>
+    <TimelineItem date="2024/02/27">
+        <TimelineRow>开启技能后的单发伤害增加改为增益效果，不再直接覆盖女皇的每次伤害，且不再与狂暴法术完全叠加。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2023/12/12">
         <TimelineRow>游戏新增装备系统，隐形药水瓶是第一批推出的装备。</TimelineRow>
     </TimelineItem>
