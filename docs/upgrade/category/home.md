@@ -94,6 +94,7 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="贵族哑铃" imgSrc="0723/Noble_Iron_thumb.png" link="0723-Noble-Iron" />
         <listItem name="暗黑皇冠" imgSrc="0724/Dark_Crown.png" link="0724-Dark-Crown" />
         <listItem name="陨石法杖" imgSrc="0725/Meteor_Staff_thumb.png" link="0725-Meteor-Staff" />
+        <ListItem name="传送吊坠" imgSrc="0726/Portal_Pendant_thumb.png" link="0726-Portal-Pendant" />
     </ListItems>
     <ListItems title="装备（大守护者）" imgFolder="home_heroes">
         <ListItem name="永恒书卷" imgSrc="0780/Eternal_Tome_thumb.png" link="0780-Eternal-Tome" />
