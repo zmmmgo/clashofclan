@@ -77,6 +77,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>大本营守卫（Guardians）现在会受到毒药法术的影响，但毒药效果只有 30%。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 12 级毒药法术。</TimelineRow>
         <TimelineRow>11 级毒药法术的升级时间和升级费用减少。</TimelineRow>

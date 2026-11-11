@@ -67,13 +67,17 @@ const tableExtraInfo = [
 | 3 | 90% | 7 秒 | 200k | 11 | 13 | 15 |
 | 4 | 92% | 7 秒 | 280k | 12 | 14 | 16 |
 | 5 | 94% | 7 秒 | 320k | 14 | 15 | 17 |
-| 6 | \ | \ | 380k | 16 | 16 | 18 |
+| 6 | 96% | 7 秒 | 380k | 16 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>新增 6 级冰障法术。</TimelineRow>
+        <TimelineRow>4 ~ 5 级冰障法术的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/06/19">
         <TimelineRow>新法术：冰障法术，14 本可解锁，共推出 5 个等级。</TimelineRow>
     </TimelineItem>

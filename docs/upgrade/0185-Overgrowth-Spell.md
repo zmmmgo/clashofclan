@@ -66,13 +66,17 @@ const tableExtraInfo = [
 | 2 | 23 秒 | 62.5k | 5 | 10 | 12 |
 | 3 | 24 秒 | 125k | 8,12 | 12 | 14 |
 | 4 | 25 秒 | 175k | 10 | 14 | 16 |
-| 5 | \ | 360k | 16 | 16 | 18 |
+| 5 | 26 秒 | 360k | 16 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>新增 5 级蔓生法术。</TimelineRow>
+        <TimelineRow>2 级蔓生法术的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>3 ~ 4 级蔓生法术的升级时间减少。</TimelineRow>
     </TimelineItem>

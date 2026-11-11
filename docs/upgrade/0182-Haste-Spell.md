@@ -74,7 +74,7 @@ const tableExtraInfo = [
         <TimelineRow>法术的配置时间取消，但新增了捐赠费用。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/03/24">
-        <TimelineRow>2、4 ~ 4 级急速法术的升级时间减少。</TimelineRow>
+        <TimelineRow>2 ~ 4 级急速法术的升级时间减少。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/02/10">
         <TimelineRow>17 本新增 6 级急速法术。</TimelineRow>
