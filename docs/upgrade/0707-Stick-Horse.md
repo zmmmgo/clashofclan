@@ -14,7 +14,7 @@ canonical: /upgrade/0707-Stick-Horse
 <SmallTitle>说明</SmallTitle>
 
 1. 木棍马驹是 [野蛮人之王](/upgrade/0200-Barbarian-King) 的第四件史诗装备，它在 2026 年 2 月的智慧勇士活动中首次开放购买。
-2. 带上木棍马驹装备后，野蛮人之王**可直接跃过城墙**，且移动速度与攻击速度加快、伤害和生命值提高。这些加成与蛮王是否开启技能无关。
+2. 带上木棍马驹装备后，野蛮人之王在整场战斗中均**可直接跃过城墙**，并获得被动的伤害和生命值加成。在部署（下兵）后的数秒内（持续时间见下方表格），蛮王还会额外获得移动速度与攻击速度加成。这些效果均与蛮王是否开启主动技能无关。
 
 <SmallTitle>属性</SmallTitle>
 
@@ -99,6 +99,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/02/23">
+        <TimelineRow>修复了野蛮人之王进入弹跳法术范围后，木棍马驹的跳墙能力失效的漏洞。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/09">
         <TimelineRow>新装备：木棍马驹。</TimelineRow>
     </TimelineItem>

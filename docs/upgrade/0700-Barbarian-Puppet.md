@@ -103,10 +103,11 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2025/02/10">
-        <TimelineRow>所有等级野蛮人木偶的每秒伤害增加值和开启技能后生命值恢复加成提高。</TimelineRow>
+        <TimelineRow>所有等级野蛮人木偶提供的英雄生命值增加值和开启技能后生命值恢复加成提高 10%。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2024/09/09">
         <TimelineRow>野蛮人被召唤出来后，其狂暴时间由 10 秒增加到 20 秒。</TimelineRow>
+        <TimelineRow>提高了召唤速率，改为每 0.5 秒召唤 5 个野蛮人。</TimelineRow>
         <TimelineRow>13 - 18 级野蛮人木偶装备可以给英雄加更多生命值。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2023/12/12">
