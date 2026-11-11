@@ -79,12 +79,16 @@ const tableExtraInfo = [
 |   3  |     1    |    10   |  4100  |    5M  |     4     |     10      |    13     |
 |   4  |     1    |    11   |  4500  |    8M  |     7     |     11      |    13     |
 |   5  |     2    |    11   |  4800  |   18M  |    12     |     14      |    16     |
+|   6  |     2    |    12   |  5100  |   27M  |    15     |     16      |    18     |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 6 级攻城训练营。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>攻城机器的建造时间被取消。</TimelineRow>
     </TimelineItem>

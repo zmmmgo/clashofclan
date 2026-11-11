@@ -87,6 +87,12 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 6 级攻城钻机。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/01/12">
+        <TimelineRow>所有等级攻城钻机的生命值增加。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>5 级攻城钻机的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>
