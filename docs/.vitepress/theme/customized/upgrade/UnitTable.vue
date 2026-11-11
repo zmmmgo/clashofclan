@@ -45,8 +45,8 @@ function setTbodyValue(targetTd, targetValue, item) {
     const type = item.type;
     const noGoldPass = item.noGoldPass;
 
-    // 如果 type 为空，或者单元格内是一个反斜杠，说明不需要任何操作
-    if (!type || targetValue === "\\") {
+    // 如果 type 为空，或者单元格内是一个反斜杠（且不是 dailyCost 或 exp 这种需要根据其他列自动计算的类型），说明不需要任何操作
+    if (!type || (targetValue === "\\" && type !== "dailyCost" && type !== "exp")) {
         return;
     }
 
