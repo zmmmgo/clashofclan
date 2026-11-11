@@ -46,7 +46,7 @@ canonical: /upgrade/2211-Raid-Cart-Post
 <UnitProperties>
     <UnitProperty pKey="占地面积" pValue="3×3" />
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
-    <UnitProperty pKey="守家兵种" pValue="<a href='/upgrade/2009-Raid-Cart'>突袭炮车</a>" />
+    <UnitProperty pKey="守家兵种" pValue="<a href='/upgrade/20c3-Siege-Cart'>攻城炮车</a>" />
     <UnitProperty pKey="兵种数量" pValue="1" />
 </UnitProperties>
 

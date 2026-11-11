@@ -53,6 +53,7 @@ if (activeTabCookieValue === "capital-buildings") {
         <ListItem name="野蛮人" imgSrc="20c0/Barbarian_thumb.png" link="20c0-Barbarian" :lazyLoading="false" />
         <ListItem name="骷髅" imgSrc="20c1/Skeleton_thumb.png" link="20c1-Skeleton" :lazyLoading="false" />
         <ListItem name="骷髅飞骑" imgSrc="2008/Skeleton_Glider_thumb.png" link="20c2-Skeleton-Glider" :lazyLoading="false" />
+        <ListItem name="攻城炮车" imgSrc="2009/Cannon_Cart1.png" link="20c3-Siege-Cart" :lazyLoading="false" />
     </ListItems>
     <ListItems title="法术" imgFolder="capital_tech">
         <ListItem name="疗伤法术" imgSrc="2100/Healing_Spell_thumb.png" link="2100-Healing-Spell" :lazyLoading="false" />

@@ -9,6 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Raid_Cart
 canonical: /upgrade/2009-Raid-Cart
 ---
 
+- *如想查看攻城炮车的独立升级数据，请访问：[攻城炮车](/upgrade/20c3-Siege-Cart)。*
 - *如想查看夜世界的加农炮战车，请访问：[夜世界加农炮战车](/upgrade/1006-Cannon-Cart)。*
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Raid_Cart_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
@@ -24,8 +25,8 @@ canonical: /upgrade/2009-Raid-Cart
 <SmallTitle>重要说明</SmallTitle>
 
 1. 突袭炮车的解锁条件是建造 [突袭炮车训练营](/upgrade/2349-Raid-Cart-Barracks)，而这需要部落解锁建筑工人工坊，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 5 级。
-2. 攻城炮车类似于夜世界的 [加农炮战车](/upgrade/1006-Cannon-Cart)，只不过血量更高，攻速更慢。
-3. 加农炮战车还可以作为防守部队驻扎在 [突袭炮车岗哨](/upgrade/2211-Raid-Cart-Post) 附近。
+2. [攻城炮车](/upgrade/20c3-Siege-Cart) 类似于夜世界的 [加农炮战车](/upgrade/1006-Cannon-Cart)，只不过血量更高，攻速更慢。
+3. 加农炮战车（攻城炮车）还可以作为防守部队驻扎在 [突袭炮车岗哨](/upgrade/2211-Raid-Cart-Post) 附近。
 4. 加农炮战车的技能（奋战到底）：被摧毁后获得一些临时生命值。
 5. 突袭炮车在部署之前是一个整体，你不能把攻城炮车和 [野蛮人](/upgrade/20c0-Barbarian) 分开部署。
 
@@ -44,8 +45,8 @@ canonical: /upgrade/2009-Raid-Cart
     <UnitProperty pKey="部队类型" pValue="地面远程单位" />
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
-    <UnitProperty pKey="移动速度" pValue="1.1 格/秒" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
+    <UnitProperty pKey="移动速度" pValue="1.125 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="2.5 秒/次" />
     <UnitProperty pKey="首次进攻时机" pValue="到达目标后 1.8 秒" />
     <UnitProperty pKey="攻击距离" pValue="4.5 格" />
@@ -57,11 +58,11 @@ canonical: /upgrade/2009-Raid-Cart
 
 | 等级 | 每秒伤害 | 每次伤害 | 奋战到底技能的额外生命值 | 生命值 |
 | ---- |  ----   |  ----   |          ----          |  ---- |
-| 1 | 240 | 600 | 2800 | 2800 |
-| 2 | 280 | 700 | 3100 | 3100 |
-| 3 | 320 | 800 | 3400 | 3400 |
-| 4 | 360 | 900 | 3700 | 3700 |
-| 5 | 400 | 1,000 | 4000 | 4000 |
+| 1 | 240 | 600 | 1200 | 2800 |
+| 2 | 280 | 700 | 1400 | 3100 |
+| 3 | 320 | 800 | 1600 | 3400 |
+| 4 | 360 | 900 | 1800 | 3700 |
+| 5 | 400 | 1000 | 2000 | 4000 |
 
 </UnitTable>
 
