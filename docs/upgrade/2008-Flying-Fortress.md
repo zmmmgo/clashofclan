@@ -32,7 +32,7 @@ canonical: /upgrade/2008-Flying-Fortress
 <SmallTitle>重要说明</SmallTitle>
 
 1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 5 级。
-2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成骷髅飞骑，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
+2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成 [骷髅飞骑](/upgrade/20c2-Skeleton-Glider)，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
 
 <SmallTitle>飞行堡垒的属性</SmallTitle>
 
@@ -77,7 +77,7 @@ canonical: /upgrade/2008-Flying-Fortress
 <SmallTitle>重要说明</SmallTitle>
 
 1. 飞行堡垒的解锁条件是建造 [飞行堡垒工坊](/upgrade/2348-Flying-Fortress-Yard)，而这需要气球环礁这个子城升到 2 本，并且 [都城大本营](/upgrade/2400-Capital-Hall) 达到 5 级。
-2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成骷髅飞骑，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
+2. 飞行堡垒的技能（空降骷髅）：受到伤害后生成 [骷髅飞骑](/upgrade/20c2-Skeleton-Glider)，骷髅飞骑死亡后生成大量 [骷髅](/upgrade/20c1-Skeleton)。
 
 <SmallTitle>骷髅飞骑的属性</SmallTitle>
 

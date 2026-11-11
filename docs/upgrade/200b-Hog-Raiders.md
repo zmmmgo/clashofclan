@@ -11,7 +11,7 @@ canonical: /upgrade/200b-Hog-Raiders
 
 - *如想查看家乡的野猪骑士，请访问：[野猪骑士](/upgrade/0081-Hog-Rider)。*
 - *如想查看夜世界的野猪飞骑，请访问：[夜世界野猪飞骑](/upgrade/100a-Hog-Glider)。*
-- *如想查看飞行堡垒的派生兵种骷髅飞骑，请访问该页面后切换到骷髅飞骑：[都城骷髅飞骑](/upgrade/2008-Flying-Fortress)。*
+- *如想查看飞行堡垒的派生兵种骷髅飞骑，请访问：[都城骷髅飞骑](/upgrade/20c2-Skeleton-Glider)。*
 
 <SwitchTabs contentClass="cp-unit-items" :stickyTabs="true" :pageTabs="true">
     <SwitchTab tabId="cp-unit-item-0" :activeTab="true">野猪突袭队</SwitchTab>
