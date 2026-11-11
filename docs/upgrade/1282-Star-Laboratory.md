@@ -40,11 +40,15 @@ canonical: /upgrade/1282-Star-Laboratory
     <BuildingNumRow title="第二区域的建筑数量上限" num="\, 0" />
 </BuildingNum>
 
+<SmallTitle>重要说明</SmallTitle>
+
+1. 1 级星空实验室在废墟状态下存在于村庄中，在升级至 2 级夜世界大本营时自动修复。
+
 <SmallTitle>属性</SmallTitle>
 
 <UnitProperties>
-    <UnitProperty pKey="占地面积" pValue="3×3" />
-    <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />  
+    <UnitProperty pKey="占地面积" pValue="4×4" />
+    <UnitProperty pKey="判定面积" pValue="3×3" :isJudgeSquare="true" />  
 </UnitProperties>
 
 <SmallTitle>升级数据</SmallTitle>
@@ -74,16 +78,16 @@ const tableExtraInfo = [
 
 | 等级 |  生命值 | 升级费用 | 升级时间 | 升级后可<br>获得的经验| 所需夜世界<br>大本营等级 |
 |  --- |   ---  |    ---  |   ---   |         ---          |          ---           |
-| 1 | 650 | 1k | \ | \ | 1 |
-| 2 | 800 | 15k | 0, 0, 10 | \ | 2 |
-| 3 | 975 | 50k | 0, 0, 30 | \ | 3 |
-| 4 | 1150 | 300k | 0, 8 | \ | 4 |
-| 5 | 1350 | 700k | 0, 12 | \ | 5 |
-| 6 | 1600 | 1M | 2 | \ | 6 |
-| 7 | 1850 | 2M | 4 | \ | 7 |
-| 8 | 2150 | 3M | 6 | \ | 8 |
-| 9 | 2450 | 4M | 8 | \ | 9 |
-| 10 | 2750 | 5M | 10 | \ | 10 |
+| 1 | 650 | 1k | \ | \ | 2 |
+| 2 | 800 | 15k | 0, 0, 10 | 24 | 2 |
+| 3 | 975 | 50k | 0, 0, 30 | 42 | 3 |
+| 4 | 1150 | 300k | 0, 8 | 169 | 4 |
+| 5 | 1350 | 700k | 0, 12 | 207 | 5 |
+| 6 | 1600 | 1M | 2 | 415 | 6 |
+| 7 | 1850 | 2M | 4 | 587 | 7 |
+| 8 | 2150 | 3M | 6 | 720 | 8 |
+| 9 | 2450 | 4M | 8 | 831 | 9 |
+| 10 | 2750 | 5M | 10 | 929 | 10 |
 
 </UnitTable>
 

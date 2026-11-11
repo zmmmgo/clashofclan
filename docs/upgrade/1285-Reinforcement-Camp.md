@@ -17,7 +17,7 @@ canonical: /upgrade/1285-Reinforcement-Camp
 
 <BuildingNum>
     <BuildingNumRow title="大本等级" num="1 - 5, 6 - 8, 9 - 10" />
-    <BuildingNumRow title="建筑数量" num="0, 1, 2" />
+    <BuildingNumRow title="合计" num="0, 1, 2" />
     <BuildingNumRow title="第一区域的建筑数量上限" num="\, 0, 0" />
     <BuildingNumRow title="第二区域的建筑数量上限" num="\, 1, 2" />
 </BuildingNum>
@@ -55,10 +55,10 @@ const tableExtraInfo = [
 
 <UnitTable :tableExtraInfo="tableExtraInfo">
 
-| 第几个预备营 | 升级花费 | 升级时间 | 升级后可获<br>得的经验 |
-|    ----     |    ---  |   ---   |          ---          |
-| 1 | \ | \ | \ |
-| 2 | 4M | 10 | \ |
+| 第几个预备营 | 建造花费 | 建造时间 | 建造后可获<br>得的经验 | 所需夜世界<br>大本营等级 |
+|    ----     |    ---  |   ---   |          ---          |           ---         |
+| 1 | \ | \ | \ | 6 |
+| 2 | 4M | 10 | 929 | 9 |
 
 </UnitTable>
 
@@ -66,7 +66,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/05/15">    
-        <TimelineRow>夜世界重做，现在 6 本可解锁新建筑：预备营。</TimelineRow>
+        <TimelineRow>夜世界重做，现在可解锁新建筑：预备营。达到 6 本自动获得第 1 个预备营，9 本可建造第 2 个预备营。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />
 </Timeline>
