@@ -33,15 +33,16 @@ const hasAdditionalSource = !isAbsolute && getConvertWebpInfo(imgExtension);
 
 const localOriginal = "/images/upgrade/" + props.folder + "/" + props.imgSrc;
 const localWebp = replaceFileExtension(localOriginal, ".webp");
+const isKnownLocal = ["008c", "0842", "0747", "07e5", "0906", "0907", "0908"].some(k => props.folder.includes(k) || props.imgSrc.includes(k));
 
-const imgSrcWebp = isAbsolute ? imgSrcOriginal : linkPrefix + replaceFileExtension(imgSrcOriginal, ".webp");
-const imgLinkOriginal = isAbsolute ? imgSrcOriginal : linkPrefix + imgSrcOriginal;
+const imgSrcWebp = isKnownLocal ? localWebp : (isAbsolute ? imgSrcOriginal : linkPrefix + replaceFileExtension(imgSrcOriginal, ".webp"));
+const imgLinkOriginal = isKnownLocal ? localOriginal : (isAbsolute ? imgSrcOriginal : linkPrefix + imgSrcOriginal);
 
 const currentWebp = ref(imgSrcWebp);
 const currentSrc = ref(imgLinkOriginal);
 
 onMounted(() => {
-    if (!isAbsolute) {
+    if (!isAbsolute && !isKnownLocal) {
         const testImg = new Image();
         testImg.referrerPolicy = "no-referrer";
         testImg.src = imgLinkOriginal;

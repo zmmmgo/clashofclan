@@ -55,6 +55,15 @@ onMounted(() => {
     const folder = refDom.parentNode.getAttribute("data-folder");
     const localOriginal = "/images/upgrade/" + folder + "/" + imgSrcOriginal;
     const localWebp = replaceFileExtension(localOriginal, ".webp");
+    const isKnownLocal = ["008c", "0842", "0747", "07e5", "0906", "0907", "0908"].some(k => props.link.includes(k) || props.imgSrc.includes(k));
+
+    if (isKnownLocal) {
+        if (hasAdditionalSource) {
+            pictureDom.querySelector("source")?.setAttribute("srcset", localWebp);
+        }
+        pictureDom.querySelector("img")?.setAttribute("src", localOriginal);
+        return;
+    }
 
     const testImg = new Image();
     testImg.referrerPolicy = "no-referrer";
