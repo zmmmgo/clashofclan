@@ -29,6 +29,7 @@ canonical: /upgrade/0203-Royal-Champion
     <UnitProperty pKey="移动速度" pValue="3 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="1.2 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="3 格" />
+    <UnitProperty pKey="所需英雄殿堂等级" pValue="7" />
     <UnitProperty pKey="所需大本等级" pValue="13" />
     <UnitProperty pKey="搜索半径" pValue="10 格<sup>①</sup>" />
     <UnitProperty pKey="巡逻半径" pValue="3 格<sup>②</sup>" />
@@ -62,8 +63,8 @@ const tableExtraInfo = [
 
 <UnitTable :tableExtraInfo="tableExtraInfo">
 
-| 等级 |每秒伤害|每次伤害|生命值 |升级费用|升级时间|日均消耗|所需英雄<br>殿堂等级|所需<br>大本等级|
-| ---  |  ---  |  ---  |  ---  |  ---  |  ---  |   ---  |       ---        |      ---      |
+| 等级 |每秒伤害|每次伤害|生命值 |升级费用|升级时间|日均消耗|所需英雄<br>殿堂等级|技能回血|
+| ---  |  ---  |  ---  |  ---  |  ---  |  ---  |   ---  |       ---        |   ---  |
 | 1 | 340 | 408 | 2508 | 0 | 0 | \ | 7 | 400 |
 | 2 | 350 | 420 | 2550 | 10k | 0, 4 | \ | 7 | 400 |
 | 3 | 360 | 432 | 2593 | 15k | 0, 10 | \ | 7 | 400 |
