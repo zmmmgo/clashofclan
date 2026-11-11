@@ -67,12 +67,19 @@ canonical: /upgrade/0607-Super-Valkyrie
 |   9  |    325    |    357.5  |  2900 |     14    |
 |  10  |    350    |    385    |  3400 |     15    |
 |  11  |    375    |    412.5  |  3900 |     16    |
+| 12 | 405 | 445.5 | 4500 | 17 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 17 本新增 12 级瓦基丽武神，超级部队的等级也相应更新。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/01/12">
+        <TimelineRow>防守状态下的超级瓦基丽武神，死亡时掉落的狂暴法术可以作用于防御建筑。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>部队的训练时间取消，但增加了捐赠费用。</TimelineRow>
     </TimelineItem>

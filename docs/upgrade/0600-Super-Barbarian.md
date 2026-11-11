@@ -57,12 +57,16 @@ canonical: /upgrade/0600-Super-Barbarian
 |  10  |    220   |   176   |         374       |       299.2      |  1200  |     14    |
 |  11  |    240   |   192   |         408       |       326.4      |  1300  |     15    |
 |  12  |    250   |   200   |         425       |       340        |  1350  |     16    |
+| 13 | 270 | 216 | 459 | 367.2 | 1450 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 13 级野蛮人，超级部队的等级也相应更新。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>部队的训练时间取消，但增加了捐赠费用。</TimelineRow>
     </TimelineItem>

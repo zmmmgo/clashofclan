@@ -66,6 +66,7 @@ canonical: /upgrade/0610-Super-Yeti
 |      5      |   465   |   465   |          11          |  6200 |     15    |
 |      6      |   495   |   495   |          12          |  6600 |     16    |
 |      7      |   525   |   525   |          13          |  7000 |     17    |
+|      8      |   550   |   550   |          14          |  7400 |     18    |
 
 </UnitTable>
 
@@ -127,6 +128,7 @@ canonical: /upgrade/0610-Super-Yeti
 |      5      |    84   |         336         |  500  |     15    |
 |      6      |    88   |         352         |  550  |     16    |
 |      7      |    90   |         360         |  575  |     17    |
+|      8      |    92   |         368         |  590  |     18    |
 
 </UnitTable>
 
@@ -137,6 +139,9 @@ canonical: /upgrade/0610-Super-Yeti
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2025/11/17">
+        <TimelineRow>18 本推出，并在 18 本新增 8 级大雪怪，超级部队的等级也相应更新。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/05/12">
         <TimelineRow>超级大雪怪于 2025 年 5 月的“迷你大舞台”活动中正式推出，并作为永久兵种加入游戏。</TimelineRow>
         <TimelineRow>与之前相比，6 - 7 级超级大雪怪可分裂出的雷电小雪怪数量略微减少。</TimelineRow>

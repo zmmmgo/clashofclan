@@ -63,6 +63,7 @@ canonical: /upgrade/060b-Rocket-Balloon
 |      10       |    285    |   855   |    650   |  1040  |     14    |
 |      11       |    290    |   870   |    700   |  1140  |     16    |
 |      12       |    304    |   912   |    730   |  1240  |     17    |
+| 13 | 326 | 978 | 760 | 1360 | 18 |
 
 </UnitTable>
 
@@ -71,6 +72,9 @@ canonical: /upgrade/060b-Rocket-Balloon
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 13 级气球兵，超级部队的等级也相应更新。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/06/16">
         <TimelineRow>在 17 本新增 12 级气球兵，超级部队的等级也相应更新。</TimelineRow>
     </TimelineItem>

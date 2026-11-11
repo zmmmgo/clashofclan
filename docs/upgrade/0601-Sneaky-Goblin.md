@@ -55,12 +55,16 @@ canonical: /upgrade/0601-Sneaky-Goblin
 |   7  |    155   |   155   |          310         |   270 |     11    |
 |   8  |    170   |   170   |          340         |   320 |     12    |
 |   9  |    180   |   180   |          360         |   350 |     15    |
+| 10 | 190 | 190 | 380 | 380 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 10 级哥布林，超级部队的等级也相应更新。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>部队的训练时间取消，但增加了捐赠费用。</TimelineRow>
     </TimelineItem>

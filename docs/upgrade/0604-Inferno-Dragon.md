@@ -66,6 +66,9 @@ canonical: /upgrade/0604-Inferno-Dragon
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/05/26">
+        <TimelineRow>12 级地狱飞龙的初始伤害降低。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本新增 12 级飞龙宝宝，超级部队的等级也相应更新。</TimelineRow>
     </TimelineItem>
