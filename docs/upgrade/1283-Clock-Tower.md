@@ -41,8 +41,8 @@ canonical: /upgrade/1283-Clock-Tower
 <SmallTitle>属性</SmallTitle>
 
 <UnitProperties>
-    <UnitProperty pKey="占地面积" pValue="3×3" />
-    <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />  
+    <UnitProperty pKey="占地面积" pValue="4×4" />
+    <UnitProperty pKey="判定面积" pValue="3×3" :isJudgeSquare="true" />  
     <UnitProperty pKey="加速倍数" pValue="10" />
     <UnitProperty pKey="冷却时间" pValue="22 小时" />
 </UnitProperties>
@@ -104,7 +104,7 @@ const tableExtraInfo = [
     <TimelineItem date="2023/05/15">
         <TimelineRow>考虑到部队训练时间和战争机器恢复时间都被移除，更新后，时光钟楼将主要作用于加速建筑和资源生产，具体调整如下：</TimelineRow>
         <TimelineRow>时光钟楼的提速效果从原来的 8 倍提升至 10 倍；</TimelineRow>
-        <TimelineRow>时光钟楼提速时长从原来的 3 ~ 11 分钟对应提升至 14 ~ 30 分钟；</TimelineRow>
+        <TimelineRow>时光钟楼提速时长从原来的 3 ~ 11 分钟对应提升至 14 ~ 30 分钟（10 级为 32 分钟）；</TimelineRow>
         <TimelineRow>时光钟楼提速冷却时间从 7 小时延长至 22 小时；</TimelineRow>
         <TimelineRow>跳过时光钟楼提速冷却时间所需的宝石数量减少。</TimelineRow>
     </TimelineItem>
@@ -119,6 +119,7 @@ const tableExtraInfo = [
     </TimelineItem>
     <TimelineItem date="2017/06/27">
         <TimelineRow>新增 6 级时光钟楼。</TimelineRow>
+        <TimelineRow>时光钟楼的冷却时间从 8 小时缩短至 7 小时，加速时长减半（从 14 ~ 28 分钟缩短为 7 ~ 14 分钟），提速效果从 10 倍降低至 8 倍。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2017/05/22">
         <TimelineRow>建筑大师基地推出，时光钟楼最高可升至 5 级。</TimelineRow>
