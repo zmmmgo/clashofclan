@@ -5,12 +5,12 @@ shownTitle: "电击车"
 description: "电击车永远充满能量，随时做好防御准备！谁要敢来破坏哨站，它们会立马释放能量发动电击！"
 module: upgrade-bh
 imgFolder: bh_buildings/1241
-wiki: https://clashofclans.fandom.com/wiki/Zappy
+wiki: https://clashofclans.fandom.com/wiki/O.T.T.O%27s_Outpost/Zappy
 canonical: /upgrade/1241-Zappy
 ---
 
 - 如想查看夜世界的另一个大本营，请访问：[建筑大师大本营](/upgrade/1200-Builder-Hall)。
-- 如想查看奥仔哨站被摧毁后释放的电击车，请访问：[夜世界电击车](/upgrade/1241-Zappy)。
+- 如想查看释放电击车的奥仔哨站，请访问：[夜世界奥仔哨站](/upgrade/1240-O.T.T.O's-Outpost)。
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Zappy_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
@@ -32,6 +32,7 @@ canonical: /upgrade/1241-Zappy
 <UnitProperties>
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
+    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
     <UnitProperty pKey="移动速度" pValue="3 格/秒" />
     <UnitProperty pKey="攻速" pValue="1 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="3 格" />
