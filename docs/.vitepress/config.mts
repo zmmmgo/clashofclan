@@ -9,6 +9,7 @@ export default defineConfig({
     cleanUrls: true,
     ignoreDeadLinks: true,
     head: [
+        ["meta", { name: "google-site-verification", content: "9ERS3Fk3Y6q3_4KWhsQWII6RFD50gBkAuWzjOc6iYTo"}],
         ["meta", { name: "format-detection", content: "telephone=no"}],
         ["meta", { name: "referrer", content: "no-referrer"}],
         ["link", { rel: "icon", href: "https://static.clashpost.com/favicon.ico" }],
