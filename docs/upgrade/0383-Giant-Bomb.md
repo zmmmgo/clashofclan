@@ -22,7 +22,7 @@ canonical: /upgrade/0383-Giant-Bomb
         <UnitImg imgTitle="5 - 6 级" imgSrc="Giant_Bomb5.png" />
         <UnitImg imgTitle="7 - 8 级" imgSrc="Giant_Bomb7.png" />
         <UnitImg imgTitle="9 - 10 级" imgSrc="Giant_Bomb9.png" />
-        <UnitImg imgTitle="11 级" imgSrc="Giant_Bomb11.png" />
+        <UnitImg imgTitle="11 - 12 级" imgSrc="Giant_Bomb11.png" />
     </UnitImgGroup>
     <UnitImgGroup title="未重新布置" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 - 2 级" imgSrc="Giant_Bomb1_unarmed.png" />
@@ -30,7 +30,7 @@ canonical: /upgrade/0383-Giant-Bomb
         <UnitImg imgTitle="5 - 6 级" imgSrc="Giant_Bomb5_unarmed.png" />
         <UnitImg imgTitle="7 - 8 级" imgSrc="Giant_Bomb7_unarmed.png" />
         <UnitImg imgTitle="9 - 10 级" imgSrc="Giant_Bomb9_unarmed.png" />
-        <UnitImg imgTitle="11 级" imgSrc="Giant_Bomb11_unarmed.png" />
+        <UnitImg imgTitle="11 - 12 级" imgSrc="Giant_Bomb11_unarmed.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -89,13 +89,16 @@ const tableExtraInfo = [
 | 9 | 425 | 4 格 | 3.2M | 2 |  | 15 |
 | 10 | 450 | 4 格 | 5.5M | 2,12 |  | 16 |
 | 11 | 475 | 4 格 | 10M | 4 |  | 17 |
-| 12 | \ | \ | 17M | 10,12 |  | 18 |
+| 12 | 490 | 4.2 格 | 17M | 10,12 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 12 级巨型炸弹。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>11 级巨型炸弹的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>

@@ -33,8 +33,8 @@ canonical: /upgrade/0382-Air-Bomb
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 7, 8 - 9, 10 - 11, 12 - 13, 14 - 18" />
-    <BuildingNumRow title="建筑数量" num="    0,     2,     4,       5,       6,       7" />
+    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 7, 8 - 9, 10 - 11, 12 - 13, 14 - 17, 18" />
+    <BuildingNumRow title="建筑数量" num="    0,     2,     4,       5,       6,       7,  8" />
 </BuildingNum>
 
 <SmallTitle>属性</SmallTitle>
@@ -94,6 +94,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>18 本新解锁 1 个空中炸弹（共 8 个）。</TimelineRow>
+        <TimelineRow>7 ~ 8、10 ~ 12 级空中炸弹的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 13 级空中炸弹。</TimelineRow>
         <TimelineRow>12 级空中炸弹的升级时间和升级费用减少。</TimelineRow>
