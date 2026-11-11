@@ -28,7 +28,7 @@ canonical: /upgrade/10f1-Battle-Copter
     <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
     <UnitProperty pKey="移动速度" pValue="1.8 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="0.65 秒/次" />
-    <UnitProperty pKey="攻击距离" pValue="6.5 格" />
+    <UnitProperty pKey="攻击距离" pValue="7 格" />
     <UnitProperty pKey="解锁所需大本营等级" pValue="8" />
 </UnitProperties>
 
@@ -150,3 +150,12 @@ const tableExtraInfo = [
 |     5     |        35       |    655   |  1950  |
 </Table>
 </SwitchTabGroup>
+
+<SmallTitle>更新历史</SmallTitle>
+
+<Timeline>
+    <TimelineItem date="2023/05/15">
+        <TimelineRow>夜世界 2.0 推出，并在 8 本新增英雄：战斗直升机（最高 35 级，建造后直接为 15 级）。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem :historyBottom="true" />
+</Timeline>
