@@ -180,7 +180,7 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="寒冰猎犬" imgSrc="060a/Ice_Hound_thumb.png" link="060a-Ice-Hound" />
         <ListItem name="超级巨石投手" imgSrc="060c/Super_Bowler_thumb.png" link="060c-Super-Bowler" />
     </ListItems>
-    <ListItems title="法术" imgFolder="home_tech">
+    <ListItems title="圣水法术" imgFolder="home_tech">
         <ListItem name="雷电法术" imgSrc="0100/Lightning_Spell.png" link="0100-Lightning-Spell" />
         <ListItem name="疗伤法术" imgSrc="0101/Healing_Spell.png" link="0101-Healing-Spell" />
         <ListItem name="狂暴法术" imgSrc="0102/Rage_Spell.png" link="0102-Rage-Spell" />
@@ -190,7 +190,9 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="隐形法术" imgSrc="0106/Invisibility_Spell.png" link="0106-Invisibility-Spell" />
         <ListItem name="回溯法术" imgSrc="0107/Recall_Spell.png" link="0107-Recall-Spell" />
         <ListItem name="复苏法术" imgSrc="0108/Revive_Spell_thumb.png" link="0108-Revive-Spell" />
-        <ListItem name="图腾法术" imgSrc="0109/Totem_Spell_thumb.png" link="0109-Totem-Spell"/>
+        <ListItem name="图腾法术" imgSrc="0109/Totem_Spell_thumb.png" link="0109-Totem-Spell" />
+    </ListItems>
+    <ListItems title="黑油法术" imgFolder="home_tech">
         <ListItem name="毒药法术" imgSrc="0180/Poison_Spell.png" link="0180-Poison-Spell" />
         <ListItem name="地震法术" imgSrc="0181/Earthquake_Spell.png" link="0181-Earthquake-Spell" />
         <ListItem name="急速法术" imgSrc="0182/Haste_Spell.png" link="0182-Haste-Spell" />
