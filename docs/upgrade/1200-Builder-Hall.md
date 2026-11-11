@@ -2,8 +2,7 @@
 title: "部落冲突 coc 建筑大师大本营（夜世界大本营）升级数据"
 navTitle: "建筑大师大本营"
 shownTitle: "建筑大师大本营（夜世界大本营）"
-description: "建筑大师的家，战斗中的主要目标。在进攻中摧毁敌军的建筑大师大本营可获得一颗胜利之星。摧毁一个区域中 50% 的建筑可获得第二颗胜利之星，摧毁率达到 100% 可获得该区域的三颗胜利之星奖励。
-升级建筑大师大本营来解锁更高级的建筑和兵种！"
+description: "建筑大师的家，战斗中的主要目标。在进攻中摧毁敌军的建筑大师大本营可获得一颗胜利之星。摧毁一个区域中 50% 的建筑可获得第二颗胜利之星，摧毁率达到 100% 可获得该区域的三颗胜利之星奖励。\n升级建筑大师大本营来解锁更高级的建筑和兵种！"
 module: upgrade-bh
 imgFolder: bh_buildings/1200
 wiki: https://clashofclans.fandom.com/wiki/Builder_Hall
@@ -87,6 +86,8 @@ const tableExtraInfo = [
 
 </UnitTable>
 
+* 注：这里的建筑数量包含大本营本身以及 6 本解锁的 [奥仔哨站](/upgrade/1240-O.T.T.O's-Outpost)，但不包含城墙。
+
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
@@ -97,6 +98,18 @@ const tableExtraInfo = [
     </TimelineItem>
     <TimelineItem date="2019/06/18">
         <TimelineRow>新增 9 级建筑大师大本营。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2018/03/05">
+        <TimelineRow>新增 8 级建筑大师大本营。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2017/09/27">
+        <TimelineRow>新增 7 级建筑大师大本营。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2017/06/27">
+        <TimelineRow>新增 6 级建筑大师大本营。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2017/05/22">
+        <TimelineRow>建筑大师基地（夜世界）推出，建筑大师大本营最高可升至 5 级。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />
 </Timeline>
