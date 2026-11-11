@@ -9,6 +9,8 @@ wiki: https://clashofclans.fandom.com/wiki/Skeleton/Clan_Capital
 canonical: /upgrade/20c1-Skeleton
 ---
 
+- *如想查看家乡由女巫或骷髅法术召唤的骷髅，请访问：[女巫](/upgrade/0084-Witch) 或 [骷髅法术](/upgrade/0183-Skeleton-Spell)。*
+
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Skeleton_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <Panel>
