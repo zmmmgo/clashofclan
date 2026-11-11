@@ -64,7 +64,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 
 <BuildingNum>
     <BuildingNumRow title="大本等级" num="1, 2 - 3, 4 - 5, 6 - 10" />
-    <BuildingNumRow title="建筑数量" num="0,     2,     2,      3" />
+    <BuildingNumRow title="建筑数量" num="0,     1,     2,      3" />
 </BuildingNum>
 
 <SmallTitle>属性</SmallTitle>
@@ -84,7 +84,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 
 | 等级 | 每秒伤害 | 每次伤害 | 生命值 | 升级费用 | 升级时间 |升级后可<br>获得的经验|所需夜世界<br>大本等级|
 |  --- |   ---   |   ---   |  ---   |   ---   |    ---  |         ---         |         ---        |
-| 1 | 40 | 40 | 500 | 12k | 0, 0, 5 | \ | 1 |
+| 1 | 40 | 40 | 500 | 12k | 0, 0, 5 | \ | 2 |
 | 2 | 44 | 44 | 575 | 30k | 0, 0, 15 | \ | 2 |
 | 3 | 48 | 48 | 660 | 60k | 0, 2 | \ | 3 |
 | 4 | 53 | 53 | 760 | 250k | 0, 8 | \ | 4 |
@@ -124,7 +124,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 
 <BuildingNum>
     <BuildingNumRow title="大本等级" num="1, 2 - 3, 4 - 5, 6 - 10" />
-    <BuildingNumRow title="建筑数量" num="0,     2,     2,      3" />
+    <BuildingNumRow title="建筑数量" num="0,     1,     2,      3" />
 </BuildingNum>
 
 <SmallTitle>属性</SmallTitle>
@@ -144,7 +144,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 
 | 等级 | 每秒伤害 | 每次伤害 | 生命值 | 升级费用 | 升级时间 |升级后可<br>获得的经验|所需夜世界<br>大本等级|
 |  --- |   ---   |   ---   |  ---   |   ---   |    ---  |         ---         |         ---        |
-| 1 | 89 | 40? | 500 | 12k | 0, 0, 5 | \ | 1 |
+| 1 | 89 | 40? | 500 | 12k | 0, 0, 5 | \ | 2 |
 | 2 | 98 | 44? | 575 | 30k | 0, 0, 15 | \ | 2 |
 | 3 | 107 | 48? | 660 | 60k | 0, 2 | \ | 3 |
 | 4 | 118 | 53? | 760 | 250k | 0, 8 | \ | 4 |
