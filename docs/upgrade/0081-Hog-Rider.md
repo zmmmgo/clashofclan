@@ -95,6 +95,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/10/20">
+        <TimelineRow>8 ~ 15 级野猪骑士的生命值提升。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本新增 15 级野猪骑士。</TimelineRow>
     </TimelineItem>

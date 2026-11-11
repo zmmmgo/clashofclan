@@ -48,7 +48,7 @@ canonical: /upgrade/0080-Minion
     <UnitProperty pKey="占据人口" pValue="2" />
     <UnitProperty pKey="移动速度" pValue="4 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="1 秒/次" />
-    <UnitProperty pKey="攻击距离" pValue="2.25 格" />
+    <UnitProperty pKey="攻击距离" pValue="2.75 格" />
     <UnitProperty pKey="所需暗黑训练营等级" pValue="1" />
     <UnitProperty pKey="所需大本等级" pValue="7" />
     <UnitProperty pKey="训练时间" pValue="无" trainingSystem="2025" />

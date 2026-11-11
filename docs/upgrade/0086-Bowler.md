@@ -88,6 +88,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>10 级巨石投手的每秒伤害和生命值增加。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 10 级巨石投手。</TimelineRow>
         <TimelineRow>9 级巨石投手的升级时间和升级费用减少。</TimelineRow>

@@ -26,6 +26,7 @@ canonical: /upgrade/008a-Druid
         <UnitImg imgTitle="1 - 2 级" imgSrc="Druid1.png" />
         <UnitImg imgTitle="3 - 4 级" imgSrc="Druid3.png" />
         <UnitImg imgTitle="5 级" imgSrc="Druid5.png" imgHd="Druid5_hd.png" />
+        <UnitImg imgTitle="6 级" imgSrc="Druid6.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -50,7 +51,7 @@ canonical: /upgrade/008a-Druid
     <UnitProperty pKey="部队类型" pValue="地面辅助单位" />
     <UnitProperty pKey="治疗偏好" pValue="无" />
     <UnitProperty pKey="治疗类型" pValue="链式治疗" />
-    <UnitProperty pKey="目标数量上限" pValue="3" />
+    <UnitProperty pKey="目标数量上限" pValue="4" />
     <UnitProperty pKey="治疗的目标" pValue="地面和空中目标" />
     <UnitProperty pKey="占据人口" pValue="16" />
     <UnitProperty pKey="移动速度" pValue="3 格/秒" />
@@ -88,8 +89,8 @@ const tableExtraInfo = [
 | 2 | 85 | 85 | 1400 | 125k | 8 | 12 | 14 |
 | 3 | 90 | 90 | 1500 | 175k | 9 | 13 | 15 |
 | 4 | 95 | 95 | 1600 | 187.5k | 11 | 14 | 16 |
-| 5 | 100 | 100 | 1700 | 300k | 12 | 15 | 17 |
-| 6 | \ | \ | 1850 | 380k | 15,12 | 16 | 18 |
+| 5 | 105 | 105 | 1700 | 300k | 12 | 15 | 17 |
+| 6 | 115 | 115 | 1850 | 380k | 15,12 | 16 | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -106,6 +107,7 @@ const tableExtraInfo = [
         <UnitImg imgTitle="1 - 2 级" imgSrc="Bear1.png" />
         <UnitImg imgTitle="3 - 4 级" imgSrc="Bear3.png" />
         <UnitImg imgTitle="5 级" imgSrc="Bear5.png" imgHd="Bear5_hd.png" />
+        <UnitImg imgTitle="6 级" imgSrc="Bear6.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -149,6 +151,7 @@ const tableExtraInfo = [
 |   3  |   170   |   170   |  2100  |
 |   4  |   185   |   185   |  2300  |
 |   5  |   205   |   205   |  2500  |
+|   6  |   225   |   225   |  2750  |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -157,6 +160,13 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/07/14">
+        <TimelineRow>5 ~ 6 级德鲁伊在人类形态下的治疗量增加。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 6 级德鲁伊及对应等级的巨熊。</TimelineRow>
+        <TimelineRow>2 ~ 3 级德鲁伊的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/12">
         <TimelineRow>德鲁伊在人类形态下最多可存活的时间由 25 秒增加至 30 秒。</TimelineRow>
         <TimelineRow>所有等级德鲁伊在人类形态下的治疗量增加。</TimelineRow>

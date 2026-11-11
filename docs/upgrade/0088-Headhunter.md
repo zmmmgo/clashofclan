@@ -18,6 +18,7 @@ canonical: /upgrade/0088-Headhunter
         <UnitImg imgTitle="1 级" imgSrc="Headhunter1.png" />
         <UnitImg imgTitle="2 级" imgSrc="Headhunter2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Headhunter3.png" />
+        <UnitImg imgTitle="4 级" imgSrc="Headhunter4.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -67,10 +68,10 @@ const tableExtraInfo = [
 
 | 等级 |  每秒伤害 | 每次伤害 |每秒伤害<br>(对英雄)|每次伤害<br>(对英雄)|毒药法术<br>效果<sup>*</sup>| 生命值 | 升级花费| 升级时间 |所需<br>实验室等级|所需<br>大本等级|
 | ---- |   ----   |   ----  |        ---        |        ---        |            ----           |  ---- |  ----  |   ----   |       ----     |      ----     |
-| 1 | 105 | 63 | 105 | 63 | 40%/55% | 360 | \ | \ | N/A | 12 |
-| 2 | 115 | 69 | 115 | 69 | 42%/60% | 400 | 57.5k | 5 | 10 | 12 |
-| 3 | 125 | 75 | 125 | 75 | 44%/65% | 440 | 90k | 7 | 11 | 13 |
-| 4 | 135 | 81 | 135 | 81 | \ | 500 | 370k | 15,12 | 16 | 18 |
+| 1 | 105 | 63 | 420 | 252 | 40%/55% | 360 | \ | \ | N/A | 12 |
+| 2 | 115 | 69 | 460 | 276 | 42%/60% | 400 | 57.5k | 5 | 10 | 12 |
+| 3 | 125 | 75 | 500 | 300 | 44%/65% | 440 | 90k | 7 | 11 | 13 |
+| 4 | 135 | 81 | 540 | 324 | 46%/68% | 500 | 370k | 15,12 | 16 | 18 |
 
 </UnitTable>
 
@@ -79,6 +80,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 4 级英雄猎手。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>部队的训练时间取消，但增加了捐赠费用。</TimelineRow>
     </TimelineItem>

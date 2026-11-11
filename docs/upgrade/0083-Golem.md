@@ -173,6 +173,7 @@ const tableExtraInfo = [
 |  12  |     18   |    54   |     180     |  1760  |
 |  13  |     19   |    57   |     190     |  1840  |
 |  14  |     20   |    60   |     200     |  1920  |
+|  15  |     22   |    66   |     210     |  2040  |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -181,6 +182,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 15 级戈仑石人及对应等级的小戈仑石人。</TimelineRow>
+        <TimelineRow>13 级戈仑石人的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>14 级戈仑石人的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>

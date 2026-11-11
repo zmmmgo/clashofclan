@@ -26,6 +26,7 @@ canonical: /upgrade/0082-Valkyrie
         <UnitImg imgTitle="9 级" imgSrc="Valkyrie9.png" />
         <UnitImg imgTitle="10 级" imgSrc="Valkyrie10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Valkyrie11.png" />
+        <UnitImg imgTitle="12 级" imgSrc="Valkyrie12.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -88,6 +89,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 17 本新增 12 级瓦基丽武神。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>5 ~ 11 级瓦基丽武神的升级时间减少。</TimelineRow>
     </TimelineItem>
