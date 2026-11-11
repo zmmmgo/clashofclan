@@ -87,6 +87,16 @@ const tableExtraInfo = [
 
 注意：如果升级费用中有多种资源，则同时需要多种资源才能升级。
 
+<SmallTitle>推出记录</SmallTitle>
+
+<UnitTable>
+
+| 推出时间 |    活动名称    |     价格       | 购买渠道 |
+|   ---   |      ---      |      ---      |    ---   |
+| 2026/04 | 冲突之声活动   | 3 100 金属奖章 |   商人   |
+
+</UnitTable>
+
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
@@ -99,4 +109,5 @@ const tableExtraInfo = [
     <TimelineItem date="2026/03/19">
         <TimelineRow>正式上线前的数据调整：24 ~ 26 级技能伤害由 2125 降低至 2050，27 级由 2325 降低至 2200。</TimelineRow>
     </TimelineItem>
+    <TimelineItem :historyBottom="true" />
 </Timeline>

@@ -95,6 +95,16 @@ const tableExtraInfo = [
 
 注：如果升级费用中有多种资源，则同时需要多种资源才能升级。
 
+<SmallTitle>推出记录</SmallTitle>
+
+<UnitTable>
+
+| 推出时间 |     活动名称    |     价格       | 购买渠道 |
+|   ---   |       ---       |      ---      |    ---   |
+| 2026/08 | 酷炫奖章活动    | 3 100 任务奖章 |   商人   |
+
+</UnitTable>
+
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
@@ -110,4 +120,5 @@ const tableExtraInfo = [
     <TimelineItem date="2026/06/16">
         <TimelineRow>反击卡组的数据首次加入游戏文件。</TimelineRow>
     </TimelineItem>
+    <TimelineItem :historyBottom="true" />
 </Timeline>
