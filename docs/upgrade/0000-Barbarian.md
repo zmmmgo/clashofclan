@@ -41,7 +41,7 @@ canonical: /upgrade/0000-Barbarian
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
     <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
     <UnitProperty pKey="占据人口" pValue="1" />
-    <UnitProperty pKey="移动速度" pValue="2 格/秒" />
+    <UnitProperty pKey="移动速度" pValue="2.25 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="1 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="0.4 格" />
     <UnitProperty pKey="所需训练营等级" pValue="1" />
@@ -91,10 +91,15 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 13 级野蛮人。</TimelineRow>
+        <TimelineRow>12 级野蛮人的升级时间减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>9 ~ 12 级野蛮人的升级时间减少。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/06/16">
+        <TimelineRow>野蛮人的移动速度由 16 提升至 18（2 格/秒 → 2.25 格/秒）。</TimelineRow>
         <TimelineRow>1 ~ 3 级野蛮人的每秒伤害值提升。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/03/27">

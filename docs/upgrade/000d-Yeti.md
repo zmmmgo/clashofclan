@@ -83,8 +83,8 @@ const tableExtraInfo = [
 | 4 | 290 | 290 | 11 | 3700 | 10M | 7 | 12 | 14 |
 | 5 | 310 | 310 | 12 | 3900 | 12M | 7,12 | 13 | 15 |
 | 6 | 330 | 330 | 13 | 4100 | 14.5M | 8,6 | 14 | 16 |
-| 7 | 350 | 350 | 13 | 4300 | 17M | 10 | 15 | 17 |
-| 8 | 380 | 380 | \ | 4650 | 27.5M | 15,12 | 16 | 18 |
+| 7 | 350 | 350 | 14 | 4300 | 17M | 10 | 15 | 17 |
+| 8 | 380 | 380 | 14 | 4650 | 27.5M | 15,12 | 16 | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -147,6 +147,7 @@ const tableExtraInfo = [
 |    5    |   84   |          336         |            168          |          42          |   500  |
 |    6    |   88   |          352         |            176          |          44          |   550  |
 |    7    |   90   |          360         |            180          |          45          |   575  |
+|    8    |   92   |          368         |            184          |          46          |   590  |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -156,6 +157,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2025/11/17">
+        <TimelineRow>18 本推出，并在 18 本新增 8 级大雪怪及对应等级的小雪怪。</TimelineRow>
         <TimelineRow>7 级大雪怪的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/10/06">

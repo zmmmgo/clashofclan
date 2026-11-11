@@ -30,7 +30,7 @@ canonical: /upgrade/0011-Thrower
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
     <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
     <UnitProperty pKey="占据人口" pValue="16" />
-    <UnitProperty pKey="移动速度" pValue="2.25 格/秒" />
+    <UnitProperty pKey="移动速度" pValue="2 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="2.5 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="6 格" />
     <UnitProperty pKey="所需训练营等级" pValue="18" />
@@ -71,6 +71,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/09/22">
+        <TimelineRow>投石炮手的移动速度由 18 降低至 16（2.25 格/秒 → 2 格/秒）。</TimelineRow>
+        <TimelineRow>3 ~ 4 级投石炮手的伤害和生命值降低。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>4 级巨矛投手的每秒伤害和生命值减少（回滚到 2026/01 平衡性调整的数据）。</TimelineRow>
     </TimelineItem>

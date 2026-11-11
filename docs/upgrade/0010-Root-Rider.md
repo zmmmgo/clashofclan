@@ -68,13 +68,16 @@ const tableExtraInfo = [
 | 1 | 95 / 209 | 10 000 / 4 000 | 6200 | \ | \ | N/A | 15 |
 | 2 | 105 / 231 | 10 000 / 4 000 | 6350 | 15M | 8 | 13 | 15 |
 | 3 | 115 / 253 | 10 000 / 4 000 | 6500 | 17.6M | 10 | 14 | 16 |
-| 4 | \ | \ | 6700 | 30M | 16 | 16 | 18 |
+| 4 | 125 / 275 | 10 000 / 4 000 | 6700 | 30M | 16 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">
+        <TimelineRow>在 18 本新增 4 级根蔓骑士。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>2 ~ 3 级根蔓骑士的升级时间减少。</TimelineRow>
     </TimelineItem>

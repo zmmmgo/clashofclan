@@ -95,6 +95,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/10/20">
+        <TimelineRow>11 ~ 12 级掘地矿工的生命值提升。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 12 级掘地矿工。</TimelineRow>
         <TimelineRow>11 级掘地矿工的升级时间和升级费用减少。</TimelineRow>

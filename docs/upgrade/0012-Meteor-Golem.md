@@ -84,9 +84,9 @@ const tableExtraInfo = [
 
 | 等级 |  投掷伤害 | 生命值 | 升级花费|  升级时间  |所需实验室等级|所需大本等级|
 | ---- |   ----   |  ---- |    ---  |     ---   |     ---     |   ----    |
-| 1 | 450 | 15300 | \ | \ | N/A | 17 |
-| 2 | 500 | 16900 | 28M | 14 | 15 | 17 |
-| 3 | 550 | 18500 | 30M | 16 | 16 | 18 |
+| 1 | 480 | 15300 | \ | \ | N/A | 17 |
+| 2 | 530 | 16900 | 28M | 14 | 15 | 17 |
+| 3 | 580 | 18500 | 30M | 16 | 16 | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -126,9 +126,9 @@ const tableExtraInfo = [
 
 | 等级 | 每秒伤害 | 每次伤害 | 生命值 |
 | ---- |   ---   |   ---   |  ----  |
-|   1  |   180   |   270   |  6500  |
-|   2  |   200   |   300   |  7250  |
-|   3  |   220   |   330   |  8000  |
+|   1  |   190   |   285   |  7650  |
+|   2  |   210   |   315   |  8450  |
+|   3  |   230   |   345   |  9250  |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -136,6 +136,12 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/10/20">
+        <TimelineRow>所有等级陨石魔像和小陨石魔像的生命值提升。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2026/07/14">
+        <TimelineRow>所有等级陨石魔像和小陨石魔像的伤害提升，小陨石魔像的生命值提升。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>所有等级陨石戈仑和小陨石戈仑的生命值和伤害降低。</TimelineRow>
     </TimelineItem>

@@ -94,6 +94,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/07/14">
+        <TimelineRow>8 ~ 9 级雷电飞龙的伤害和生命值提升。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/12">
         <TimelineRow>1 ~ 9 级雷电飞龙的每秒伤害和生命值增加。</TimelineRow>
     </TimelineItem>
