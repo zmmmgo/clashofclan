@@ -78,7 +78,7 @@ onMounted(() => {
     <a class="cp-unit-card" :href="link" ref="unitLinkRef">
         <picture class="cp-unit-media">
             <source srcset="https://static.clashpost.com/global/image-placeholder.svg" type="image/webp" v-if="hasAdditionalSource" />
-            <img :loading="loadingValue" src="https://static.clashpost.com/global/image-placeholder.svg" alt="" />
+            <img :loading="loadingValue" referrerpolicy="no-referrer" src="https://static.clashpost.com/global/image-placeholder.svg" alt="" />
         </picture>
         <div class="cp-unit-text">{{ name }}</div>
     </a>

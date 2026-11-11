@@ -71,7 +71,7 @@ onMounted(() => {
         <div class="cp-unit-img-title">{{ props.imgTitle }}</div>
         <picture>
             <source srcset="" type="image/webp" v-if="hasAdditionalSource" />
-            <img loading="lazy" class="cp-unit-img" src="" alt="" />
+            <img loading="lazy" referrerpolicy="no-referrer" class="cp-unit-img" src="" alt="" />
         </picture>
     </div>
 </template>

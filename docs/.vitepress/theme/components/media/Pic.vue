@@ -103,7 +103,7 @@ const imgSrcWebp = computed(() => replaceFileExtension(imgSrcOriginal.value, ".w
     <figure class="cp-img-container" :style="figureStyle">
         <picture>
             <source :srcset="imgSrcWebp" type="image/webp" v-if="hasAdditionalSource" />
-            <img :loading="loadingValue" :src="imgSrcOriginal" :alt="props.alt" :width="props.width" :height="props.height" :style="imgStyle" />
+            <img :loading="loadingValue" referrerpolicy="no-referrer" :src="imgSrcOriginal" :alt="props.alt" :width="props.width" :height="props.height" :style="imgStyle" />
         </picture>
         <figcaption v-if="props.caption" v-html="props.caption"</figcaption>
     </figure>

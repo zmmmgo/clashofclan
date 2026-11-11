@@ -57,7 +57,7 @@ onMounted(() => {
     <div class="cp-unit-info">
         <picture :class="props.isSmallImg ? 'cp-unit-info-media cp-unit-info-media-sm' : 'cp-unit-info-media'">
             <source :srcset="currentWebp" type="image/webp" v-if="hasAdditionalSource" />
-            <img :src="currentSrc" :alt="props.imgAlt" />
+            <img referrerpolicy="no-referrer" :src="currentSrc" :alt="props.imgAlt" />
         </picture>
         <p v-if="props.description" v-html="props.description"></p>
     </div>

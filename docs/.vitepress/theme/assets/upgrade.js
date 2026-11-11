@@ -371,7 +371,7 @@ export function getResourceHTML(type) {
                 
                 resourceHtml += '<figure class="cp-img-container cp-img-resource-icon"><picture>' +
                     '<source srcset="' + imgSrcWithoutExtension + '.webp" type="image/webp" />' +
-                    '<img loading="lazy" src="' + imgSrc + '" alt="' + imgAlt + '" width="" height="" />' +
+                    '<img loading="lazy" referrerpolicy="no-referrer" src="' + imgSrc + '" alt="' + imgAlt + '" width="" height="" />' +
                     '</picture></figure>';
             }
         }
