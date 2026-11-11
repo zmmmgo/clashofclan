@@ -33,7 +33,7 @@ canonical: /upgrade/0489-Hero-Hall
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 6, 7 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 18" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
@@ -207,6 +207,11 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/05/26">
+        <TimelineRow>英雄殿堂的解锁大本由 7 本下调至 4 本。</TimelineRow>
+        <TimelineRow>1 级英雄殿堂的建造费用由 80 万减少到 3 万，建造时间由 1 天缩短至 1 小时。</TimelineRow>
+        <TimelineRow>1 ~ 3 级英雄殿堂的生命值降低。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 12 级英雄殿堂。</TimelineRow>
         <TimelineRow>11 级英雄殿堂的升级时间和升级费用减少。</TimelineRow>

@@ -9,7 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Workshop
 canonical: /upgrade/0486-Workshop
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Workshop8.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Workshop9.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -23,6 +23,7 @@ canonical: /upgrade/0486-Workshop
         <UnitImg imgTitle="6 级" imgSrc="Workshop6.png" />
         <UnitImg imgTitle="7 级" imgSrc="Workshop7.png" />
         <UnitImg imgTitle="8 级" imgSrc="Workshop8.png" />
+        <UnitImg imgTitle="9 级" imgSrc="Workshop9.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -75,13 +76,16 @@ const tableExtraInfo = [
 | 6 | 3 | 1500 | 10M | 5,12 |  | 14 | <a href="/upgrade/0245-Flame-Flinger">攻城烈焰车</a> |
 | 7 | 3 | 1600 | 11M | 6 |  | 15 | <a href="/upgrade/0246-Battle-Drill">攻城钻机</a> |
 | 8 | 3 | 1700 | 13M | 7 |  | 16 | <a href="/upgrade/0247-Troop-Launcher">部队发射器</a> |
-| 9 | \ | 1800 | 26M | 13,12 |  | 17 | \ |
+| 9 | 3 | 1800 | 26M | 13, 12 |  | 17 | <a href="/upgrade/0248-Sky-Wagon">空中战车</a> |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/04/27">  
+        <TimelineRow>17 本新增 9 级攻城机器工坊，新攻城机器：空中战车。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>3 ~ 8 级攻城机器工坊的升级时间减少。</TimelineRow>
     </TimelineItem>

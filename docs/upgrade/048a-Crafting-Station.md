@@ -14,13 +14,13 @@ canonical: /upgrade/048a-Crafting-Station
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 10, 11 - 18" />
     <BuildingNumRow title="建筑数量" num="     0,       1" />
 </BuildingNum>
 
 <SmallTitle>重要说明</SmallTitle>
 
-1. 精制台只在最高大本等级解锁（目前是 17 本）。
+1. 精制台在 11 本及以上大本等级解锁（此前仅在最高大本等级解锁）。
 2. 精制台有三种防御模式，你可以在这三种防御模式中自由切换。
 3. 建造精制台以及切换防御模式均无需花费时间和资源，也无需空闲的建筑工人。
 4. 精制台的防御模式本质上是不同的防御建筑，我们将这类建筑称为精工防御。
@@ -45,3 +45,18 @@ canonical: /upgrade/048a-Crafting-Station
 </UnitProperties>
 
 \* 只有当玩家没有选择精工防御时，精制台的生命值才是 1 000. 如果玩家已选择精工防御，则精制台的生命值等于精工防御的生命值。
+
+<SmallTitle>更新历史</SmallTitle>
+
+<Timeline>
+    <TimelineItem date="2026/08/01">
+        <TimelineRow>精制台在 11 本及以上大本营解锁。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2025/11/17">
+        <TimelineRow>18 本推出，精制台移至 18 本解锁，17 本不再可用。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem date="2025/06/16">
+        <TimelineRow>17 本推出新建筑：精制台。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem :historyBottom="true" />
+</Timeline>

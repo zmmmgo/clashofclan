@@ -278,13 +278,13 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="部落城堡" imgSrc="0407/Clan_Castle14.png" link="0407-Clan-Castle" />
     </ListItems>
     <ListItems title="军事建筑" imgFolder="home_buildings">
-        <ListItem name="兵营" imgSrc="0480/Army_Camp13.png" link="0480-Army-Camp" />
+        <ListItem name="兵营" imgSrc="0480/Army_Camp14.png" link="0480-Army-Camp" />
         <ListItem name="训练营" imgSrc="0481/Barracks19.png" link="0481-Barracks" />
-        <ListItem name="暗黑训练营" imgSrc="0482/Dark_Barracks12.png" link="0482-Dark-Barracks" />
+        <ListItem name="暗黑训练营" imgSrc="0482/Dark_Barracks13.png" link="0482-Dark-Barracks" />
         <ListItem name="实验室" imgSrc="0483/Laboratory16.png" link="0483-Laboratory" />
         <ListItem name="法术工厂" imgSrc="0484/Spell_Factory9.png" link="0484-Spell-Factory" />
-        <ListItem name="暗黑法术工厂" imgSrc="0485/Dark_Spell_Factory7.png" link="0485-Dark-Spell-Factory" />
-        <ListItem name="攻城机器工坊" imgSrc="0486/Workshop8.png" link="0486-Workshop" />
+        <ListItem name="暗黑法术工厂" imgSrc="0485/Dark_Spell_Factory8.png" link="0485-Dark-Spell-Factory" />
+        <ListItem name="攻城机器工坊" imgSrc="0486/Workshop9.png" link="0486-Workshop" />
         <ListItem name="战宠小屋" imgSrc="0487/Pet_House12.png" link="0487-Pet-House" />
         <ListItem name="铁匠铺" imgSrc="0488/Blacksmith9.png" link="0488-Blacksmith" />
         <ListItem name="英雄殿堂" imgSrc="0489/Hero_Hall12.png" link="0489-Hero-Hall" />

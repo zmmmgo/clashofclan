@@ -5,14 +5,14 @@ shownTitle: "兵营"
 description: "部队驻扎在兵营。建造并升级兵营以容纳更多部队。"
 module: upgrade-home
 imgFolder: home_buildings/0480
-wiki: https://clashofclans.fandom.com/wiki/Army_Camp
+wiki: https://clashofclans.fandom.com/wiki/Army_Camp/Home_Village
 canonical: /upgrade/0480-Army-Camp
 ---
 
 - *如想查看夜世界的兵营，请访问：[夜世界兵营](/upgrade/1281-Army-Camp)。*
 - *如想查看都城的兵营，请访问：[都城兵营](/upgrade/2300-Army-Camp)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Army_Camp13_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Army_Camp14.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -31,6 +31,7 @@ canonical: /upgrade/0480-Army-Camp
         <UnitImg imgTitle="11 级" imgSrc="Army_Camp11.png" />
         <UnitImg imgTitle="12 级" imgSrc="Army_Camp12.png" />
         <UnitImg imgTitle="13 级" imgSrc="Army_Camp13.png" imgHd="Army_Camp13_hd.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Army_Camp14.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -88,7 +89,7 @@ const tableExtraInfo = [
 | 11 | 75 | 800 | 7.5M | 5 |  | 13 |
 | 12 | 80 | 850 | 10M | 6 |  | 15 |
 | 13 | 85 | 900 | 17M | 7,12 |  | 17 |
-| 14 | \ | 950 | 26M | 15 |  | 18 |
+| 14 | 88 | 950 | 26M | 15 |  | 18 |
 
 </UnitTable>
 
@@ -96,6 +97,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2025/11/17">
+        <TimelineRow>在 18 本新增 14 级兵营。</TimelineRow>
         <TimelineRow>13 级兵营的升级时间和升级费用减少。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/10/06">

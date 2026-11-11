@@ -13,7 +13,7 @@ canonical: /upgrade/0482-Dark-Barracks
 - *如想查看夜世界的建筑大师训练营，请访问：[夜世界建筑大师训练营](/upgrade/1280-Builder-Barracks)。*
 - *都城的训练营比较多，这里就不放链接了，如有需求请自行前往相关页面查看。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Barracks12_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Barracks13.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -31,6 +31,7 @@ canonical: /upgrade/0482-Dark-Barracks
         <UnitImg imgTitle="10 级" imgSrc="Dark_Barracks10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Dark_Barracks11.png" />
         <UnitImg imgTitle="12 级" imgSrc="Dark_Barracks12.png" imgHd="Dark_Barracks12_hd.png" />
+        <UnitImg imgTitle="13 级" imgSrc="Dark_Barracks13.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -87,13 +88,16 @@ const tableExtraInfo = [
 | 10 | 950 | 10M | 7,12 |  | 13 | <a href="/upgrade/0089-Apprentice-Warden">守护者学徒</a> |
 | 11 | 1000 | 12M | 8 |  | 14 | <a href="/upgrade/008a-Druid">德鲁伊</a> |
 | 12 | 1050 | 20M | 9 |  | 15 | <a href="/upgrade/008b-Furnace">烈焰熔炉</a> |
-| 13 | 1100 | 23M | 10 |  | 16 | \ |
+| 13 | 1100 | 23M | 10 |  | 16 | <a href="/upgrade/008c-Ruin-Witch">废墟女巫</a> |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/06/16">
+        <TimelineRow>16 本新增 13 级暗黑训练营，新兵种：废墟女巫。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>10 ~ 11 级暗黑训练营的升级时间减少。</TimelineRow>
     </TimelineItem>

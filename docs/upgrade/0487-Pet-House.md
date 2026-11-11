@@ -81,18 +81,18 @@ const tableExtraInfo = [
 
 | 等级 |  生命值 | 升级费用 |  升级时间 |升级后可获<br>得的经验|所需<br>大本等级| 解锁的战宠 |
 | ---- |   ---  |   ---    |   ---    |         ---        |       ---     |    ---    |
-| 1 | 700 | 3M | 1 |  | 14 | L.A.S.S.I |
-| 2 | 800 | 4M | 2 |  | 14 | Electro Owl |
-| 3 | 900 | 5M | 3 |  | 14 | Mighty Yak |
-| 4 | 1000 | 6M | 3,12 |  | 14 | Unicorn |
-| 5 | 1050 | 7M | 4 |  | 15 | Frosty |
-| 6 | 1100 | 8M | 4,12 |  | 15 | Diggy |
-| 7 | 1150 | 9M | 5 |  | 15 | Poison Lizard |
-| 8 | 1200 | 10M | 5,12 |  | 15 | Phoenix |
-| 9 | 1250 | 11M | 6 |  | 16 | Spirit Fox |
-| 10 | 1300 | 12M | 7 |  | 16 | Angry Jelly |
-| 11 | 1350 | 16.5M | 8 |  | 17 | Sneezy |
-| 12 | 1400 | 25.5M | 13,12 |  | 18 | Greedy Raven |
+| 1 | 700 | 3M | 1 |  | 14 | <a href="/upgrade/0280-L.A.S.S.I">莱希</a> |
+| 2 | 800 | 4M | 2 |  | 14 | <a href="/upgrade/0281-Electro-Owl">闪枭</a> |
+| 3 | 900 | 5M | 3 |  | 14 | <a href="/upgrade/0282-Mighty-Yak">大牦</a> |
+| 4 | 1000 | 6M | 3, 12 |  | 14 | <a href="/upgrade/0283-Unicorn">独角</a> |
+| 5 | 1050 | 7M | 4 |  | 15 | <a href="/upgrade/0284-Frosty">冰牙</a> |
+| 6 | 1100 | 8M | 4, 12 |  | 15 | <a href="/upgrade/0285-Diggy">地兽</a> |
+| 7 | 1150 | 9M | 5 |  | 15 | <a href="/upgrade/0286-Poison-Lizard">猛蜥</a> |
+| 8 | 1200 | 10M | 5, 12 |  | 15 | <a href="/upgrade/0287-Phoenix">凤凰</a> |
+| 9 | 1250 | 11M | 6 |  | 16 | <a href="/upgrade/0288-Spirit-Fox">灵狐</a> |
+| 10 | 1300 | 12M | 7 |  | 16 | <a href="/upgrade/0289-Angry-Jelly">愤怒水母</a> |
+| 11 | 1350 | 16.5M | 8 |  | 17 | <a href="/upgrade/028a-Sneezy">阿啾</a> |
+| 12 | 1400 | 25.5M | 13, 12 |  | 18 | <a href="/upgrade/028b-Greedy-Raven">贪婪渡鸦</a> |
 
 </UnitTable>
 

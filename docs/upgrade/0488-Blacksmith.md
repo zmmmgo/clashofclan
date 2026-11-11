@@ -19,7 +19,7 @@ canonical: /upgrade/0488-Blacksmith
         <UnitImg imgTitle="3 - 4 级" imgSrc="Blacksmith3.png" />
         <UnitImg imgTitle="5 - 6 级" imgSrc="Blacksmith5.png" />
         <UnitImg imgTitle="7 - 8 级" imgSrc="Blacksmith7.png" />
-        <UnitImg imgTitle="9 级" imgSrc="Blacksmith9.png" />
+        <UnitImg imgTitle="9 - 10 级" imgSrc="Blacksmith9.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -99,13 +99,18 @@ const tableExtraInfo = [
 |   6  |  1200  |        35k      |       3500      |       700      |   6.2M   |   4,12  |                     |       13      |<a href="/upgrade/0783-Healing-Tome">治疗书卷</a>|
 |   7  |  1300  |        40k      |       4000      |       800      |   9.2M   |   5     |                     |       14      |<a href="/upgrade/07c2-Hog-Rider-Puppet">野猪骑士木偶</a>|
 |   8  |  1400  |        45k      |       4500      |       900      |    10M   |   6     |                     |       15      |<a href="/upgrade/07c3-Haste-Vial">急速药水瓶</a>|
-|   9  |  1500  |        50k      |       5000      |      1000      |    11M   |   7     |                     |       16      |     无    |
+|   9  |  1500  |        50k      |       5000      |      1000      |    11M   |   7     |                     |       16      |<a href="/upgrade/07e2-Stun-Blaster">爆震器</a>|
+|  10  |  1600  |        50k      |       5000      |      1000      |    18M   |  10     |                     |       17      |<a href="/upgrade/07e4-Electro-Fangs">雷电獠牙</a>|
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2025/11/17">
+        <TimelineRow>17 本新增 10 级铁匠铺，可解锁新装备：雷电獠牙。</TimelineRow>
+        <TimelineRow>9 级铁匠铺可以解锁新装备：爆震器。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>6 ~ 9 级铁匠铺的升级时间减少。</TimelineRow>
     </TimelineItem>

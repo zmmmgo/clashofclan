@@ -11,7 +11,7 @@ canonical: /upgrade/0485-Dark-Spell-Factory
 
 - *如想查看配置圣水法术的法术工厂，请访问：[法术工厂](/upgrade/0484-Spell-Factory)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Spell_Factory7_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Spell_Factory8.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -24,6 +24,7 @@ canonical: /upgrade/0485-Dark-Spell-Factory
         <UnitImg imgTitle="5 级" imgSrc="Dark_Spell_Factory5.png" />
         <UnitImg imgTitle="6 级" imgSrc="Dark_Spell_Factory6.png" />
         <UnitImg imgTitle="7 级" imgSrc="Dark_Spell_Factory7.png" />
+        <UnitImg imgTitle="8 级" imgSrc="Dark_Spell_Factory8.png" />
     </UnitImgGroup>
     <UnitImgGroup title="法术配置中" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 级" imgSrc="Dark_Spell_Factory1_Active.png" />
@@ -84,13 +85,16 @@ const tableExtraInfo = [
 | 5 | 1 | 840 | 2.5M | 5 |  | 10 | <a href="/upgrade/0184-Bat-Spell">蝙蝠法术</a> |
 | 6 | 1 | 950 | 4M | 6 |  | 12 | <a href="/upgrade/0185-Overgrowth-Spell">蔓生法术</a> |
 | 7 | 1 | 1010 | 11M | 7 |  | 14 | <a href="/upgrade/0186-Ice-Block-Spell">冰障法术</a> |
-| 8 | \ | 1070 | 18M | 10 |  | 15 | \ |
+| 8 | 1 | 1070 | 18M | 10 |  | 15 | 愤怒法术 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/06/16">
+        <TimelineRow>新增 8 级暗黑法术工厂，15 本可解锁。新法术：愤怒法术。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/10/06">
         <TimelineRow>7 级暗黑法术工厂的升级时间减少。</TimelineRow>
         <TimelineRow>7 级暗黑法术工厂的升级费用降低。</TimelineRow>
