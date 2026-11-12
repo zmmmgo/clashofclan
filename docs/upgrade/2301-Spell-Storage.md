@@ -73,3 +73,12 @@ const tableExtraInfo = [
 | 5 | 7 | 1750 | 400k | 50 | 10 | 5 |
 
 </UnitTable>
+
+<SmallTitle>更新历史</SmallTitle>
+
+<Timeline>
+    <TimelineItem date="2022/05/02">
+        <TimelineRow>法术仓库随着部落都城玩法一同推出。</TimelineRow>
+    </TimelineItem>
+    <TimelineItem :historyBottom="true" />
+</Timeline>

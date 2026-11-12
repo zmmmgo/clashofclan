@@ -32,7 +32,7 @@ canonical: /upgrade/2346-Rocket-Balloon-Barracks
 
 |             |   1   |   2   |   3   |   4   |   5   |
 |     ---     |  ---  |  ---  |  ---  |  ---  |  ---  |
-|   法师山谷   |   1   |   1   |   1   |   1   |   1   |
+|   气球环礁   |   1   |   1   |   1   |   1   |   1   |
 
 </DistrictTable>
 
