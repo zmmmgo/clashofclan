@@ -31,14 +31,16 @@ canonical: /upgrade/0f01-Santa-Strike
 
 1. 该陷阱最后一次推出时部落冲突最高 10 本，因此建筑数量这里最高就写到 10 本。
 2. 该陷阱最后一次推出时部落冲突还没有黄金令牌功能，为了让大家用起来不那么违和，我们决定让黄金令牌减免设置在本页无效。
-3. 圣诞陷阱的作用：当兵种靠近圣诞陷阱时，天上会出现飞行物投放炸弹，并且对触发的兵种造成伤害。
+3. 圣诞陷阱的作用：当敌军靠近圣诞陷阱时，天上会出现飞行物空投爆炸礼物，对触发区域内的地面和空中部队造成伤害。
+4. 陷阱触发后会掉落 5 个礼物盒，防守方点击收集每个礼物可获得 5 000 圣水。
+5. 该陷阱在 2012 年圣诞节首次推出时名为“讨厌的礼物”（Unpleasant Present），2013 年 12 月正式更名为“圣诞陷阱”（Santa Strike）。
 
 <SmallTitle>属性</SmallTitle>
 
 <UnitProperties>
     <UnitProperty pKey="占地面积" pValue="1×1" />
-    <UnitProperty pKey="作用类型" pValue="每个炸弹都是单体伤害" />
-    <UnitProperty pKey="作用目标" pValue="仅地面目标" />
+    <UnitProperty pKey="作用类型" pValue="范围伤害" />
+    <UnitProperty pKey="作用目标" pValue="地面和空中目标" />
     <UnitProperty pKey="空投的炸弹数量" pValue="5" />
     <UnitProperty pKey="触发半径" pValue="1 格" />
     <UnitProperty pKey="爆炸伤害" pValue="20" />

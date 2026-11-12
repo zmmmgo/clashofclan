@@ -23,7 +23,7 @@ canonical: /upgrade/0f03-Shrink-Trap
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 11" />
+    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 11" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
