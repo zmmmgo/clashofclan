@@ -86,6 +86,10 @@ const imgSrcOriginal = computed(() => {
     if (srcProp.startsWith("http://") || srcProp.startsWith("https://")) {
         return srcProp;
     }
+    const isKnownLocal = ["/p/6637/"].some(k => srcProp.includes(k));
+    if (isKnownLocal) {
+        return srcProp;
+    }
     return "https://static.clashpost.com" + srcProp;
 });
 
