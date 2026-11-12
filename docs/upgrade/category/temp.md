@@ -30,7 +30,14 @@ if (activeTabCookieValue === "temp-others") {
 </SwitchTabs>
 
 <SwitchTabGroup id="cp-upgrade-temp-troops" class="cp-upgrade-item">
-    <ListItems title="2025 - 2026" imgFolder="temp_troops">
+    <ListItems title="2026" imgFolder="temp_troops">
+        <ListItem name="黄金巨龙" imgSrc="0e1c/Golden_Dragon_thumb.png" link="0e1c-Golden-Dragon" />
+        <ListItem name="象骑兵" imgSrc="0e1d/Elephant_Rider_thumb.png" link="0e1d-Elephant-Rider" />
+        <ListItem name="送葬雪怪" imgSrc="0e1e/Yeti_Undertaker_thumb.png" link="0e1e-Yeti-Undertaker" />
+        <ListItem name="图腾投手" imgSrc="0e1f/Totem_Thrower_thumb.png" link="0e1f-Totem-Thrower" />
+        <ListItem name="莫玛" imgSrc="0e20/M.O.M.M.A_thumb.png" link="0e20-M.O.M.M.A" />
+    </ListItems>
+    <ListItems title="2025" imgFolder="temp_troops">
         <ListItem name="灵蛇飞桶" imgSrc="0e15/Snake_Barrel_thumb.png" link="0e15-Snake-Barrel" />
         <ListItem name="战吼狂人" imgSrc="0e16/YEETer_thumb.png" link="0e16-YEETer" />
         <ListItem name="霸天巨人" imgSrc="0e17/Giant_Giant_thumb.png" link="0e17-Giant-Giant" />
