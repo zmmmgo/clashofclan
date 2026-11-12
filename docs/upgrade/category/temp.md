@@ -35,7 +35,7 @@ if (activeTabCookieValue === "temp-others") {
         <ListItem name="象骑兵" imgSrc="0e1d/Elephant_Rider_thumb.png" link="0e1d-Elephant-Rider" />
         <ListItem name="送葬雪怪" imgSrc="0e1e/Yeti_Undertaker_thumb.png" link="0e1e-Yeti-Undertaker" />
         <ListItem name="图腾投手" imgSrc="0e1f/Totem_Thrower_thumb.png" link="0e1f-Totem-Thrower" />
-        <ListItem name="莫玛" imgSrc="0e20/M.O.M.M.A_thumb.png" link="0e20-M.O.M.M.A" />
+        <ListItem name="皮卡妈妈" imgSrc="0e20/M.O.M.M.A_thumb.png" link="0e20-M.O.M.M.A" />
     </ListItems>
     <ListItems title="2025" imgFolder="temp_troops">
         <ListItem name="灵蛇飞桶" imgSrc="0e15/Snake_Barrel_thumb.png" link="0e15-Snake-Barrel" />
