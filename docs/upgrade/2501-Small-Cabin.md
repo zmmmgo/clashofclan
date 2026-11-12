@@ -5,7 +5,7 @@ shownTitle: "平顶屋"
 description: "如果村民喜欢明亮方正的房子，那很适合住在这里。"
 module: upgrade-capital
 imgFolder: capital_buildings/2501
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Small_Cabin
 canonical: /upgrade/2501-Small-Cabin
 ---
 

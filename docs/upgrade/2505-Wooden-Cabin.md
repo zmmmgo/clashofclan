@@ -5,7 +5,7 @@ shownTitle: "平顶木屋"
 description: "如果村民喜欢明亮方正的房子，而且要比邻居家大，那这里很适合。"
 module: upgrade-capital
 imgFolder: capital_buildings/2505
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Wooden_Cabin
 canonical: /upgrade/2505-Wooden-Cabin
 ---
 

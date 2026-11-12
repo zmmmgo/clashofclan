@@ -5,7 +5,7 @@ shownTitle: "哥布林前哨基地"
 description: "一个被遗弃的哥布林前哨基地，大家都去哪儿了？"
 module: upgrade-capital
 imgFolder: capital_buildings/2507
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Goblin_Outpost
 canonical: /upgrade/2507-Goblin-Outpost
 ---
 

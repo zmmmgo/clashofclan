@@ -5,7 +5,7 @@ shownTitle: "哥布林大本营"
 description: "一座异常安静的哥布林大本营，没有平日里密谋策略的声音，也没有金币声。"
 module: upgrade-capital
 imgFolder: capital_buildings/2509
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Goblin_Hall
 canonical: /upgrade/2509-Goblin-Hall
 ---
 

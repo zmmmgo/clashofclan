@@ -5,7 +5,7 @@ shownTitle: "小屋"
 description: "别致小巧，不适合高个子住。"
 module: upgrade-capital
 imgFolder: capital_buildings/2503
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Small_Hut
 canonical: /upgrade/2503-Small-Hut
 ---
 

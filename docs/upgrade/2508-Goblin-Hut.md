@@ -5,7 +5,7 @@ shownTitle: "哥布林小屋"
 description: "一间空空如也的哥布林小屋，可能是要卖掉吧？"
 module: upgrade-capital
 imgFolder: capital_buildings/2508
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Goblin_Hut
 canonical: /upgrade/2508-Goblin-Hut
 ---
 

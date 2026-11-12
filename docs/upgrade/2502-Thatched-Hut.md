@@ -5,7 +5,7 @@ shownTitle: "稻草屋"
 description: "住着野蛮人。这简陋小屋建起来快，燃起来更快。"
 module: upgrade-capital
 imgFolder: capital_buildings/2502
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Thatched_Hut
 canonical: /upgrade/2502-Thatched-Hut
 ---
 

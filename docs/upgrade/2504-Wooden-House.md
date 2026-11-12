@@ -5,7 +5,7 @@ shownTitle: "木屋"
 description: "建造和设计都很不错，温馨舒适，让人有家的感觉。"
 module: upgrade-capital
 imgFolder: capital_buildings/2504
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Wooden_House
 canonical: /upgrade/2504-Wooden-House
 ---
 
@@ -36,7 +36,7 @@ canonical: /upgrade/2504-Wooden-House
 |            |   1   |   2   |   3   |   4   |   5   |
 |     ---    |  ---  |  ---  |  ---  |  ---  |  ---  |
 |   法师山谷  |   4   |   4   |   5   |   7   |   8   |
-| 建筑工人工坊 |   4   |   6  |   8   |   8   |   8   |
+|   戈仑石场  |   4   |   6   |   8   |   8   |   8   |
 |   骷髅公园  |   4   |   5   |   6   |   6   |   \   |
 
 </DistrictTable>

@@ -5,7 +5,7 @@ shownTitle: "斜顶屋"
 description: "屋顶可以有效防止积雪，但屋子里面装修起来就麻烦了。"
 module: upgrade-capital
 imgFolder: capital_buildings/2506
-wiki: https://clashofclans.fandom.com/wiki/Houses
+wiki: https://clashofclans.fandom.com/wiki/Houses#Slanted_House
 canonical: /upgrade/2506-Slanted-House
 ---
 
