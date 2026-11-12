@@ -27,6 +27,12 @@ canonical: /upgrade/2401-District-Hall
     </UnitImgGroup>
 </Panel>
 
+<SmallTitle>重要说明</SmallTitle>
+
+1. 子城大本营在战斗中不具备反击能力，仅作为普通核心建筑承受伤害。
+2. 升级子城大本营可以解锁该子城内更多可修复的废墟，并提高该子城建筑和城墙的等级上限。
+3. 升级子城大本营需要都城大本营达到对应等级，不同子城各级大本营所要求的都城大本营等级各有不同。
+
 <SmallTitle>属性</SmallTitle>
 
 <UnitProperties>
@@ -70,13 +76,13 @@ const tableExtraInfo = [
 <BuildingNum>
     <BuildingNumRow title="子城大本营等级" num="1, 2, 3, 4, 5" />
     <BuildingNumRow title="野蛮人兵营" num="2, 3, 5, 7, 9" />
-    <BuildingNumRow title="法师山谷" num="3, 4, 6, 8,10" />
-    <BuildingNumRow title="气球环礁" num="4, 5, 7, 8,10" />
-    <BuildingNumRow title="建筑工人工坊" num="5, 6, 7, 9,10" />
-    <BuildingNumRow title="飞龙悬崖" num="6, 7, 8, 9,10" />
-    <BuildingNumRow title="戈仑石场" num="7, 7, 8, 9,10" />
-    <BuildingNumRow title="骷髅公园" num="8, 8, 9,10, \" />
-    <BuildingNumRow title="哥布林矿井" num="9, 9,10,10, \" />    
+    <BuildingNumRow title="法师山谷" num="3, 4, 6, 8, 10" />
+    <BuildingNumRow title="气球环礁" num="4, 5, 7, 8, 10" />
+    <BuildingNumRow title="建筑工人工坊" num="5, 6, 7, 9, 10" />
+    <BuildingNumRow title="飞龙悬崖" num="6, 7, 8, 9, 10" />
+    <BuildingNumRow title="戈仑石场" num="7, 7, 8, 9, 10" />
+    <BuildingNumRow title="骷髅公园" num="8, 8, 9, 10, \" />
+    <BuildingNumRow title="哥布林矿井" num="9, 9, 10, 10, \" />    
 </BuildingNum>
 
 <SmallTitle>更新历史</SmallTitle>
