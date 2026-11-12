@@ -131,6 +131,7 @@ if (activeTabCookieValue === "capital-buildings") {
         <ListItem name="永恒急速法术工厂" imgSrc="2386/Endless_Haste_Spell_Factory4.png" link="2386-Endless-Haste-Spell-Factory" />
     </ListItems>
     <ListItems title="用来凑摧毁率的房屋" imgFolder="capital_buildings">
+        <ListItem name="部落营房" imgSrc="2500/Clan_House.png" link="2500-Clan-House" />
         <ListItem name="平顶屋" imgSrc="2501/Small_Cabin.png" link="2501-Small-Cabin" />
         <ListItem name="稻草屋" imgSrc="2502/Thatched_Hut.png" link="2502-Thatched-Hut" />
         <ListItem name="小屋" imgSrc="2503/Small_Hut.png" link="2503-Small-Hut" />
@@ -147,7 +148,7 @@ if (activeTabCookieValue === "capital-buildings") {
     <SmallTitle>注意</SmallTitle>
     <ol>
         <li>黄金令牌不能减少都城的升级费用和升级时间。</li>
-        <li>部落营房的相关内容单独开了一篇文章，不在升级数据板块。文章链接：<a href="/p/6637">都城部落营房组件一览</a>。</li>
+        <li>如需查看部落营房的自定义组件，请访问：<a href="/p/6637">都城部落营房组件一览</a>。</li>
     </ol>
 </div>
 

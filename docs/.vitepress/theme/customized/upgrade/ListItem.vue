@@ -55,7 +55,7 @@ onMounted(() => {
     const folder = refDom.parentNode.getAttribute("data-folder");
     const localOriginal = "/images/upgrade/" + folder + "/" + imgSrcOriginal;
     const localWebp = replaceFileExtension(localOriginal, ".webp");
-    const isKnownLocal = ["008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "1287", "1288", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14", "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9"].some(k => props.link.includes(k) || props.imgSrc.includes(k));
+    const isKnownLocal = ["008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "1287", "1288", "2500", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14", "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9"].some(k => props.link.includes(k) || props.imgSrc.includes(k));
 
     if (isKnownLocal) {
         if (hasAdditionalSource) {
