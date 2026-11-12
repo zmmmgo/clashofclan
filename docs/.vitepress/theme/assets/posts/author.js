@@ -11,6 +11,12 @@ export const authors = {
         nickName: "部落搬运机",
         signature: "内部账号，用来搬运一些优质内容，版权信息一般在文末。"
     },
+    "buluoxiaozhan": {
+        avatarSm: "/p/author/buluoxiaozhan/avatar-sm.jpg",
+        avatarMd: "/p/author/buluoxiaozhan/avatar-md.jpg",
+        nickName: "部落小站",
+        signature: "分享部落冲突都城建筑、个性化外观与各类攻略心得。"
+    },
     "clashpost": {
         avatarSm: "favicon-sm.png",
         avatarMd: "favicon-md.png",

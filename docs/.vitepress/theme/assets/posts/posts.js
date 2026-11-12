@@ -172,12 +172,12 @@ export function getAuthorInfo(authorId) {
     const avatarMd = authorRawData.avatarMd;
     let avatarUrlSm, avatarUrlMd;
     if (avatarSm && avatarSm !== "") {
-        avatarUrlSm = "https://static.clashpost.com/p/author/" + authorId + "/" + avatarSm;
+        avatarUrlSm = avatarSm.startsWith("/") ? avatarSm : "https://static.clashpost.com/p/author/" + authorId + "/" + avatarSm;
     } else {
         avatarUrlSm = "https://static.clashpost.com/p/author/default.png";
     }
     if (avatarMd && avatarMd !== "") {
-        avatarUrlMd = "https://static.clashpost.com/p/author/" + authorId + "/" + avatarSm;
+        avatarUrlMd = avatarMd.startsWith("/") ? avatarMd : "https://static.clashpost.com/p/author/" + authorId + "/" + avatarMd;
     } else {
         avatarUrlMd = "https://static.clashpost.com/p/author/default.png";
     }
