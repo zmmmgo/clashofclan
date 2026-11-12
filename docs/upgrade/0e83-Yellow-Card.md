@@ -28,6 +28,7 @@ canonical: /upgrade/0e83-Yellow-Card
 
 <UnitProperties>
     <UnitProperty pKey="作用目标" pValue="防御建筑和敌方英雄" />
+    <UnitProperty pKey="目标搜索半径" pValue="7 格" />
     <UnitProperty pKey="作用时间" pValue="15 秒" />
     <UnitProperty pKey="攻击类型" pValue="单个目标" />
     <UnitProperty pKey="所需空间" pValue="1" />
@@ -39,7 +40,7 @@ canonical: /upgrade/0e83-Yellow-Card
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
-    <TimelineItem date="2023/5/7">
+    <TimelineItem date="2024/05/07">
         <TimelineRow>该法术在并肩哈兰德活动中首次推出，在活动中获取 3 000 足球（任务点数）即可解锁。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />

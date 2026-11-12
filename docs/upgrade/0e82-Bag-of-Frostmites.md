@@ -53,8 +53,8 @@ canonical: /upgrade/0e82-Bag-of-Frostmites
 
 | 等级 | 冰冻时间 |生成的<br>小冰怪数量|对应的<br>大本等级|
 |  --- |   ---   |        ---        |       ----     |
-|   3  |  1.5 秒 |          8        |        6       |
-|   3  |  1.7 秒 |          9        |        7       |
+|   1  |  1.5 秒 |          8        |        6       |
+|   2  |  1.7 秒 |          9        |        7       |
 |   3  |  1.9 秒 |         10        |        8       |
 |   4  |  2.1 秒 |         11        |        9       |
 |   5  |  2.3 秒 |         12        |       10       |
@@ -73,7 +73,7 @@ canonical: /upgrade/0e82-Bag-of-Frostmites
 
 <Timeline>
     <TimelineItem date="2025/12/08">
-        <TimelineRow>该兵种第 2 次推出，有效期至 2026/01/01.</TimelineRow>
+        <TimelineRow>该法术第 2 次推出，有效期至 2026/01/01.</TimelineRow>
         <TimelineRow>这次推出后，该法术改为 6 本解锁，而不是 8 本。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2023/12/21">

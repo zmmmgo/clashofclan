@@ -87,8 +87,8 @@ if (activeTabCookieValue === "temp-others") {
     <ListItems title="法术" imgFolder="temp_others">
         <ListItem name="圣诞奇袭" imgSrc="0e80/Santas_Surprise.png" link="0e80-Santas-Surprise" />
         <ListItem name="生日大爆炸" imgSrc="0e81/Birthday_Boom.png" link="0e81-Birthday-Boom" />
-        <ListItem name="黄牌法术" imgSrc="0e83/Yellow_Card.png" link="0e83-Yellow-Card" />
         <ListItem name="袋装小冰怪" imgSrc="0e82/Bag_of_Frostmites.png" link="0e82-Bag-of-Frostmites" />
+        <ListItem name="黄牌法术" imgSrc="0e83/Yellow_Card.png" link="0e83-Yellow-Card" />
     </ListItems>
     <ListItems title="陷阱" imgFolder="temp_others">
         <ListItem name="南瓜炸弹" imgSrc="0f00/Pumpkin_Bomb.png" link="0f00-Pumpkin-Bomb" />

@@ -6,14 +6,14 @@ description: "向圣诞老人许个愿，让他把那些“爆炸性”的礼物
 module: upgrade-temp
 imgFolder: temp_others/0e80
 wiki: https://clashofclans.fandom.com/wiki/Santa%27s_Surprise
-canonical: /upgrade/0e80-Santas-Surpeise
+canonical: /upgrade/0e80-Santas-Surprise
 ---
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Santas_Surprise.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>重要说明</SmallTitle>
 
-1. 使用该法术时，每个法术会附带 5 个礼物。玩家点击礼物后会全部清空，每个礼物折合 1000 圣水。
+1. 使用该法术时，每个法术会附带 5 个礼物。玩家点击礼物后会全部清空，每个礼物折合 5000 圣水。
 2. 圣诞奇袭的伤害要比雷电法术分散很多，不要看它总伤害高，事实上它对单一建筑的伤害不如雷电法术，所以不要想着用它劈防空火箭，大概率劈不掉的。
 
 <SmallTitle>属性</SmallTitle>
