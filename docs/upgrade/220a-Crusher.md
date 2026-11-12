@@ -53,7 +53,7 @@ canonical: /upgrade/220a-Crusher
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
     <UnitProperty pKey="伤害半径" pValue="2.1 格" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="1.7 格" />
     <UnitProperty pKey="攻速" pValue="3.5 秒/次" />
 </UnitProperties>

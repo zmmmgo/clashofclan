@@ -54,7 +54,7 @@ canonical: /upgrade/2205-Bomb-Tower
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
     <UnitProperty pKey="伤害半径" pValue="1.2 格" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="5 格" />
     <UnitProperty pKey="攻速" pValue="1.1 秒/次" />
     <UnitProperty pKey="死亡伤害半径" pValue="2.75 格" />
@@ -96,7 +96,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>2 ~ 5 级都城炸弹塔的每秒伤害降低。</TimelineRow>
+        <TimelineRow>2 ~ 5 级都城炸弹塔的每秒伤害从 80/95/110/125 降低至 75/85/95/105。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>炸弹塔随着部落都城玩法一同推出。</TimelineRow>

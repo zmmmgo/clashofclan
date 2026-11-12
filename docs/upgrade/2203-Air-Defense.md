@@ -5,7 +5,7 @@ shownTitle: "防空火箭"
 description: "防空火箭是歼灭敌军空中部队的利器，可惜它不能攻击地面上的敌人。请巧妙部署防空火箭，最大限度保护您的领空。"
 module: upgrade-capital
 imgFolder: capital_buildings/2203
-wiki: https://clashofclans.fandom.com/wiki/Air_Defense
+wiki: https://clashofclans.fandom.com/wiki/Air_Defense/Clan_Capital
 canonical: /upgrade/2203-Air-Defense
 ---
 
@@ -59,7 +59,7 @@ canonical: /upgrade/2203-Air-Defense
     <UnitProperty pKey="占地面积" pValue="2×2" />
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="仅空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅空中目标" />
     <UnitProperty pKey="射程" pValue="10 格" />
     <UnitProperty pKey="攻速" pValue="1.5 秒/次" />
 </UnitProperties>
@@ -99,9 +99,9 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>5 级防空火箭的每秒伤害降低。</TimelineRow>
+        <TimelineRow>5 级防空火箭的每秒伤害从 400 降低至 380。</TimelineRow>
     </TimelineItem>
-    <TimelineItem date="2023/06/30">
+    <TimelineItem date="2022/06/30">
         <TimelineRow>将防空火箭攻击速度从 1 秒每次降低到 1.5 秒每次。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">

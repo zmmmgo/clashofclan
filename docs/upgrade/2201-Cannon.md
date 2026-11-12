@@ -59,7 +59,7 @@ canonical: /upgrade/2201-Cannon
     <UnitProperty pKey="占地面积" pValue="2×2" />
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="8 格" />
     <UnitProperty pKey="攻速" pValue="1.5 秒/次" />
 </UnitProperties>
@@ -99,7 +99,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>3 ~ 5 级都城加农炮的生命值降低。</TimelineRow>
+        <TimelineRow>3 ~ 5 级都城加农炮的生命值从 1700/2000/2300 降低至 1650/1850/2050。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>加农炮随着部落都城玩法一同推出。</TimelineRow>

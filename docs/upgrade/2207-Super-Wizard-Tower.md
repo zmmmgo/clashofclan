@@ -5,7 +5,7 @@ shownTitle: "超级法师塔"
 description: "超级法师电力十足，在对付大批来犯之敌时能发挥巨大作用，因为他们的攻击可以弹射到初始目标附近的其他敌人。。"
 module: upgrade-capital
 imgFolder: capital_buildings/2207
-wiki: https://clashofclans.fandom.com/wiki/Super_Wizard_Tower
+wiki: https://clashofclans.fandom.com/wiki/Super_Wizard_Tower/Clan_Capital
 canonical: /upgrade/2207-Super-Wizard-Tower
 ---
 
@@ -54,7 +54,7 @@ canonical: /upgrade/2207-Super-Wizard-Tower
     <UnitProperty pKey="占地面积" pValue="2×2" />
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="链式伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="5.5 格" />
     <UnitProperty pKey="攻速" pValue="2 秒/次" />
     <UnitProperty pKey="连锁距离" pValue="2.25 格" />

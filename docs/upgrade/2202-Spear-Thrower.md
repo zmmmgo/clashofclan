@@ -54,7 +54,7 @@ canonical: /upgrade/2202-Spear-Thrower
     <UnitProperty pKey="占地面积" pValue="2×2" />
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="9 格" />
     <UnitProperty pKey="攻速" pValue="0.9 秒/次" />
 </UnitProperties>
@@ -94,7 +94,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>2 ~ 5 级都城投矛器的每秒伤害降低。</TimelineRow>
+        <TimelineRow>2 ~ 5 级都城投矛器的每秒伤害从 110/130/150/170 降低至 105/120/135/150，生命值从 1400/1600/1800/2000 降低至 1350/1500/1650/1800。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>投矛器随着部落都城玩法一同推出。</TimelineRow>

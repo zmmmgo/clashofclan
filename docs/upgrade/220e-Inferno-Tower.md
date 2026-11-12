@@ -56,7 +56,7 @@ canonical: /upgrade/220e-Inferno-Tower
     <UnitProperty pKey="占地面积" pValue="3×3" />
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="9 格" />
     <UnitProperty pKey="攻速" pValue="0.128 秒/次" />
 </UnitProperties>
@@ -96,7 +96,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>4 ~ 5 级地狱之塔的每秒伤害（第一阶段和第二阶段）降低。</TimelineRow>
+        <TimelineRow>4 ~ 5 级地狱之塔初始两阶段每秒伤害从 310/775（4 级）、350/875（5 级）分别降低至 290/725 和 320/800。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>地狱之塔随着部落都城玩法一同推出。</TimelineRow>

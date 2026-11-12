@@ -60,7 +60,7 @@ canonical: /upgrade/220b-Hidden-Mega-Tesla
     <UnitProperty pKey="最大目标数量" pValue="2 (含初始目标)" />
     <UnitProperty pKey="连锁延迟" pValue="0.416 秒" />
     <UnitProperty pKey="连锁衰减" pValue="20% (逐级递减)" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="触发距离" pValue="6 格" />
     <UnitProperty pKey="射程" pValue="6 格" />
     <UnitProperty pKey="攻速" pValue="4 秒/次" />

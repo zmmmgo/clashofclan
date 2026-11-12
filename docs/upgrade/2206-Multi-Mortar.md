@@ -55,7 +55,7 @@ canonical: /upgrade/2206-Multi-Mortar
     <UnitProperty pKey="判定面积" pValue="1×1" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
     <UnitProperty pKey="伤害半径" pValue="1.7 格" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="3 ~ 10 格" />
     <UnitProperty pKey="攻速" pValue="7 秒/轮<sup>*</sup>" />
 </UnitProperties>
@@ -97,7 +97,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>2 ~ 5 级都城多管迫击炮的每秒伤害降低。</TimelineRow>
+        <TimelineRow>2 ~ 5 级都城多管迫击炮的单发伤害从 53/62/70/79 降低至 51/56/62/68（每秒伤害降至 55/61/67/73）。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>多管迫击炮随着部落都城玩法一同推出。</TimelineRow>

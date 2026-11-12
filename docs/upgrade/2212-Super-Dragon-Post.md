@@ -83,6 +83,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2023/09/14">
+        <TimelineRow>守军超级飞龙的攻击间隔时间增加 1 秒（攻速由 2.6 秒/次减慢至 3.6 秒/次）。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>超级飞龙岗哨随着部落都城玩法一同推出。</TimelineRow>
     </TimelineItem>

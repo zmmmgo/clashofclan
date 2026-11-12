@@ -54,7 +54,7 @@ canonical: /upgrade/2215-Goblin-Thrower
     <UnitProperty pKey="占地面积" pValue="3×3" />
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="9 格" />
     <UnitProperty pKey="攻速" pValue="4 秒/次" />
     <UnitProperty pKey="发射兵种" pValue="哥布林投矛手" />
@@ -111,7 +111,7 @@ const tableExtraInfo = [
 <UnitProperties>
     <UnitProperty pKey="攻击偏好" pValue="无" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="移动速度" pValue="2.5 格/秒" />
     <UnitProperty pKey="攻击速度" pValue="0.9 秒/次" />
     <UnitProperty pKey="攻击距离" pValue="2.75 格" />

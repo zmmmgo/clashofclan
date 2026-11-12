@@ -40,7 +40,7 @@ canonical: /upgrade/2213-Mini-Minion-Hive
     <UnitProperty pKey="占地面积" pValue="3×3" />
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="单体伤害" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="14 格" />
     <UnitProperty pKey="攻速" pValue="4.26 秒/轮*" />
 </UnitProperties>
@@ -70,10 +70,10 @@ const tableExtraInfo = [
 
 | 等级 | 每秒伤害 | 每次伤害 | 生命值 | 升级费用 | 摧毁奖励 |所需子城<br>大本等级|
 | ---- |   ---   |   ---   |   ---  |   ---   |   ---   |        ---        |
-| 1 | 223 | 4,400 | 4400 | 17.5k | 390 | 1 |
-| 2 | 267 | 4,800 | 4800 | 35k | 410 | 2 |
-| 3 | 312 | 5,200 | 5200 | 70k | 430 | 3 |
-| 4 | 357 | 5,600 | 5600 | 113k | 450 | 4 |
+| 1 | 223 | 75 | 4400 | 17.5k | 390 | 1 |
+| 2 | 267 | 90 | 4800 | 35k | 410 | 2 |
+| 3 | 312 | 105 | 5200 | 70k | 430 | 3 |
+| 4 | 357 | 120 | 5600 | 113k | 450 | 4 |
 
 </UnitTable>
 

@@ -51,7 +51,7 @@ canonical: /upgrade/220d-Rocket-Artillery
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
     <UnitProperty pKey="伤害半径" pValue="2 格" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="3 ~ 12 格" />
     <UnitProperty pKey="攻速" pValue="4 秒/次" />
 </UnitProperties>
@@ -91,9 +91,9 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>2 ~ 5级火箭炮的每秒伤害降低</TimelineRow>
+        <TimelineRow>2 ~ 5 级火箭炮的每秒伤害降低。</TimelineRow>
     </TimelineItem>
-    <TimelineItem date="2023/06/30">
+    <TimelineItem date="2022/06/30">
         <TimelineRow>所有等级火箭炮的每秒伤害减少 10 点。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">

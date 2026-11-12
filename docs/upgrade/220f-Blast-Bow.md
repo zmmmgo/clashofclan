@@ -53,7 +53,7 @@ canonical: /upgrade/220f-Blast-Bow
     <UnitProperty pKey="判定面积" pValue="3×3" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="范围伤害" />
     <UnitProperty pKey="伤害半径" pValue="0.2 格" />
-    <UnitProperty pKey="攻击的目标" pValue="地面和空中目标" />
+    <UnitProperty pKey="攻击目标" pValue="地面和空中目标" />
     <UnitProperty pKey="射程" pValue="3.5 ~ 14 格" />
     <UnitProperty pKey="攻速" pValue="4 秒/次" />
 </UnitProperties>
@@ -93,7 +93,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2023/09/14">
-        <TimelineRow>2 ~ 5 级爆炸强弩的每秒伤害降低。</TimelineRow>
+        <TimelineRow>2 ~ 5 级爆炸强弩的每秒伤害从 190/210/230/250 降低至 185/200/215/230。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>爆炸强弩随着部落都城玩法一同推出。</TimelineRow>

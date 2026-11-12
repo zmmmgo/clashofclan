@@ -58,7 +58,7 @@ canonical: /upgrade/220c-Giant-Cannon
     <UnitProperty pKey="判定面积" pValue="2×2" :isJudgeSquare="true" />
     <UnitProperty pKey="伤害类型" pValue="穿透伤害" />
     <UnitProperty pKey="穿透区域宽度" pValue="1 格" />
-    <UnitProperty pKey="攻击的目标" pValue="仅地面目标" />
+    <UnitProperty pKey="攻击目标" pValue="仅地面目标" />
     <UnitProperty pKey="射程" pValue="10 格" />
     <UnitProperty pKey="攻速" pValue="5 秒/次" />
 </UnitProperties>
