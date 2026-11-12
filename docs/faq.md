@@ -13,6 +13,7 @@ hasUpdateTime: false
 <Panel title="网站的项目数据在哪里下载？">
     <p>本站的原始数据移植自 <a href="https://clashpost.com" target="_blank">部落驿站</a>。</p>
     <p>如果你需要获取原始数据，可以前往上述网站，或者直接前往 <a href="https://github.com/lemonicy/clashpost" target="_blank" rel="nofollow noreferrer">GitHub 仓库</a> 下载完整项目数据。</p>
+    <p>如果你想要获取本站的数据，请前往 <a href="https://github.com/zmmmgo/clashofclan" target="_blank" rel="nofollow noreferrer">GitHub 仓库</a> 查看。</p>
 </Panel>
 
 <Panel title="这个网站能投放广告吗？">
