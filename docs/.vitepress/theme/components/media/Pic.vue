@@ -86,7 +86,7 @@ const imgSrcOriginal = computed(() => {
     if (srcProp.startsWith("http://") || srcProp.startsWith("https://")) {
         return srcProp;
     }
-    const isKnownLocal = ["/p/6637/"].some(k => srcProp.includes(k));
+    const isKnownLocal = ["/p/6637/", "/p/author/"].some(k => srcProp.includes(k));
     if (isKnownLocal) {
         return srcProp;
     }
@@ -97,6 +97,9 @@ const imgSrcOriginal = computed(() => {
 // 动图使用原图格式，不转化
 // gif 即使不写是动图也不转化，webp 格式无需进一步转化
 const hasAdditionalSource = computed(() => {
+    if (imgSrcOriginal.value.startsWith("/p/author/") || imgSrcOriginal.value.includes("featured.jpg")) {
+        return false;
+    }
     const imgExtension = getFileExtension(imgSrcOriginal.value);
     return props.convertWebp && getConvertWebpInfo(imgExtension);
 });
