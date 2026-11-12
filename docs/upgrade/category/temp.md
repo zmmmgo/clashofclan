@@ -30,15 +30,14 @@ if (activeTabCookieValue === "temp-others") {
 </SwitchTabs>
 
 <SwitchTabGroup id="cp-upgrade-temp-troops" class="cp-upgrade-item">
-    <ListItems title="2012 - 2021" imgFolder="temp_troops">
-        <ListItem name="寒冰法师" imgSrc="0e00/Ice_Wizard_thumb.png" link="0e00-Ice-Wizard" />
-        <ListItem name="野蛮人攻城槌" imgSrc="0e01/Battle_Ram_thumb.png" link="0e01-Battle-Ram" />
-        <ListItem name="南瓜野蛮人" imgSrc="0e02/Pumpkin_Barbarian_thumb.png" link="0e02-Pumpkin-Barbarian" />
-        <ListItem name="骷髅巨人" imgSrc="0e03/Giant_Skeleton_thumb.png" link="0e03-Giant-Skeleton" />
-        <ListItem name="骷髅飞桶" imgSrc="0e04/Skeleton_Barrel_thumb.png" link="0e04-Skeleton-Barrel" />
-        <ListItem name="艾尔普里莫" imgSrc="0e05/El_Primo_thumb.png" link="0e05-El-Primo" />
-        <ListItem name="派对法师" imgSrc="0e06/Party_Wizard_thumb.png" link="0e06-Party-Wizard" />
-        <ListItem name="皇家幽灵" imgSrc="0e07/Royal_Ghost_thumb.png" link="0e07-Royal-Ghost" />
+    <ListItems title="2025 - 2026" imgFolder="temp_troops">
+        <ListItem name="灵蛇飞桶" imgSrc="0e15/Snake_Barrel_thumb.png" link="0e15-Snake-Barrel" />
+        <ListItem name="战吼狂人" imgSrc="0e16/YEETer_thumb.png" link="0e16-YEETer" />
+        <ListItem name="霸天巨人" imgSrc="0e17/Giant_Giant_thumb.png" link="0e17-Giant-Giant" />
+        <ListItem name="皮卡凯恩" imgSrc="0e18/K.A.N.E_thumb.png" link="0e18-K.A.N.E" />
+        <ListItem name="铁臂终结者" imgSrc="0e19/Disarmer_thumb.png" link="0e19-The-Disarmer" />
+        <ListItem name="收债哥布林" imgSrc="0e1a/Debt_Collector_thumb.png" link="0e1a-Debt-Collector" />
+        <ListItem name="陨石戈仑" imgSrc="0e1b/Meteor_Golem_thumb.png" link="0e1b-Meteor-Golem" />
     </ListItems>
     <ListItems title="2022 - 2024" imgFolder="temp_troops">
         <ListItem name="蛮羊骑士" imgSrc="0e08/Ram_Rider_thumb.png" link="0e08-Ram-Rider" />
@@ -55,14 +54,15 @@ if (activeTabCookieValue === "temp-others") {
         <ListItem name="扫帚女巫" imgSrc="0e13/Broom_Witch_thumb.png" link="0e13-Broom-Witch" />
         <ListItem name="寒冰亡灵" imgSrc="0e14/Ice_Minion_thumb.png" link="0e14-Ice-Minion" />
     </ListItems>
-    <ListItems title="2025 - 2026" imgFolder="temp_troops">
-        <ListItem name="灵蛇飞桶" imgSrc="0e15/Snake_Barrel_thumb.png" link="0e15-Snake-Barrel" />
-        <ListItem name="战吼狂人" imgSrc="0e16/YEETer_thumb.png" link="0e16-YEETer" />
-        <ListItem name="霸天巨人" imgSrc="0e17/Giant_Giant_thumb.png" link="0e17-Giant-Giant" />
-        <ListItem name="皮卡凯恩" imgSrc="0e18/K.A.N.E_thumb.png" link="0e18-K.A.N.E" />
-        <ListItem name="铁臂终结者" imgSrc="0e19/Disarmer_thumb.png" link="0e19-The-Disarmer" />
-        <ListItem name="收债哥布林" imgSrc="0e1a/Debt_Collector_thumb.png" link="0e1a-Debt-Collector" />
-        <ListItem name="陨石戈仑" imgSrc="0e1b/Meteor_Golem_thumb.png" link="0e1b-Meteor-Golem" />
+    <ListItems title="2012 - 2021" imgFolder="temp_troops">
+        <ListItem name="寒冰法师" imgSrc="0e00/Ice_Wizard_thumb.png" link="0e00-Ice-Wizard" />
+        <ListItem name="野蛮人攻城槌" imgSrc="0e01/Battle_Ram_thumb.png" link="0e01-Battle-Ram" />
+        <ListItem name="南瓜野蛮人" imgSrc="0e02/Pumpkin_Barbarian_thumb.png" link="0e02-Pumpkin-Barbarian" />
+        <ListItem name="骷髅巨人" imgSrc="0e03/Giant_Skeleton_thumb.png" link="0e03-Giant-Skeleton" />
+        <ListItem name="骷髅飞桶" imgSrc="0e04/Skeleton_Barrel_thumb.png" link="0e04-Skeleton-Barrel" />
+        <ListItem name="艾尔普里莫" imgSrc="0e05/El_Primo_thumb.png" link="0e05-El-Primo" />
+        <ListItem name="派对法师" imgSrc="0e06/Party_Wizard_thumb.png" link="0e06-Party-Wizard" />
+        <ListItem name="皇家幽灵" imgSrc="0e07/Royal_Ghost_thumb.png" link="0e07-Royal-Ghost" />
     </ListItems>
     <div class="cp-upgrade-index-tip">
         <SmallTitle>注意</SmallTitle>
