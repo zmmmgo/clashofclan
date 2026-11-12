@@ -85,8 +85,8 @@ const tableExtraInfo = [
 | 1 | 400 | 2k | 2 | 1 |
 | 2 | 450 | 4k | 3 | 2 |
 | 3 | 500 | 8k | 5 | 3 |
-| 4 | 600 | 15k | 7 | 4 |
-| 5 | \ | 25k | 9 | 5 |
+| 4 | 550 | 15k | 7 | 4 |
+| 5 | 600 | 25k | 9 | 5 |
 
 </UnitTable>
 
@@ -94,7 +94,7 @@ const tableExtraInfo = [
 
 <Timeline>
     <TimelineItem date="2022/05/02">
-        <TimelineRow>巨型地雷随着部落都城玩法一同推出。。</TimelineRow>
+        <TimelineRow>巨型地雷随着部落都城玩法一同推出。</TimelineRow>
     </TimelineItem>
     <TimelineItem :historyBottom="true" />
 </Timeline>

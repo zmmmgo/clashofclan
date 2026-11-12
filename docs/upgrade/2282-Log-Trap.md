@@ -37,8 +37,8 @@ canonical: /upgrade/2282-Log-Trap
 
 |             |   1   |   2   |   3   |   4   |   5   |
 |     ---     |  ---  |  ---  |  ---  |  ---  |  ---  |
-|  野蛮人兵营  |   0   |   1   |   1   |   1   |   1   |
-|   法师山谷   |   4   |   4   |   4   |   4   |   4   |
+|   法师山谷   |   0   |   1   |   1   |   1   |   1   |
+|   气球环礁   |   4   |   4   |   4   |   4   |   4   |
 | 建筑工人工坊 |   5   |   6   |   7   |   8   |   8   |
 |   飞龙悬崖   |   2   |   2   |   2   |   2   |   2   |
 |   戈仑石场   |   4   |   5   |   6   |   6   |   6   |
@@ -79,14 +79,17 @@ const tableExtraInfo = [
 | 1 | 400 | 1.5k | 4 | 1 |
 | 2 | 450 | 3k | 4 | 2 |
 | 3 | 500 | 6k | 6 | 3 |
-| 4 | 600 | 12k | 8 | 4 |
-| 5 | \ | 20k | 10 | 5 |
+| 4 | 550 | 12k | 8 | 4 |
+| 5 | 600 | 20k | 10 | 5 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2022/10/10">
+        <TimelineRow>修复了滚木陷阱的音效（更新前播放的是家乡村庄空中陷阱的音效）。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2022/05/02">
         <TimelineRow>滚木陷阱随着部落都城玩法一同推出。</TimelineRow>
     </TimelineItem>
