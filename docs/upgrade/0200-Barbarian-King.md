@@ -33,7 +33,7 @@ canonical: /upgrade/0200-Barbarian-King
     <UnitProperty pKey="攻击距离" pValue="1 格" />
     <UnitProperty pKey="所需英雄殿堂等级" pValue="1" />
     <UnitProperty pKey="所需大本等级" pValue="4" />
-    <UnitProperty pKey="搜索半径" pValue="10 格<sup>①</sup>" />
+    <UnitProperty pKey="搜索半径" pValue="9 格<sup>①</sup>" />
     <UnitProperty pKey="巡逻半径" pValue="3 格<sup>②</sup>" />
     <UnitProperty pKey="技能持续时间" pValue="10 秒" />
 </UnitProperties>
@@ -210,7 +210,8 @@ const tableExtraInfo = [
 |    90 - 94    |        2650        |
 |    95 - 99    |        2800        |
 |   100 - 104   |        2950        |
-|      105      |        3100        |
+|   105 - 109   |        3100        |
+|      110      |        3250        |
 </Table>
 
 <SmallTitle>更新历史</SmallTitle>

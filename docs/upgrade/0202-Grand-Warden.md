@@ -186,7 +186,8 @@ const tableExtraInfo = [
 |   65 - 69   |         247        |
 |   70 - 74   |         256        |
 |   75 - 79   |         265        |
-|      80     |         275        |
+|   80 - 84   |         275        |
+|      85     |         285        |
 </Table>
 
 <SmallTitle>更新历史</SmallTitle>

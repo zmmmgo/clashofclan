@@ -7,6 +7,7 @@ import { SwitchTabs, SwitchTab, SwitchTabGroup } from "@/components/tab/TabComp.
 import { Pic, Vid, SmallTitle, Table, Panel, PCenter, PCaption, Resource } from "@/components/common/CommonComp.vue";
 import { UnitInfo, UnitImgGroup, UnitImg, UnitProperties, UnitProperty, UnitTable, DistrictTable, BuildingNum, BuildingNumRow, Timeline, TimelineItem, TimelineRow } from "@/customized/upgrade/UnitComp.vue";
 import { PostHistory, PostCopyright } from "@/customized/posts/PostComp.vue";
+import PostDirectory from "@/customized/posts/PostDirectory.vue";
 
 /*
  * 需要提前执行的代码
@@ -55,5 +56,6 @@ export default {
         // 攻略区文章页面
         app.component('PostHistory', PostHistory);
         app.component('PostCopyright', PostCopyright);
+        app.component('PostDirectory', PostDirectory);
     }
 }
