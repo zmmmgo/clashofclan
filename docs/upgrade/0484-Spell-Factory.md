@@ -91,8 +91,8 @@ const tableExtraInfo = [
 | 7 | 10 | 960 | 9M | 7 |  | 13 | <a href="/upgrade/0107-Recall-Spell">回溯法术</a> |
 | 8 | 10 | 1080 | 14M | 8 |  | 15 | <a href="/upgrade/0108-Revive-Spell">复苏法术</a> |
 | 9 | 10 | 1150 | 16M | 9 |  | 16 | <a href="/upgrade/0109-Totem-Spell">图腾法术</a> |
-
 | 10 | 11 | 1220 | 18.5M | 10, 12 |  | 17 | 英雄法术 |
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>

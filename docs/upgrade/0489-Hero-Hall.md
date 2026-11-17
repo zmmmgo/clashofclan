@@ -95,8 +95,8 @@ const tableExtraInfo = [
 | 10 | 4 | 5400 | 13M | 8 |  | 16 | 无 |
 | 11 | 4 | 5800 | 15.5M | 9 |  | 17 | 无 |
 | 12 | 4 | 6000 | 23.5M | 12, 12 |  | 18 | 无 |
-
 | 13 | 4 | 6200 | 30.5M | 15, 12 |  | 19 | 无 |
+
 </UnitTable>
 
 <SmallTitle>英雄殿堂的初始等级</SmallTitle>
@@ -204,6 +204,7 @@ const tableExtraInfo = [
         </tr>
         </tbody>
     </table>
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>

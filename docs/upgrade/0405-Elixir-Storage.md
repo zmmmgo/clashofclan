@@ -111,8 +111,8 @@ const tableExtraInfo = [
 | 17 | 5.5M | 4050 | 5.5M | 4 |  | 16 |
 | 18 | 6M | 4200 | 8.5M | 4, 6 |  | 17 |
 | 19 | 6.5M | 4300 | 12.5M | 7, 12 |  | 18 |
-
 | 20 | 7M | 4400 | 18M | 11 |  | 19 |
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>

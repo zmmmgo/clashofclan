@@ -56,8 +56,8 @@ canonical: /upgrade/0601-Sneaky-Goblin
 |   8  |    170   |   170   |          340         |   320 |     12    |
 |   9  |    180   |   180   |          360         |   350 |     15    |
 | 10 | 190 | 190 | 380 | 380 | 18 |
-
 | 11 | 200 | 200 | 400 | 410 | 19 |
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>

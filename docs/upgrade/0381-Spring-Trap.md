@@ -106,8 +106,8 @@ const tableExtraInfo = [
 | 11 | 18 | 1200 | 6M | 2 |  | 16 |
 | 12 | 18 | 1300 | 7M | 2, 12 |  | 17 |
 | 13 | 18 | 1400 | 9.5M | 5 |  | 18 |
-
 | 14 | 18 | 1500 | 17M | 8 |  | 19 |
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>

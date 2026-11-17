@@ -60,8 +60,8 @@ canonical: /upgrade/060c-Super-Bowler
 |   8  |    240    |    528    |  2600 |     16    |
 |   9  |    270    |    594    |  3000 |     17    |
 | 10 | 310 | 682 | 3700 | 18 |
-
 | 11 | 330 | 726 | 4000 | 19 |
+
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
