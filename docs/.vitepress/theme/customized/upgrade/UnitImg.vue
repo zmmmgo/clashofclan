@@ -41,7 +41,20 @@ onMounted(() => {
 
     const localOriginal = "/images/upgrade/" + folder + "/" + imgSrcOriginal;
     const localWebp = replaceFileExtension(localOriginal, ".webp");
-    const isKnownLocal = ["008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908", "1287", "1288", "2500", "0e1c", "0e1d", "0e1e", "0e1f", "0e20", "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14", "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9"].some(k => folder.includes(k) || imgSrcOriginal.includes(k));
+    const isKnownLocal = [
+        "008c", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908",
+        "1287", "1288", "2500", "0e1c", "0e1d", "0e1e", "0e1f", "0e20",
+        "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14",
+        "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9",
+        "Barbarian14", "Archer15", "Giant15", "Goblin11", "Wall_Breaker15",
+        "Balloon14", "Wizard15", "Healer12", "Dragon14", "PEKKA14",
+        "Baby_Dragon13", "Miner13", "Electro_Dragon10", "Yeti9", "Dragon_Rider7",
+        "Electro_Titan6", "Root_Rider5", "Thrower5", "Valkyrie13",
+        "Wall20", "Air_Defense17", "Hidden_Tesla18", "Ricochet_Cannon5",
+        "Multi-Archer_Tower5", "Spring_Trap14", "Town_Hall19", "Gold_Storage20",
+        "Elixir_Storage20", "Dark_Elixir_Storage14", "Clan_Castle15",
+        "Laboratory17", "Spell_Factory10", "Hero_Hall13"
+    ].some(k => folder.includes(k) || imgSrcOriginal.includes(k));
 
     if (isKnownLocal) {
         imgDom.setAttribute("src", localOriginal);

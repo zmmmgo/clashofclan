@@ -20,7 +20,6 @@ canonical: /upgrade/0100-Lightning-Spell
 <Panel>
     <UnitImgGroup :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="所有等级" imgSrc="Lightning_Spell.png" />
-        <UnitImg imgTitle="14 级" imgSrc="Lightning_Spell14.png" />
     </UnitImgGroup>
 </Panel>
 
