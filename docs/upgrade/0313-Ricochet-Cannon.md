@@ -84,13 +84,16 @@ const tableExtraInfo = [
 | 1 | 360 | 288 | 288 | 5400 | 12M | 7 |  | 16 |
 | 2 | 390 | 312 | 312 | 5700 | 13M | 8 |  | 16 |
 | 3 | 405 | 324 | 324 | 6000 | 17.5M | 9 |  | 17 |
-| 4 | 412 | 329.6 | 329.6 | 6100 | 26.5M | 13,12 |  | 18 |
+| 4 | 412 | 329.6 | 329.6 | 6100 | 22M | 10 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>4 级跳弹加农炮的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>跳弹加农炮第二个目标受到的伤害由 100% 降低到 70%.</TimelineRow>
         <TimelineRow>跳弹加农炮的最远弹射距离由 4.5 格减少到 3.5 格。</TimelineRow>

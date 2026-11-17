@@ -64,15 +64,18 @@ const tableExtraInfo = [
 | 等级 |图腾生命值|升级花费|升级时间|所需<br>实验室等级|所需<br>大本等级|
 | ---- |   ---   |   ---  |  ---  |       ---       |      ---      |
 | 1 | 10000 | \ | \ | N/A | 16 |
-| 2 | 11000 | 21M | 12 | 14 | 16 |
-| 3 | 12000 | 22M | 14 | 15 | 17 |
-| 4 | 13000 | 23M | 16 | 16 | 18 |
+| 2 | 11000 | 18.5M | 9, 12 | 14 | 16 |
+| 3 | 12000 | 19M | 12 | 15 | 17 |
+| 4 | 13000 | 22M | 12, 6 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>2 ~ 4 级图腾法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>图腾的有效半径由 6 格改为 5 格。</TimelineRow>
         <TimelineRow>图腾落地时不能对敌方建筑和部队造成伤害了。</TimelineRow>

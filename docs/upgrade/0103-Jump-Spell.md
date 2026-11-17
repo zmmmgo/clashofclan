@@ -59,7 +59,7 @@ const tableExtraInfo = [
 | 2 | 40 秒 | 133 | 1M | 1 | 5 | 8 |
 | 3 | 60 秒 | 199 | 2M | 2 | 8 | 10 |
 | 4 | 80 秒 | 266 | 5M | 4 | 11 | 13 |
-| 5 | 100 秒 | 333 | 8M | 5 | 13 | 15 |
+| 5 | 100 秒 | 333 | 7.5M | 4, 12 | 13 | 15 |
 
 </UnitTable>
 
@@ -69,6 +69,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>5 级弹跳法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/03/27">
         <TimelineRow>法术的配置时间取消，但新增了捐赠费用。</TimelineRow>
     </TimelineItem>

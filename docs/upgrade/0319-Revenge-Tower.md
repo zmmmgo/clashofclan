@@ -133,8 +133,8 @@ const tableExtraInfoStage3 = [
 
 | 等级 | 生命值 | 升级费用 |   升级时间  |升级后可<br>获得的经验| 所需<br>大本等级 |
 | ---- |  ---  |   ---   |     ---     |        ---         |       ---       |
-| 1 | 5800 | 430k | 13 |  | 18 |
-| 2 | 6200 | 460k | 14 |  | 18 |
+| 1 | 5800 | 335k | 10 |  | 18 |
+| 2 | 6200 | 365k | 11 |  | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -280,6 +280,9 @@ const tableExtraInfoStage3 = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>1 ~ 2 级复仇之塔的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>复仇之塔最后一个阶段的攻速由 0.3 秒/次 降低到 0.35 秒/次。</TimelineRow>
         <TimelineRow>复仇之塔二阶段的触发条件改为 25 座建筑被摧毁（之前是 20 座）。</TimelineRow>

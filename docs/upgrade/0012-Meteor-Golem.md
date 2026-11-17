@@ -85,8 +85,8 @@ const tableExtraInfo = [
 | 等级 |  投掷伤害 | 生命值 | 升级花费|  升级时间  |所需实验室等级|所需大本等级|
 | ---- |   ----   |  ---- |    ---  |     ---   |     ---     |   ----    |
 | 1 | 480 | 15300 | \ | \ | N/A | 17 |
-| 2 | 530 | 16900 | 28M | 14 | 15 | 17 |
-| 3 | 580 | 18500 | 30M | 16 | 16 | 18 |
+| 2 | 530 | 16900 | 20M | 10 | 15 | 17 |
+| 3 | 580 | 18500 | 22M | 11, 12 | 16 | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -136,6 +136,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>2 ~ 3 级陨石戈仑的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/10/20">
         <TimelineRow>所有等级陨石魔像和小陨石魔像的生命值提升。</TimelineRow>
     </TimelineItem>

@@ -64,15 +64,18 @@ const tableExtraInfo = [
 | ---- |        ---       |    ---   |    ---    |       ----      |      ----    |
 | 1 | 60% | \ | \ | N/A | 15 |
 | 2 | 65% | 18M | 7 | 13 | 15 |
-| 3 | 70% | 19M | 8 | 14 | 16 |
-| 4 | 75% | 20M | 11,12 | 15 | 17 |
-| 5 | 80% | 29.5M | 16 | 16 | 18 |
+| 3 | 70% | 18.5M | 7, 12 | 14 | 16 |
+| 4 | 75% | 19M | 10, 12 | 15 | 17 |
+| 5 | 80% | 24M | 12, 18 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>3 ~ 5 级复苏法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/08/31">
         <TimelineRow>复苏机制优化：选中复苏法术后，可通过点击兵种栏中阵亡英雄的脉冲图标直接复苏该英雄，避免因多个英雄距离过近而复苏错误英雄。</TimelineRow>
     </TimelineItem>

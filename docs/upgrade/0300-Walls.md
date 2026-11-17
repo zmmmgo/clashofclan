@@ -101,8 +101,8 @@ const tableExtraInfo = [
 | 15 | 10000 | 3 | 3 | 3 | 14 |
 | 16 | 11000 | 4 | 4 | 4 | 15 |
 | 17 | 12000 | 5 | 5 | 5 | 16 |
-| 18 | 13000 | 7 | 7 | 7 | 17 |
-| 19 | 14000 | 10 | 10 | 10 | 18 |
+| 18 | 13000 | 6 | 6 | 7 | 17 |
+| 19 | 14000 | 8 | 8 | 10 | 18 |
 
 </UnitTable>
 
@@ -111,6 +111,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>18 ~ 19 级城墙的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>18 本新解锁 75 块 19 级城墙（共 275 块）。</TimelineRow>
     </TimelineItem>

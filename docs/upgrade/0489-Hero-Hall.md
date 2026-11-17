@@ -92,8 +92,8 @@ const tableExtraInfo = [
 | 8 | 4 | 4600 | 9.5M | 6,12 |  | 14 | 无 |
 | 9 | 4 | 5000 | 11M | 7 |  | 15 | <a href="/upgrade/0205-Dragon-Duke">飞龙公爵</a> |
 | 10 | 4 | 5400 | 13M | 8 |  | 16 | 无 |
-| 11 | 4 | 5800 | 17M | 9 |  | 17 | 无 |
-| 12 | 4 | 6000 | 26M | 13,12 |  | 18 | 无 |
+| 11 | 4 | 5800 | 15.5M | 9 |  | 17 | 无 |
+| 12 | 4 | 6000 | 23.5M | 12, 12 |  | 18 | 无 |
 
 </UnitTable>
 
@@ -207,6 +207,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>12 级英雄殿堂的升级时间减少。</TimelineRow>
+        <TimelineRow>11 ~ 12 级英雄殿堂的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/05/26">
         <TimelineRow>英雄殿堂的解锁大本由 7 本下调至 4 本。</TimelineRow>
         <TimelineRow>1 级英雄殿堂的建造费用由 80 万减少到 3 万，建造时间由 1 天缩短至 1 小时。</TimelineRow>

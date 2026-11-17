@@ -80,15 +80,19 @@ const tableExtraInfo = [
 
 | 等级 |平均<br>每秒伤害| 每次伤害 | 生命值 | 升级费用 | 升级时间 |升级后可<br>获得的经验|所需<br>大本等级|
 | ---- |      ---      |   ---   |  ---  |   ---   |   ---    |         ---        |      ---      |
-| 1 | 410 | 46.03 | 4500 | 17M | 8,12 |  | 17 |
-| 2 | 437 | 49.05 | 5000 | 18M | 10 |  | 17 |
-| 3 | 455 | 51.07 | 5300 | 29M | 15 |  | 18 |
+| 1 | 410 | 46.03 | 4500 | 15.5M | 8,12 |  | 17 |
+| 2 | 437 | 49.05 | 5000 | 17M | 10 |  | 17 |
+| 3 | 455 | 51.07 | 5300 | 22.5M | 11 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>3 级火焰喷射器的升级时间减少。</TimelineRow>
+        <TimelineRow>1 ~ 3 级火焰喷射器的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本添加了 3 级火焰喷射器</TimelineRow>
         <TimelineRow>移除了火焰喷射器的充能等级。</TimelineRow>

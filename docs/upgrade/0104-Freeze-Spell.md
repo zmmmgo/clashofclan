@@ -64,13 +64,16 @@ const tableExtraInfo = [
 | 5 | 4.5 秒 | 4.2M | 2, 12 | 8 | 10 |
 | 6 | 5 秒 | 6M | 3,12 | 9 | 11 |
 | 7 | 5.5 秒 | 7M | 5 | 10 | 12 |
-| 8 | 6 秒 | 28M | 15, 12 | 16 | 18 |
+| 8 | 6 秒 | 21.5M | 11, 18 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>8 级冰冻法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>新增 8 级冰冻法术。</TimelineRow>
     </TimelineItem>

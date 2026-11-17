@@ -77,17 +77,21 @@ const tableExtraInfo = [
 | ---- |       ----     |    ---   |    ---    |       ----      |      ----    |
 | 1 | 83 | \ | \ | N/A | 13 |
 | 2 | 89 | 7.5M | 7 | 11 | 13 |
-| 3 | 95 | 8M | 7,12 | 12 | 14 |
-| 4 | 101 | 9M | 8 | 13 | 15 |
-| 5 | 107 | 13M | 9 | 14 | 16 |
-| 6 | 113 | 19M | 11 | 15 | 17 |
-| 7 | 120 | 29M | 16 | 16 | 18 |
+| 3 | 95 | 8M | 7, 6 | 12 | 14 |
+| 4 | 101 | 9M | 7, 12 | 13 | 15 |
+| 5 | 107 | 13M | 8 | 14 | 16 |
+| 6 | 113 | 17M | 9, 6 | 15 | 17 |
+| 7 | 120 | 19.5M | 11 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>3 ~ 7 级回溯法术的升级时间减少。</TimelineRow>
+        <TimelineRow>6 ~ 7 级回溯法术的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>新增 7 级回溯法术。</TimelineRow>
         <TimelineRow>3 ~ 6 级回溯法术的升级时间减少。</TimelineRow>

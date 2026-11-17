@@ -88,7 +88,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoLongRageMode;
 | ---- |   ---   |   ---   |   ---  |   ---   |   ---   |        ---          |       ---      |
 | 1 | 350 | 350 | 4000 | 17M | 8 |  | 17 |
 | 2 | 370 | 370 | 4200 | 18M | 9 |  | 17 |
-| 3 | 390 | 390 | 4350 | 28M | 14 |  | 18 |
+| 3 | 390 | 390 | 4350 | 23.5M | 11 |  | 18 |
 | ⚡1 | 400 | 400 | 4350 | 4.75M | 2,10 |  | 18 |
 | ⚡2 | 400 | 400 | 4500 | 4M | 2,19 |  | 18 |
 
@@ -157,6 +157,9 @@ const tableExtraInfoFastAttackMode = tableExtraInfoLongRageMode;
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>3 级复合机械塔的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/10/20">
         <TimelineRow>复合机械塔充能耗时与费用减少。</TimelineRow>
     </TimelineItem>

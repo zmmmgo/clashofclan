@@ -95,14 +95,18 @@ const tableExtraInfo = [
 | 12 | 1280 | 8.1M | 7 |  | 14 |
 | 13 | 1350 | 10.8M | 8 |  | 15 |
 | 14 | 1400 | 13M | 9 |  | 16 |
-| 15 | 1450 | 18M | 10 |  | 17 |
-| 16 | 1500 | 27M | 16 |  | 18 |
+| 15 | 1450 | 17M | 10 |  | 17 |
+| 16 | 1500 | 25M | 13, 12 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>16 级实验室的升级时间减少。</TimelineRow>
+        <TimelineRow>15 ~ 16 级实验室的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 16 级实验室。</TimelineRow>
         <TimelineRow>15 级实验室的升级时间和升级费用减少。</TimelineRow>

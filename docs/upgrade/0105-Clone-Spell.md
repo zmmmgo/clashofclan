@@ -62,15 +62,18 @@ const tableExtraInfo = [
 | 4 | 28 | 3M | 2,6 | 9 | 11 |
 | 5 | 30 | 4M | 2,12 | 9 | 11 |
 | 6 | 34 | 5M | 4 | 11 | 13 |
-| 7 | 38 | 8M | 5 | 12 | 14 |
+| 7 | 38 | 7M | 4, 12 | 12 | 14 |
 | 8 | 42 | 9M | 7 | 13 | 15 |
-| 9 | 48 | 26M | 13,12 | 16 | 18 |
+| 9 | 48 | 21M | 11, 6 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>7、9 级镜像法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>新增 9 级镜像法术。</TimelineRow>
     </TimelineItem>

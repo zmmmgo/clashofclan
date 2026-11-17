@@ -93,8 +93,8 @@ const tableExtraInfo = [
 | 10 | 45 | 3 | 1 | 5200 | 10M | 7 |  | 14 |
 | 11 | 50 | 3 | 1 | 5400 | 12M | 8 |  | 15 |
 | 12 | 50 | 3 | 2<sup>②</sup> | 5600 | 14.5M | 9 |  | 16 |
-| 13 | 55 | 3 | 2 | 5800 | 19M | 10 |  | 17 |
-| 14 | 55 | 4 | 2 | 6000 | 28M | 14 |  | 18 |
+| 13 | 55 | 3 | 2 | 5800 | 17.5M | 10 |  | 17 |
+| 14 | 55 | 4 | 2 | 6000 | 25.5M | 13 |  | 18 |
 
 </UnitTable>
 
@@ -277,6 +277,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>14 级部落城堡的升级时间减少。</TimelineRow>
+        <TimelineRow>13 ~ 14 级部落城堡的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 14 级部落城堡。</TimelineRow>
         <TimelineRow>13 级部落城堡的升级时间和升级费用减少。</TimelineRow>

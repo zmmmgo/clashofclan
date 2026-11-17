@@ -122,14 +122,14 @@ const tableExtraInfoFastMode = tableExtraInfoStandardMode;
 | 8 | 20 | 100 | 800 | 1.2M | 0, 18 | 254 | 10 |
 | 9 | 25 | 125 | 950 | 1.6M | 0, 20 | 268 | 11 |
 | 10 | 30 | 150 | 1100 | 1.8M | 1 | 293 | 11 |
-| 11 | 35 | 175 | 1300 | 2.3M | 1,6 | 328 | 12 |
-| 12 | 38 | 190 | 1500 | 2.4M | 1,12 | 360 | 12 |
+| 11 | 35 | 175 | 1300 | 2M | 1,6 | 328 | 12 |
+| 12 | 38 | 190 | 1500 | 2.2M | 1,12 | 360 | 12 |
 | 13 | 42 | 210 | 1700 | 2.8M | 2 | 415 | 13 |
-| 14 | 48 | 240 | 1950 | 4.3M | 2,12 | 464 | 14 |
+| 14 | 48 | 240 | 1950 | 3.4M | 2, 6 | 464 | 14 |
 | 15 | 54 | 270 | 2150 | 5M | 3 | 509 | 15 |
 | 16 | 60 | 300 | 2300 | 7M | 4 | 587 | 16 |
-| 17 | 66 | 330 | 2450 | 13M | 5 | 831 | 17 |
-| 18 | 72 | 360 | 2550 | 21M | 12,12 | 1039 | 18 |
+| 17 | 66 | 330 | 2450 | 8.5M | 4, 6 | 831 | 17 |
+| 18 | 72 | 360 | 2550 | 15.5M | 8, 12 | 1039 | 18 |
 
 </UnitTable>
 </SwitchTabGroup>
@@ -210,6 +210,10 @@ const tableExtraInfoFastMode = tableExtraInfoStandardMode;
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>14、17、18 级迫击炮的升级时间减少。</TimelineRow>
+        <TimelineRow>11、12、14、17、18 级迫击炮的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>添加了 18 级迫击炮。</TimelineRow>
         <TimelineRow>移除了 17 级迫击炮的超级充能。</TimelineRow>

@@ -126,6 +126,9 @@ canonical: /upgrade/0e1b-Meteor-Golem
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>2 ~ 3 级陨石戈仑的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，陨石戈仑成为永久兵种，共推出 3 个等级。</TimelineRow>
     </TimelineItem>

@@ -69,7 +69,7 @@ const tableExtraInfo = [
 | 4 | 160% | 26 | 1M | 1 | 5 | 8 |
 | 5 | 170% | 28 | 2M | 2 | 6 | 9 |
 | 6 | 180% | 30 | 5M | 4 | 10 | 12 |
-| 7 | 190% | 32 | 26M | 14 | 16 | 18 |
+| 7 | 190% | 32 | 24M | 12, 18 | 16 | 18 |
 
 </UnitTable>
 
@@ -80,6 +80,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>7 级狂暴法术的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>新增 7 级狂暴法术。</TimelineRow>
     </TimelineItem>

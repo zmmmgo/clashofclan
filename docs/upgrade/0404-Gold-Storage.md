@@ -108,14 +108,17 @@ const tableExtraInfo = [
 | 15 | 4.5M | 3700 | 3M | 2 |  | 14 |
 | 16 | 5M | 3900 | 4M | 3 |  | 15 |
 | 17 | 5.5M | 4050 | 5.5M | 4 |  | 16 |
-| 18 | 6M | 4200 | 10M | 5 |  | 17 |
-| 19 | 6.5M | 4300 | 18M | 12,12 |  | 18 |
+| 18 | 6M | 4200 | 8.5M | 4, 6 |  | 17 |
+| 19 | 6.5M | 4300 | 12.5M | 7, 12 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>18 ~ 19 级储金罐的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 19 级储金罐。</TimelineRow>
         <TimelineRow>18 级储金罐的升级时间减少。</TimelineRow>

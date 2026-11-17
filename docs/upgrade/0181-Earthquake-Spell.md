@@ -159,9 +159,9 @@ const tableExtraInfo = [
 | 3 | 21% | \ | 4.1 格 | 12k | 1 | 7 | 10 |
 | 4 | 25% | \ | 4.4 格 | 25.5k | 3 | 8 | 10 |
 | 5 | 29% | \ | 4.7 格 | 42k | 3,12 | 9 | 11 |
-| 6 | 29% | 5% | 4.7 格 | 120k | 8 | 12 | 14 |
-| 7 | 29% | 10% | 4.7 格 | 200k | 9 | 14 | 16 |
-| 8 | 29% | 14.5%<sup>②</sup> | 4.7 格 | 330k | 13,12 | 16 | 18 |
+| 6 | 29% | 5% | 4.7 格 | 110k | 7 | 12 | 14 |
+| 7 | 29% | 10% | 4.7 格 | 200k | 8, 12 | 14 | 16 |
+| 8 | 29% | 14.5%<sup>②</sup> | 4.7 格 | 305k | 12 | 16 | 18 |
 
 </UnitTable>
 
@@ -171,6 +171,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>6 ~ 8 级地震法术的升级时间减少。</TimelineRow>
+        <TimelineRow>6、8 级地震法术的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>现在地震法术可以对部队造成伤害了。</TimelineRow>
         <TimelineRow>推出 6 ~ 8 级地震法术。</TimelineRow>

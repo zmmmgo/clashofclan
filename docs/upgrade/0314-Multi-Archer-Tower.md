@@ -82,13 +82,16 @@ const tableExtraInfo = [
 | 1 | 100 | 60 | 5000 | 12M | 7 |  | 16 |
 | 2 | 108 | 65 | 5200 | 13M | 8 |  | 16 |
 | 3 | 116 | 70 | 5400 | 17.5M | 9 |  | 17 |
-| 4 | 121 | 73 | 5500 | 27M | 14 |  | 18 |
+| 4 | 121 | 73 | 5500 | 23M | 11 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>4 级多人箭塔的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>多人箭塔的攻速由 0.5 秒/次 降低到 0.6 秒/次。</TimelineRow>
     </TimelineItem>

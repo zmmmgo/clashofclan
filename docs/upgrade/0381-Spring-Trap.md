@@ -103,14 +103,17 @@ const tableExtraInfo = [
 | 9 | 18 | 900 | 3M | 0, 18 |  | 14 |
 | 10 | 18 | 1050 | 4M | 1 |  | 15 |
 | 11 | 18 | 1200 | 6M | 2 |  | 16 |
-| 12 | 18 | 1300 | 13M | 3 |  | 17 |
-| 13 | 18 | 1400 | 16M | 11 |  | 18 |
+| 12 | 18 | 1300 | 7M | 2, 12 |  | 17 |
+| 13 | 18 | 1400 | 9.5M | 5 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>12 ~ 13 级隐形弹簧的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 13 级隐形弹簧。</TimelineRow>
     </TimelineItem>

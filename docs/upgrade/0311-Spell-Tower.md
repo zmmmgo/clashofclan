@@ -206,9 +206,9 @@ const tableExtraInfo = [
 | 等级 | 生命值 | 升级费用 | 升级时间 | 升级后可<br>获得的经验| 所需<br>大本等级 | 解锁的法术 |
 | ---- |   --- |   ---   |   ---    |        ---          |       ---       |    ---    |
 | 1 | 2500 | 9M | 7 |  | 15 | <a href="/upgrade/0102-Rage-Spell">狂暴法术</a> |
-| 2 | 2800 | 11M | 8 |  | 15 | <a href="/upgrade/0180-Poison-Spell">毒药法术</a> |
-| 3 | 3100 | 12M | 8,12 |  | 15 | <a href="/upgrade/0106-Invisibility-Spell">隐形法术</a> |
-| 4 | 3200 | 27M | 10 |  | 17 | <a href="/upgrade/0181-Earthquake-Spell">地震法术</a> |
+| 2 | 2800 | 11M | 7, 12 |  | 15 | <a href="/upgrade/0180-Poison-Spell">毒药法术</a> |
+| 3 | 3100 | 12M | 8 |  | 15 | <a href="/upgrade/0106-Invisibility-Spell">隐形法术</a> |
+| 4 | 3200 | 17M | 10 |  | 17 | <a href="/upgrade/0181-Earthquake-Spell">地震法术</a> |
 
 </UnitTable>
 
@@ -217,6 +217,10 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>2 ~ 3 级法术塔的升级时间减少。</TimelineRow>
+        <TimelineRow>4 级法术塔的升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 17 本添加了 4 级法术塔。</TimelineRow>
     </TimelineItem>

@@ -82,15 +82,18 @@ const tableExtraInfo = [
 | 8 | 34 | 34 | 205 | 1.5M | 1 | 9 | 11 |
 | 9 | 38 | 38 | 230 | 2.5M | 1,12 | 10 | 12 |
 | 10 | 42 | 42 | 250 | 4.3M | 2 | 12 | 14 |
-| 11 | 45 | 45 | 270 | 6M | 3 | 13 | 15 |
-| 12 | 48 | 48 | 290 | 8M | 4 | 14 | 16 |
-| 13 | 51 | 51 | 310 | 24M | 12,12 | 16 | 18 |
+| 11 | 45 | 45 | 270 | 5M | 2, 12 | 13 | 15 |
+| 12 | 48 | 48 | 290 | 6M | 3 | 14 | 16 |
+| 13 | 51 | 51 | 310 | 18M | 9 | 16 | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>11 ~ 13 级野蛮人的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 13 级野蛮人。</TimelineRow>
         <TimelineRow>12 级野蛮人的升级时间减少。</TimelineRow>

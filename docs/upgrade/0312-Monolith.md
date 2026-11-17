@@ -77,13 +77,16 @@ const tableExtraInfo = [
 | 2 | 175 | 262.5 | 12% | 5050 | 250k | 8 |  | 15 |
 | 3 | 193 | 289.5 | 13% | 5353 | 260k | 9 |  | 16 |
 | 4 | 209 | 313.5 | 14% | 5656 | 300k | 11 |  | 17 |
-| 5 | 225 | 337.5 | 15% | 5959 | 470k | 15 |  | 18 |
+| 5 | 225 | 337.5 | 15% | 5959 | 405k | 12 |  | 18 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>5 级巨石碑的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/06/16">
         <TimelineRow>在 18 本新增 5 级巨石碑，同时移除 4 级的精工充能等级。</TimelineRow>
     </TimelineItem>
