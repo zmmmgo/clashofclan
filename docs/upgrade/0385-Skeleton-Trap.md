@@ -44,7 +44,7 @@ canonical: /upgrade/0385-Skeleton-Trap
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 7, 8 - 9, 10 - 13, 14 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 7, 8 - 9, 10 - 13, 14 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,     2,       3,       4" />
 </BuildingNum>
 

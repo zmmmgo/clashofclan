@@ -31,6 +31,7 @@ canonical: /upgrade/0002-Giant
         <UnitImg imgTitle="12 级" imgSrc="Giant12.png" />
         <UnitImg imgTitle="13 级" imgSrc="Giant13.png" />
         <UnitImg imgTitle="14 级" imgSrc="Giant14.png" imgHd="Giant14_hd.png" />
+        <UnitImg imgTitle="15 级" imgSrc="Giant15.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -88,6 +89,7 @@ const tableExtraInfo = [
 | 13 | 104 | 208 | 2700 | 10.5M | 6, 12 | 15 | 17 |
 | 14 | 114 | 228 | 3000 | 20M | 8 | 16 | 18 |
 
+| 15 | 124 | 248 | 3600 | 29.5M | 13 | 17 | 19 |
 </UnitTable>
 
 \# 根据安装包解析的结果，玩家可以在 1 本把训练营升到 3 级以解锁巨人，但这仅仅是理论上的，实际上新手教程会直接引导玩家升到 2 本，根本没有在 1 本升级训练营的机会。
@@ -97,6 +99,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>10 ~ 14 级巨人的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 15 级巨人。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 14 级巨人。</TimelineRow>

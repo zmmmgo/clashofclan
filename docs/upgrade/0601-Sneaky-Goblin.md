@@ -57,11 +57,15 @@ canonical: /upgrade/0601-Sneaky-Goblin
 |   9  |    180   |   180   |          360         |   350 |     15    |
 | 10 | 190 | 190 | 380 | 380 | 18 |
 
+| 11 | 200 | 200 | 400 | 410 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>在 19 本新增 11 级隐秘哥布林。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 10 级哥布林，超级部队的等级也相应更新。</TimelineRow>
     </TimelineItem>

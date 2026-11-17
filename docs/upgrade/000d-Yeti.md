@@ -31,6 +31,7 @@ canonical: /upgrade/000d-Yeti
         <UnitImg imgTitle="5 级" imgSrc="Yeti5.png" />
         <UnitImg imgTitle="6 级" imgSrc="Yeti6.png" />
         <UnitImg imgTitle="7 级" imgSrc="Yeti7.png" imgHd="Yeti7_hd.png" />
+        <UnitImg imgTitle="9 级" imgSrc="Yeti9.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -86,6 +87,7 @@ const tableExtraInfo = [
 | 7 | 350 | 350 | 14 | 4300 | 15.5M | 8, 12 | 15 | 17 |
 | 8 | 380 | 380 | 14 | 4650 | 19M | 11 | 16 | 18 |
 
+| 9 | 410 | 410 | 15 | 5300 | 25M | 11, 12 | 17 | 19 |
 </UnitTable>
 </SwitchTabGroup>
 
@@ -158,6 +160,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>3、6、7、8 级大雪怪的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 9 级大雪怪。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 8 级大雪怪及对应等级的小雪怪。</TimelineRow>

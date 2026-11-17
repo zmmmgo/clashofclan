@@ -30,6 +30,7 @@ canonical: /upgrade/0000-Barbarian
         <UnitImg imgTitle="10 级" imgSrc="Barbarian10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Barbarian11.png" />
         <UnitImg imgTitle="12 级" imgSrc="Barbarian12.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Barbarian14.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -86,6 +87,7 @@ const tableExtraInfo = [
 | 12 | 48 | 48 | 290 | 6M | 3 | 14 | 16 |
 | 13 | 51 | 51 | 310 | 18M | 9 | 16 | 18 |
 
+| 14 | 54 | 54 | 330 | 30M | 13, 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -93,6 +95,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>11 ~ 13 级野蛮人的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 14 级野蛮人。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 13 级野蛮人。</TimelineRow>

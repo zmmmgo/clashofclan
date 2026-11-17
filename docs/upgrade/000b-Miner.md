@@ -26,6 +26,7 @@ canonical: /upgrade/000b-Miner
         <UnitImg imgTitle="10 级" imgSrc="Miner10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Miner11.png" imgHd="Miner11_hd.png" />
         <UnitImg imgTitle="12 级" imgSrc="Miner12.png" imgHd="Miner12_hd.png" />
+        <UnitImg imgTitle="13 级" imgSrc="Miner13.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -90,6 +91,7 @@ const tableExtraInfo = [
 | 11 | 175 | 297.5 | 1850 | 12M | 6, 12 | 15 | 17 |
 | 12 | 195 | 331.5 | 2150 | 19M | 8 | 16 | 18 |
 
+| 13 | 215 | 365.5 | 2350 | 28M | 11 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -97,6 +99,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>7 ~ 12 级掘地矿工的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 13 级掘地矿工。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/10/20">
         <TimelineRow>11 ~ 12 级掘地矿工的生命值提升。</TimelineRow>

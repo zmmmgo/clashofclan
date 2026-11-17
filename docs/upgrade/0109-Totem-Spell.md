@@ -68,6 +68,7 @@ const tableExtraInfo = [
 | 3 | 12000 | 19M | 12 | 15 | 17 |
 | 4 | 13000 | 22M | 12, 6 | 16 | 18 |
 
+| 5 | 14000 | 31M | 15 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -75,6 +76,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>2 ~ 4 级图腾法术的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 5 级图腾法术。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>图腾的有效半径由 6 格改为 5 格。</TimelineRow>

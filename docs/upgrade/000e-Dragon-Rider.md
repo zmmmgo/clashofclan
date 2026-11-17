@@ -21,6 +21,7 @@ canonical: /upgrade/000e-Dragon-Rider
         <UnitImg imgTitle="4 级" imgSrc="Dragon_Rider4.png" />
         <UnitImg imgTitle="5 级" imgSrc="Dragon_Rider5.png" />
         <UnitImg imgTitle="6 级" imgSrc="Dragon_Rider6.png" imgHd="Dragon_Rider6_hd.png" />
+        <UnitImg imgTitle="7 级" imgSrc="Dragon_Rider7.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -72,6 +73,7 @@ const tableExtraInfo = [
 | 5 | 470 | 564 | 1100 | 5600 | 17.5M | 9, 12 | 15 | 17 |
 | 6 | 490 | 588 | 1200 | 5900 | 21M | 11, 12 | 16 | 18 |
 
+| 7 | 510 | 612 | 1300 | 6200 | 28.5M | 12, 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -79,6 +81,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>2 ~ 6 级龙骑士的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 7 级龙骑士。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/07/14">
         <TimelineRow>6 级飞龙骑士的伤害和生命值降低。</TimelineRow>

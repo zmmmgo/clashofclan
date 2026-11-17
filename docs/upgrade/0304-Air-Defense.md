@@ -34,14 +34,15 @@ canonical: /upgrade/0304-Air-Defense
         <UnitImg imgTitle="14 级" imgSrc="Air_Defense14.png" />
         <UnitImg imgTitle="15 级" imgSrc="Air_Defense15.png" />
         <UnitImg imgTitle="16 级" imgSrc="Air_Defense16.png" />
+        <UnitImg imgTitle="17 级" imgSrc="Air_Defense17.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 5, 6, 7 - 8, 9 - 18" />
-    <BuildingNumRow title="建筑数量" num="    0,     1, 2,     3,      4" />
+    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 5, 6, 7 - 8, 9 - 18, 19" />
+    <BuildingNumRow title="建筑数量" num="    0,     1, 2,     3,      4,  5" />
 </BuildingNum>
 
 <SmallTitle>属性</SmallTitle>
@@ -99,6 +100,7 @@ const tableExtraInfo = [
 | 15 | 650 | 650 | 1950 | 13.5M | 7 |  | 17 |
 | 16 | 700 | 700 | 2050 | 18.5M | 10 |  | 18 |
 
+| 17 | 790 | 790 | 2150 | 28.5M | 14 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -108,6 +110,7 @@ const tableExtraInfo = [
         <TimelineRow>10、11、12、13、14、16 级防空火箭的升级时间减少。</TimelineRow>
         <TimelineRow>10、11、12、14、15、16 级防空火箭的升级费用减少。</TimelineRow>
         <TimelineRow>16 级防空火箭的生命值提升。</TimelineRow>
+            <TimelineRow>在 19 本新增 17 级防空火箭，且 19 本可额外建造 1 个防空火箭（共 5 个）。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 16 级防空火箭。</TimelineRow>

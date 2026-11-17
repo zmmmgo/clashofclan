@@ -90,7 +90,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 <SmallTitle>各大本等级的箭塔数量</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1, 2 - 3, 4, 5 - 6,  7, 8, 9, 10, 11 - 15, 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1, 2 - 3, 4, 5 - 6,  7, 8, 9, 10, 11 - 15, 16, 17 - 19" />
     <BuildingNumRow title="建筑数量" num="0,     1, 2,     3,  4, 5, 6,  7,       8,  4,       2" />
 </BuildingNum>
 
@@ -170,7 +170,7 @@ const tableExtraInfoFastAttackMode = tableExtraInfoStandardMode;
 <SmallTitle>各大本等级的箭塔数量</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1, 2 - 3, 4, 5 - 6,  7, 8, 9, 10, 11 - 15, 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1, 2 - 3, 4, 5 - 6,  7, 8, 9, 10, 11 - 15, 16, 17 - 19" />
     <BuildingNumRow title="建筑数量" num="0,     1, 2,     3,  4, 5, 6,  7,       8,  4,       2" />
 </BuildingNum>
 

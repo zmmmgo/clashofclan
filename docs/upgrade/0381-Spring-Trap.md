@@ -24,6 +24,7 @@ canonical: /upgrade/0381-Spring-Trap
         <UnitImg imgTitle="9 - 10 级" imgSrc="Spring_Trap9.png" />
         <UnitImg imgTitle="11 - 12 级" imgSrc="Spring_Trap11.png" />
         <UnitImg imgTitle="13 级" imgSrc="Spring_Trap13.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Spring_Trap14.png" />
     </UnitImgGroup>
     <UnitImgGroup title="未重新布置" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 - 2 级" imgSrc="Spring_Trap1_unarmed.png" />
@@ -35,8 +36,8 @@ canonical: /upgrade/0381-Spring-Trap
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 5, 6 - 7, 8 - 11, 12, 13 - 18" />
-    <BuildingNumRow title="建筑数量" num="    0,     2,     4,      6,  8,       9" />
+    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 5, 6 - 7, 8 - 11, 12, 13 - 18, 19" />
+    <BuildingNumRow title="建筑数量" num="    0,     2,     4,      6,  8,       9, 10" />
 </BuildingNum>
 
 <SmallTitle>重要说明</SmallTitle>
@@ -106,6 +107,7 @@ const tableExtraInfo = [
 | 12 | 18 | 1300 | 7M | 2, 12 |  | 17 |
 | 13 | 18 | 1400 | 9.5M | 5 |  | 18 |
 
+| 14 | 18 | 1500 | 17M | 8 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -113,6 +115,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>12 ~ 13 级隐形弹簧的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 14 级隐形弹簧，且 19 本可额外建造 1 个隐形弹簧（共 10 个）。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 13 级隐形弹簧。</TimelineRow>

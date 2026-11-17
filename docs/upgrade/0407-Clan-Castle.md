@@ -30,13 +30,14 @@ canonical: /upgrade/0407-Clan-Castle
         <UnitImg imgTitle="12 级" imgSrc="Clan_Castle12.png" imgHd="Clan_Castle12_hd.png" />
         <UnitImg imgTitle="13 级" imgSrc="Clan_Castle13.png" imgHd="Clan_Castle13_hd.png" />
         <UnitImg imgTitle="14 级" imgSrc="Clan_Castle14.png" imgHd="Clan_Castle14_hd.png" />
+        <UnitImg imgTitle="15 级" imgSrc="Clan_Castle15.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
@@ -96,6 +97,7 @@ const tableExtraInfo = [
 | 13 | 55 | 3 | 2 | 5800 | 17.5M | 10 |  | 17 |
 | 14 | 55 | 4 | 2 | 6000 | 25.5M | 13 |  | 18 |
 
+| 15 | 60 | 4 | 2 | 6200 | 31.5M | 16 |  | 19 |
 </UnitTable>
 
 ① 理论上来说，玩家只有升级到 3 级大本营才能达到 10 000 的资源储量用来修复城堡，但是如果玩家在 2 级大本营时遇到夯木节（升级建筑的费用减半）活动，或者购买资源礼包，那么就可以提前解锁城堡。  
@@ -280,6 +282,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>14 级部落城堡的升级时间减少。</TimelineRow>
         <TimelineRow>13 ~ 14 级部落城堡的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 15 级部落城堡。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 14 级部落城堡。</TimelineRow>

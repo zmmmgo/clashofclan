@@ -36,13 +36,14 @@ canonical: /upgrade/0404-Gold-Storage
         <UnitImg imgTitle="17 级" imgSrc="Gold_Storage17.png" />
         <UnitImg imgTitle="18 级" imgSrc="Gold_Storage18.png" />
         <UnitImg imgTitle="19 级" imgSrc="Gold_Storage19.png" />
+        <UnitImg imgTitle="20 级" imgSrc="Gold_Storage20.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 7, 8, 9 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 7, 8, 9 - 19" />
     <BuildingNumRow title="建筑数量" num="    1,     2, 3,      4" />
 </BuildingNum>
 
@@ -111,6 +112,7 @@ const tableExtraInfo = [
 | 18 | 6M | 4200 | 8.5M | 4, 6 |  | 17 |
 | 19 | 6.5M | 4300 | 12.5M | 7, 12 |  | 18 |
 
+| 20 | 7M | 4400 | 18M | 11 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -118,6 +120,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>18 ~ 19 级储金罐的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 20 级储金罐。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 19 级储金罐。</TimelineRow>

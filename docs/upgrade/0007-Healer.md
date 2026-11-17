@@ -24,6 +24,7 @@ canonical: /upgrade/0007-Healer
         <UnitImg imgTitle="9 级" imgSrc="Healer9.png" />
         <UnitImg imgTitle="10 级" imgSrc="Healer10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Healer11.png" />
+        <UnitImg imgTitle="12 级" imgSrc="Healer12.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -87,6 +88,7 @@ const tableExtraInfo = [
 | 10 | 80 | 78 | 2000 | 15M | 9, 12 | 15 | 17 |
 | 11 | 82 | 88 | 2100 | 20M | 11, 12 | 16 | 18 |
 
+| 12 | 84 | 99 | 2200 | 29.5M | 13 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -94,6 +96,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>6、10、11 级天使的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 12 级天使。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 11 级天使。</TimelineRow>

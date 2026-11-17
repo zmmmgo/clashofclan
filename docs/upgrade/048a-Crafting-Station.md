@@ -14,7 +14,7 @@ canonical: /upgrade/048a-Crafting-Station
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 10, 11 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 10, 11 - 19" />
     <BuildingNumRow title="建筑数量" num="     0,       1" />
 </BuildingNum>
 

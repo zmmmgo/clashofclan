@@ -22,13 +22,14 @@ canonical: /upgrade/0313-Ricochet-Cannon
         <UnitImg imgTitle="2 级" imgSrc="Ricochet_Cannon2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Ricochet_Cannon3.png" />
         <UnitImg imgTitle="4 级" imgSrc="Ricochet_Cannon4.png" />
+        <UnitImg imgTitle="5 级" imgSrc="Ricochet_Cannon5.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 15, 16 - 17, 18" />
+    <BuildingNumRow title="大本等级" num="1 - 15, 16 - 17, 18 - 19" />
     <BuildingNumRow title="建筑数量" num="     0,       2,  3" />
 </BuildingNum>
 
@@ -86,6 +87,7 @@ const tableExtraInfo = [
 | 3 | 405 | 324 | 324 | 6000 | 17.5M | 9 |  | 17 |
 | 4 | 412 | 329.6 | 329.6 | 6100 | 22M | 10 |  | 18 |
 
+| 5 | 440 | 352 | 246.4 | 6500 | 28M | 14 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -93,6 +95,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>4 级跳弹加农炮的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 5 级跳弹加农炮。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>跳弹加农炮第二个目标受到的伤害由 100% 降低到 70%.</TimelineRow>

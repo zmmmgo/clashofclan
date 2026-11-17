@@ -38,7 +38,7 @@ canonical: /upgrade/0482-Dark-Barracks
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 6, 7 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 6, 7 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 

@@ -42,6 +42,7 @@ canonical: /upgrade/0400-Town-Hall
         <UnitImg imgTitle="17 本 4 星" imgSrc="Town_Hall17_4.png" imgHd="Town_Hall17_4_hd.png" />
         <UnitImg imgTitle="17 本 5 星" imgSrc="Town_Hall17_5.png" imgHd="Town_Hall17_5_hd.png" />
         <UnitImg imgTitle="18 本" imgSrc="Town_Hall18.png" imgHd="Town_Hall18_hd.png" />
+        <UnitImg imgTitle="19 本" imgSrc="Town_Hall19.png" imgHd="Town_Hall19_hd.png" />
     </UnitImgGroup>
     <UnitImgGroup :folder="$frontmatter.imgFolder" title="老版本使用的模型">
         <UnitImg imgTitle="12 本 1 星" imgSrc="Town_Hall12_1.png" imgHd="Town_Hall12_1_hd.png" />
@@ -136,7 +137,8 @@ const tableExtraInfo2 = [
 | 15 | 9600 | 13M | 8 |  | 98 | 44 |
 | 16 | 10000 | 15M | 9 |  | 94 | 44 |
 | 17 | 10400 | 16M | 10 |  | 93 | 47 |
-| 18 | 10800 | 25M | 12 |  | 94 | 47 |
+| 18 | 10800 | 20M | 10 |  | 95 | 47 |
+| 19 | 11200 | 27M | 13 |  | 97 | 48 |
 
 </UnitTable>
 
@@ -186,6 +188,10 @@ const tableExtraInfo2 = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>19 本推出。</TimelineRow>
+        <TimelineRow>18 级大本营的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>游戏新增 18 级大本营。</TimelineRow>
     </TimelineItem>

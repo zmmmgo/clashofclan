@@ -33,13 +33,14 @@ canonical: /upgrade/0483-Laboratory
         <UnitImg imgTitle="14 级" imgSrc="Laboratory14.png" />
         <UnitImg imgTitle="15 级" imgSrc="Laboratory15.png" />
         <UnitImg imgTitle="16 级" imgSrc="Laboratory16.png" imgHd="Laboratory16_hd.png" />
+        <UnitImg imgTitle="17 级" imgSrc="Laboratory17.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 2, 3 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
@@ -98,6 +99,7 @@ const tableExtraInfo = [
 | 15 | 1450 | 17M | 10 |  | 17 |
 | 16 | 1500 | 25M | 13, 12 |  | 18 |
 
+| 17 | 1550 | 30.5M | 15 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -106,6 +108,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>16 级实验室的升级时间减少。</TimelineRow>
         <TimelineRow>15 ~ 16 级实验室的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 17 级实验室。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 16 级实验室。</TimelineRow>

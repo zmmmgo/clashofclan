@@ -74,6 +74,7 @@ const tableExtraInfo = [
 | 11 | 2747 | 1510.85 | 16M | 8, 18 | 15 | 17 |
 | 12 | 3075 | 1691.25 | 19.5M | 10, 12 | 16 | 18 |
 
+| 13 | 3485 | 1916.75 | 29.5M | 14, 12 | 17 | 19 |
 </UnitTable>
 
 ① 表格中的总治疗量指的是每个兵都可以享受这么多治疗量。<br>
@@ -84,6 +85,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>9、11、12 级疗伤法术的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 13 级疗伤法术。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 12 级疗伤法术。</TimelineRow>

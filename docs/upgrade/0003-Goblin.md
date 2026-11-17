@@ -24,6 +24,7 @@ canonical: /upgrade/0003-Goblin
         <UnitImg imgTitle="7 级" imgSrc="Goblin7.png" />
         <UnitImg imgTitle="8 级" imgSrc="Goblin8.png" />
         <UnitImg imgTitle="9 级" imgSrc="Goblin9.png" />
+        <UnitImg imgTitle="11 级" imgSrc="Goblin11.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -83,6 +84,7 @@ const tableExtraInfo = [
 | 9 | 72 | 72 | 144 | 146 | 5.5M | 3, 12 | 13 | 15 |
 | 10 | 82 | 82 | 164 | 166 | 15M | 8, 12 | 16 | 18 |
 
+| 11 | 92 | 92 | 184 | 186 | 22M | 10, 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -90,6 +92,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>8 ~ 10 级哥布林的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 11 级哥布林。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 10 级哥布林。</TimelineRow>

@@ -22,13 +22,14 @@ canonical: /upgrade/0314-Multi-Archer-Tower
         <UnitImg imgTitle="2 级" imgSrc="Multi-Archer_Tower2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Multi-Archer_Tower3.png" />
         <UnitImg imgTitle="4 级" imgSrc="Multi-Archer_Tower4.png" />
+        <UnitImg imgTitle="5 级" imgSrc="Multi-Archer_Tower5.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 15, 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 15, 16, 17 - 19" />
     <BuildingNumRow title="建筑数量" num="     0,  2,       3" />
 </BuildingNum>
 
@@ -84,6 +85,7 @@ const tableExtraInfo = [
 | 3 | 116 | 70 | 5400 | 17.5M | 9 |  | 17 |
 | 4 | 121 | 73 | 5500 | 23M | 11 |  | 18 |
 
+| 5 | 136 | 82 | 5400 | 29M | 14, 12 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -91,6 +93,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>4 级多人箭塔的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 5 级多人箭塔。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/01/28">
         <TimelineRow>多人箭塔的攻速由 0.5 秒/次 降低到 0.6 秒/次。</TimelineRow>

@@ -22,6 +22,7 @@ canonical: /upgrade/000c-Electro-Dragon
         <UnitImg imgTitle="7 级" imgSrc="Electro_Dragon7.png" />
         <UnitImg imgTitle="8 级" imgSrc="Electro_Dragon8.png" />
         <UnitImg imgTitle="9 级" imgSrc="Electro_Dragon9.png" imgHd="Electro_Dragon9.png" />
+        <UnitImg imgTitle="10 级" imgSrc="Electro_Dragon10.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -89,6 +90,7 @@ const tableExtraInfo = [
 | 8 | 475 | 1,662.5 | 135×6 | 6400 | 18M | 9 | 15 | 17 |
 | 9 | 510 | 1,785 | 145×6 | 6900 | 22.5M | 12 | 16 | 18 |
 
+| 10 | 545 | 1,907.5 | 155×6 | 8000 | 29.5M | 13 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -96,6 +98,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>6 ~ 9 级雷电飞龙的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 10 级雷电飞龙。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/07/14">
         <TimelineRow>8 ~ 9 级雷电飞龙的伤害和生命值提升。</TimelineRow>

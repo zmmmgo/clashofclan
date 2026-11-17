@@ -72,6 +72,7 @@ const tableExtraInfo = [
 | 11 | 360 | 51% | 73% | 200k | 8 | 15 | 17 |
 | 12 | 380 | 52% | 74% | 280k | 10 | 16 | 18 |
 
+| 13 | 400 | 53% | 75% | 425k | 13, 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -80,6 +81,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>8、10、11、12 级毒药法术的升级时间减少。</TimelineRow>
         <TimelineRow>11 ~ 12 级毒药法术的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 13 级毒药法术。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>大本营守卫（Guardians）现在会受到毒药法术的影响，但毒药效果只有 30%。</TimelineRow>

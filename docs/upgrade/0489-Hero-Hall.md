@@ -27,13 +27,14 @@ canonical: /upgrade/0489-Hero-Hall
         <UnitImg imgTitle="10 级" imgSrc="Hero_Hall10.png" imgHd="Hero_Hall10_hd.png" />
         <UnitImg imgTitle="11 级" imgSrc="Hero_Hall11.png" imgHd="Hero_Hall11_hd.png" />
         <UnitImg imgTitle="12 级" imgSrc="Hero_Hall12.png" imgHd="Hero_Hall12_hd.png" />
+        <UnitImg imgTitle="13 级" imgSrc="Hero_Hall13.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 3, 4 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
@@ -95,6 +96,7 @@ const tableExtraInfo = [
 | 11 | 4 | 5800 | 15.5M | 9 |  | 17 | 无 |
 | 12 | 4 | 6000 | 23.5M | 12, 12 |  | 18 | 无 |
 
+| 13 | 4 | 6200 | 30.5M | 15, 12 |  | 19 | 无 |
 </UnitTable>
 
 <SmallTitle>英雄殿堂的初始等级</SmallTitle>
@@ -210,6 +212,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>12 级英雄殿堂的升级时间减少。</TimelineRow>
         <TimelineRow>11 ~ 12 级英雄殿堂的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 13 级英雄殿堂。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/05/26">
         <TimelineRow>英雄殿堂的解锁大本由 7 本下调至 4 本。</TimelineRow>

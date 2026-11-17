@@ -60,11 +60,15 @@ canonical: /upgrade/0602-Super-Giant
 |  13  |    175   |   350   |      1750     |  4900 |     17    |
 |  14  |    205   |   410   |      2050     |  5600 |     18    |
 
+| 15 | 235 | 470 | 2350 | 6300 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>在 19 本新增 15 级超级巨人。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/01/12">
         <TimelineRow>14 级超级巨人的每秒伤害和生命值增加。</TimelineRow>
     </TimelineItem>

@@ -44,7 +44,7 @@ canonical: /upgrade/0481-Barracks
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 19" />
     <BuildingNumRow title="建筑数量" num="1" />
 </BuildingNum>
 

@@ -179,6 +179,11 @@ const tableExtraInfo = [
 | 109 | 706 | 847.2 | 13225 | 460k | 8 | \ | 12 | 18 |
 | 110 | 713 | 855.6 | 13350 | 465k | 8 | \ | 12 | 18 |
 
+| 111 | 720 | 864 | 13475 | 475k | 8 | \ | 13 | 19 |
+| 112 | 727 | 872.4 | 13600 | 485k | 8 | \ | 13 | 19 |
+| 113 | 734 | 880.8 | 13725 | 495k | 8 | \ | 13 | 19 |
+| 114 | 741 | 889.2 | 13850 | 505k | 8 | \ | 13 | 19 |
+| 115 | 748 | 897.6 | 13975 | 520k | 8 | \ | 13 | 19 |
 </UnitTable>
 
 <SmallTitle>技能相关的数据</SmallTitle>
@@ -211,7 +216,8 @@ const tableExtraInfo = [
 |    95 - 99    |        2800        |
 |   100 - 104   |        2950        |
 |   105 - 109   |        3100        |
-|      110      |        3250        |
+|   110 - 114   |        3250        |
+|      115      |        3400        |
 </Table>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -220,6 +226,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>96 ~ 100 级野蛮人之王的升级时间减少。</TimelineRow>
         <TimelineRow>105 ~ 110 级野蛮人之王的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 111 ~ 115 级野蛮人之王。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>71 ~ 95 级野蛮人之王的升级时间减少。</TimelineRow>

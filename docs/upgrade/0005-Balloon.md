@@ -27,6 +27,7 @@ canonical: /upgrade/0005-Balloon
         <UnitImg imgTitle="10 级" imgSrc="Balloon10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Balloon11.png" />
         <UnitImg imgTitle="12 级" imgSrc="Balloon12.png" imgHd="Balloon12_hd.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Balloon14.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -87,6 +88,7 @@ const tableExtraInfo = [
 | 12 | 304 | 912 | 398 | 1240 | 15.5M | 10 | 15 | 17 |
 | 13 | 326 | 978 | 425 | 1360 | 22.5M | 11, 12 | 16 | 18 |
 
+| 14 | 350 | 1050 | 450 | 1600 | 28M | 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -94,6 +96,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>9、11、12、13 级气球兵的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 14 级气球兵。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 13 级气球兵。</TimelineRow>

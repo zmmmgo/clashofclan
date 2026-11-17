@@ -31,6 +31,7 @@ canonical: /upgrade/0001-Archer
         <UnitImg imgTitle="12 级" imgSrc="Archer12.png" />
         <UnitImg imgTitle="13 级" imgSrc="Archer13.png" imgHd="Archer13_hd.png" />
         <UnitImg imgTitle="14 级" imgSrc="Archer14.png" imgHd="Archer14_hd.png" />
+        <UnitImg imgTitle="15 级" imgSrc="Archer15.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -88,6 +89,7 @@ const tableExtraInfo = [
 | 13 | 43 | 43 | 72 | 11M | 7 | 15 | 17 |
 | 14 | 46 | 46 | 76 | 19M | 9 | 16 | 18 |
 
+| 15 | 49 | 49 | 80 | 31M | 14 | 17 | 19 |
 </UnitTable>
 
 \# 根据安装包解析的结果，玩家可以在 1 本把训练营升到 2 级以解锁弓箭手，但这仅仅是理论上的，实际上新手教程会直接引导玩家升到 2 本，根本没有在 1 本升级训练营的机会。
@@ -97,6 +99,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>10 ~ 14 级弓箭手的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 15 级弓箭手。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本新增 14 级弓箭手。</TimelineRow>

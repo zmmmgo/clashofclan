@@ -20,6 +20,7 @@ canonical: /upgrade/0100-Lightning-Spell
 <Panel>
     <UnitImgGroup :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="所有等级" imgSrc="Lightning_Spell.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Lightning_Spell14.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -79,6 +80,7 @@ const tableExtraInfo = [
 | 12 | 680 | 17M | 9, 6 | 15 | 17 |
 | 13 | 720 | 20M | 11 | 16 | 18 |
 
+| 14 | 760 | 31M | 15 | 17 | 19 |
 </UnitTable>
 
 \* 如果玩家升级到 5 级大本营并且解锁了雷电法术，即使玩家没有立即升实验室也可以升级雷电法术。
@@ -88,6 +90,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>10、12、13 级雷电法术的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 14 级雷电法术。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 13 级雷电法术。</TimelineRow>

@@ -41,7 +41,7 @@ canonical: /upgrade/0500-Builders-Hut
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1, 2 - 18" />
+    <BuildingNumRow title="大本等级" num="1, 2 - 19" />
     <BuildingNumRow title="建筑数量" num="2,      5" />
 </BuildingNum>
 
@@ -108,8 +108,7 @@ const tableExtraInfo = [
 |   6  |   150   |    60   |      85     |        63.75        |  1900 | 7M | 4, 12 |                    |      16       |
 |   7  |   165   |    66   |      90     |        67.5         |  2000 | 13.5M |   7     |                    |      17       |
 |   8  |   180   |    72   |      95     |        71.25        |  2100 | 20M | 11 |                    |      18       |
-| ⚡1  |   187   |   74.8  |      95     |        71.25        |  2100 |     4M  |   1,14  |                    |      18       |
-| ⚡2  |   187   |   74.8  |      95     |        71.25        |  2150 |  3.25M  |   2,10  |                    |      18       |
+|   9  |   195   |    78   |     100     |        75           |  2200 |    26M  |    14   |                    |      19       |
 
 </UnitTable>
 
@@ -132,6 +131,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>3、4、5、6、8 级建筑工人小屋的升级时间减少。</TimelineRow>
         <TimelineRow>3 ~ 8 级建筑工人小屋的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 9 级建筑工人小屋，并移除 8 级建筑工人小屋的超级充能。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/10/20">
         <TimelineRow>建筑工人小屋充能耗时与费用减少。</TimelineRow>

@@ -33,7 +33,7 @@ canonical: /upgrade/0382-Air-Bomb
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 7, 8 - 9, 10 - 11, 12 - 13, 14 - 17, 18" />
+    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 7, 8 - 9, 10 - 11, 12 - 13, 14 - 17, 18 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,     2,     4,       5,       6,       7,  8" />
 </BuildingNum>
 

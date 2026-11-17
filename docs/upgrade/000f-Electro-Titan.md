@@ -20,6 +20,7 @@ canonical: /upgrade/000f-Electro-Titan
         <UnitImg imgTitle="3 级" imgSrc="Electro_Titan3.png" />
         <UnitImg imgTitle="4 级" imgSrc="Electro_Titan4.png" />
         <UnitImg imgTitle="5 级" imgSrc="Electro_Titan5.png" imgHd="Electro_Titan5.png" />
+        <UnitImg imgTitle="6 级" imgSrc="Electro_Titan6.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -86,6 +87,7 @@ const tableExtraInfo = [
 | 4 | 240 / 360 | 137.5 / 55 | 8700 | 15.5M | 9 | 14 | 16 |
 | 5 | 270 / 405 | 150 / 60 | 9200 | 18M | 11, 12 | 16 | 18 |
 
+| 6 | 300 / 450 | 162 / 65 | 10000 | 28M | 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -93,6 +95,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>2 ~ 5 级雷霆泰坦的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 6 级雷霆泰坦。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本新增了 5 级雷霆泰坦。</TimelineRow>

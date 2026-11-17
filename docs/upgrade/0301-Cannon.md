@@ -94,7 +94,7 @@ const tableExtraInfoGearUpMode = tableExtraInfoStandardMode;
 <SmallTitle>各大本等级的加农炮数量</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1, 2 - 4, 5 - 6,  7 - 9, 10, 11 - 15, 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1, 2 - 4, 5 - 6,  7 - 9, 10, 11 - 15, 16, 17 - 19" />
     <BuildingNumRow title="建筑数量" num="1,     2,     3,      5,  6,       7,  3,       0" />
 </BuildingNum>
 
@@ -179,7 +179,7 @@ const tableExtraInfoGearUpMode = tableExtraInfoStandardMode;
 <SmallTitle>各大本等级的加农炮数量</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1, 2 - 4, 5 - 6,  7 - 9, 10, 11 - 15, 16, 17 - 18" />
+    <BuildingNumRow title="大本等级" num="1, 2 - 4, 5 - 6,  7 - 9, 10, 11 - 15, 16, 17 - 19" />
     <BuildingNumRow title="建筑数量" num="1,     2,     3,      5,  6,       7,  3,       0" />
 </BuildingNum>
 

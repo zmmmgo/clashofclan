@@ -37,13 +37,14 @@ canonical: /upgrade/0300-Walls
         <UnitImg imgTitle="17 级" imgSrc="Wall17_thumb.png" imgHd="Wall17.png"/>
         <UnitImg imgTitle="18 级" imgSrc="Wall18.png" />
         <UnitImg imgTitle="19 级" imgSrc="Wall19.png" />
+        <UnitImg imgTitle="20 级" imgSrc="Wall20.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1,  2,  3,  4,   5,   6,   7,   8,   9,  10, 11 - 13, 14 - 18" />
+    <BuildingNumRow title="大本等级" num="1,  2,  3,  4,   5,   6,   7,   8,   9,  10, 11 - 13, 14 - 19" />
     <BuildingNumRow title="建筑数量" num="0, 25, 50, 75, 100, 125, 175, 225, 250, 275,     300,     325" />
 </BuildingNum>
 
@@ -104,6 +105,7 @@ const tableExtraInfo = [
 | 18 | 13000 | 6 | 6 | 7 | 17 |
 | 19 | 14000 | 8 | 8 | 10 | 18 |
 
+| 20 | 15000 | 10 | 10 | 10 | 19 |
 </UnitTable>
 
 注：升级城墙时，金币、圣水、戒指任选其一即可。
@@ -113,6 +115,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>18 ~ 19 级城墙的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 20 级城墙（初始最多可升级 150 块）。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>18 本新解锁 75 块 19 级城墙（共 275 块）。</TimelineRow>

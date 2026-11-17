@@ -26,6 +26,7 @@ canonical: /upgrade/0484-Spell-Factory
         <UnitImg imgTitle="7 级" imgSrc="Spell_Factory7.png" />
         <UnitImg imgTitle="8 级" imgSrc="Spell_Factory8.png" />
         <UnitImg imgTitle="9 级" imgSrc="Spell_Factory9.png" />
+        <UnitImg imgTitle="10 级" imgSrc="Spell_Factory10.png" />
     </UnitImgGroup>
     <UnitImgGroup title="法术配置中" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 级" imgSrc="Spell_Factory1_Active.png" />
@@ -43,7 +44,7 @@ canonical: /upgrade/0484-Spell-Factory
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 4, 5 - 19" />
     <BuildingNumRow title="建筑数量" num="    0,      1" />
 </BuildingNum>
 
@@ -91,6 +92,7 @@ const tableExtraInfo = [
 | 8 | 10 | 1080 | 14M | 8 |  | 15 | <a href="/upgrade/0108-Revive-Spell">复苏法术</a> |
 | 9 | 10 | 1150 | 16M | 9 |  | 16 | <a href="/upgrade/0109-Totem-Spell">图腾法术</a> |
 
+| 10 | 11 | 1220 | 18.5M | 10, 12 |  | 17 | 英雄法术 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -98,6 +100,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>9 级法术工厂的升级费用减少。</TimelineRow>
+            <TimelineRow>在 17 本新增 10 级法术工厂，可解锁英雄法术。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>16 本新增 9 级法术工厂。</TimelineRow>    

@@ -18,6 +18,7 @@ canonical: /upgrade/0010-Root-Rider
         <UnitImg imgTitle="1 级" imgSrc="Root_Rider1.png" />
         <UnitImg imgTitle="2 级" imgSrc="Root_Rider2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Root_Rider3.png" />
+        <UnitImg imgTitle="5 级" imgSrc="Root_Rider5.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -70,6 +71,7 @@ const tableExtraInfo = [
 | 3 | 115 / 253 | 10 000 / 4 000 | 6500 | 16M | 9 | 14 | 16 |
 | 4 | 125 / 275 | 10 000 / 4 000 | 6700 | 23M | 12, 12 | 16 | 18 |
 
+| 5 | 135 / 297 | 10 000 / 4 000 | 6900 | 29M | 13 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -77,6 +79,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>2 ~ 4 级根蔓骑士的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 5 级根蔓骑士。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 4 级根蔓骑士。</TimelineRow>

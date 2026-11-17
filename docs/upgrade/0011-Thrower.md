@@ -19,6 +19,7 @@ canonical: /upgrade/0011-Thrower
         <UnitImg imgTitle="2 级" imgSrc="Thrower2.png" />
         <UnitImg imgTitle="3 级" imgSrc="Thrower3.png" />
         <UnitImg imgTitle="4 级" imgSrc="Thrower4.png" />
+        <UnitImg imgTitle="5 级" imgSrc="Thrower5.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -66,6 +67,7 @@ const tableExtraInfo = [
 | 3 | 220 | 550 | 2500 | 16M | 9, 12 | 15 | 17 |
 | 4 | 230 | 575 | 2650 | 20.5M | 11, 12 | 16 | 18 |
 
+| 5 | 240 | 600 | 2800 | 29.5M | 13 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -73,6 +75,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>2 ~ 4 级巨矛投手的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 5 级巨矛投手。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/09/22">
         <TimelineRow>投石炮手的移动速度由 18 降低至 16（2.25 格/秒 → 2 格/秒）。</TimelineRow>

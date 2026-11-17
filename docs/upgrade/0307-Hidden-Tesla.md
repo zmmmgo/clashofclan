@@ -35,13 +35,14 @@ canonical: /upgrade/0307-Hidden-Tesla
         <UnitImg imgTitle="15 级" imgSrc="Hidden_Tesla15.png" />
         <UnitImg imgTitle="16 级" imgSrc="Hidden_Tesla16.png" />
         <UnitImg imgTitle="17 级" imgSrc="Hidden_Tesla17.png" />
+        <UnitImg imgTitle="18 级" imgSrc="Hidden_Tesla18.png" />
     </UnitImgGroup>
 </Panel>
 
 <SmallTitle>建筑数量对照表</SmallTitle>
 
 <BuildingNum>
-    <BuildingNumRow title="大本等级" num="1 - 6, 7, 8, 9 - 11, 12 - 18" />
+    <BuildingNumRow title="大本等级" num="1 - 6, 7, 8, 9 - 11, 12 - 19" />
     <BuildingNumRow title="建筑数量" num="    0, 2, 3,      4,       5" />
 </BuildingNum>
 
@@ -102,6 +103,7 @@ const tableExtraInfo = [
 | 16 | 180 | 108 | 1650 | 13.5M | 7 |  | 17 |
 | 17 | 190 | 114 | 1750 | 16.5M | 9 |  | 18 |
 
+| 18 | 210 | 126 | 1950 | 27.5M | 14 |  | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -110,6 +112,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>11、12、13、15、17 级特斯拉电磁塔的升级时间减少。</TimelineRow>
         <TimelineRow>10、11、12、13、15、16、17 级特斯拉电磁塔的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 18 级特斯拉电磁塔。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>在 18 本添加了 17 级特斯拉电磁塔。</TimelineRow>

@@ -29,6 +29,7 @@ canonical: /upgrade/0008-Dragon
         <UnitImg imgTitle="10 级" imgSrc="Dragon10.png" />
         <UnitImg imgTitle="11 级" imgSrc="Dragon11.png" />
         <UnitImg imgTitle="12 级" imgSrc="Dragon12.png" imgHd="Dragon12_hd.png" />
+        <UnitImg imgTitle="14 级" imgSrc="Dragon14.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -86,6 +87,7 @@ const tableExtraInfo = [
 | 12 | 410 | 512.5 | 5700 | 15.5M | 8, 12 | 15 | 17 |
 | 13 | 430 | 537.5 | 6000 | 21M | 11, 12 | 16 | 18 |
 
+| 14 | 450 | 562.5 | 6300 | 28.5M | 12, 12 | 17 | 19 |
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
@@ -93,6 +95,7 @@ const tableExtraInfo = [
 <Timeline>
     <TimelineItem date="2026/11/16">
         <TimelineRow>11 ~ 13 级飞龙的升级时间和升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 14 级飞龙。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>在 18 本新增 13 级飞龙。</TimelineRow>

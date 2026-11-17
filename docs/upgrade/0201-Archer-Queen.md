@@ -180,6 +180,11 @@ const tableExtraInfo = [
 | 109 | 807 | 605.25 | 3552 | 460k | 8 | \ | 12 | 18 |
 | 110 | 810 | 607.5 | 3576 | 465k | 8 | \ | 12 | 18 |
 
+| 111 | 813 | 609.75 | 3600 | 475k | 8 | \ | 13 | 19 |
+| 112 | 816 | 612 | 3624 | 485k | 8 | \ | 13 | 19 |
+| 113 | 819 | 614.25 | 3648 | 495k | 8 | \ | 13 | 19 |
+| 114 | 822 | 616.5 | 3672 | 505k | 8 | \ | 13 | 19 |
+| 115 | 825 | 618.75 | 3696 | 520k | 8 | \ | 13 | 19 |
 </UnitTable>
 
 <SmallTitle>技能回血数据</SmallTitle>
@@ -221,6 +226,7 @@ const tableExtraInfo = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>96 ~ 100 级弓箭女皇的升级时间减少。</TimelineRow>
         <TimelineRow>105 ~ 110 级弓箭女皇的升级费用减少。</TimelineRow>
+            <TimelineRow>在 19 本新增 111 ~ 115 级弓箭女皇。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>18 本推出，并在 18 本新增 101 ~ 105 级弓箭女皇。</TimelineRow>
