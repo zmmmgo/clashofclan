@@ -191,6 +191,7 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="回溯法术" imgSrc="0107/Recall_Spell.png" link="0107-Recall-Spell" />
         <ListItem name="复苏法术" imgSrc="0108/Revive_Spell_thumb.png" link="0108-Revive-Spell" />
         <ListItem name="图腾法术" imgSrc="0109/Totem_Spell_thumb.png" link="0109-Totem-Spell" />
+        <ListItem name="英雄法术" imgSrc="010a/Heroic_Spell.png" link="010a-Heroic-Spell" />
     </ListItems>
     <ListItems title="黑油法术" imgFolder="home_tech">
         <ListItem name="毒药法术" imgSrc="0180/Poison_Spell.png" link="0180-Poison-Spell" />

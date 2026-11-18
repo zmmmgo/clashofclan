@@ -36,11 +36,7 @@ canonical: /upgrade/0400-Town-Hall
         <UnitImg imgTitle="14 本" imgSrc="Town_Hall14.png" imgHd="Town_Hall14_hd.png" />
         <UnitImg imgTitle="15 本" imgSrc="Town_Hall15.png" imgHd="Town_Hall15_hd.png" />
         <UnitImg imgTitle="16 本" imgSrc="Town_Hall16.png" imgHd="Town_Hall16_hd.png" />
-        <UnitImg imgTitle="17 本 1 星" imgSrc="Town_Hall17_1.png" imgHd="Town_Hall17_1_hd.png" />
-        <UnitImg imgTitle="17 本 2 星" imgSrc="Town_Hall17_2.png" imgHd="Town_Hall17_2_hd.png" />
-        <UnitImg imgTitle="17 本 3 星" imgSrc="Town_Hall17_3.png" imgHd="Town_Hall17_3_hd.png" />
-        <UnitImg imgTitle="17 本 4 星" imgSrc="Town_Hall17_4.png" imgHd="Town_Hall17_4_hd.png" />
-        <UnitImg imgTitle="17 本 5 星" imgSrc="Town_Hall17_5.png" imgHd="Town_Hall17_5_hd.png" />
+        <UnitImg imgTitle="17 本" imgSrc="Town_Hall17_5.png" imgHd="Town_Hall17_5_hd.png" />
         <UnitImg imgTitle="18 本" imgSrc="Town_Hall18.png" imgHd="Town_Hall18_hd.png" />
         <UnitImg imgTitle="19 本" imgSrc="Town_Hall19.png" imgHd="Town_Hall19_hd.png" />
     </UnitImgGroup>
@@ -65,6 +61,11 @@ canonical: /upgrade/0400-Town-Hall
         <UnitImg imgTitle="15 本 3 星" imgSrc="Town_Hall15_3.png" imgHd="Town_Hall15_3_hd.png" />
         <UnitImg imgTitle="15 本 4 星" imgSrc="Town_Hall15_4.png" imgHd="Town_Hall15_4_hd.png" />
         <UnitImg imgTitle="15 本 5 星" imgSrc="Town_Hall15_5.png" imgHd="Town_Hall15_5_hd.png" />
+        <UnitImg imgTitle="17 本 1 星" imgSrc="Town_Hall17_1.png" imgHd="Town_Hall17_1_hd.png" />
+        <UnitImg imgTitle="17 本 2 星" imgSrc="Town_Hall17_2.png" imgHd="Town_Hall17_2_hd.png" />
+        <UnitImg imgTitle="17 本 3 星" imgSrc="Town_Hall17_3.png" imgHd="Town_Hall17_3_hd.png" />
+        <UnitImg imgTitle="17 本 4 星" imgSrc="Town_Hall17_4.png" imgHd="Town_Hall17_4_hd.png" />
+        <UnitImg imgTitle="17 本 5 星" imgSrc="Town_Hall17_5.png" imgHd="Town_Hall17_5_hd.png" />
     </UnitImgGroup>
 </Panel>
 
@@ -191,6 +192,7 @@ const tableExtraInfo2 = [
     <TimelineItem date="2026/11/16">
         <TimelineRow>19 本推出。</TimelineRow>
         <TimelineRow>18 级大本营的升级时间和升级费用减少。</TimelineRow>
+        <TimelineRow>取消 17 本地狱火炮的等级，更新后 17 本只有一种外观。</TimelineRow>
     </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>游戏新增 18 级大本营。</TimelineRow>
