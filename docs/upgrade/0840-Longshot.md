@@ -9,6 +9,8 @@ wiki: https://clashofclans.fandom.com/wiki/Longshot
 canonical: /upgrade/0840-Longshot
 ---
 
+- *19 本后守卫防守岗位已迁至守卫神殿，详情请访问：[守卫神殿](/upgrade/048c-Guardian-Shrine)。*
+
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Longshot_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>

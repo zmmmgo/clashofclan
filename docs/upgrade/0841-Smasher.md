@@ -9,6 +9,8 @@ wiki: https://clashofclans.fandom.com/wiki/Smasher
 canonical: /upgrade/0841-Smasher
 ---
 
+- *19 本后守卫防守岗位已迁至守卫神殿，详情请访问：[守卫神殿](/upgrade/048c-Guardian-Shrine)。*
+
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Smasher_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
