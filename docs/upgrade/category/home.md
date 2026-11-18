@@ -258,6 +258,7 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="超级法师塔" imgSrc="0318/Super_Wizard_Tower2.png" link="0318-Super-Wizard-Tower" />
         <ListItem name="复仇之塔" imgSrc="0319/Revenge_Tower2_Dormant.png" link="0319-Revenge-Tower" />
         <ListItem name="尖刺塔" imgSrc="031a/Spiky_Tower2.png" link="031a-Spiky-Tower" />
+        <ListItem name="烟花炮手塔" imgSrc="031b/Firecracker_Tower2.png" link="031b-Firecracker-Tower" />
     </ListItems>
     <ListItems title="陷阱" imgFolder="home_buildings">
         <ListItem name="隐形炸弹" imgSrc="0380/Bomb13.png" link="0380-Bomb" />

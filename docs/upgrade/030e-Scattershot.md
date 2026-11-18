@@ -10,6 +10,7 @@ canonical: /upgrade/030e-Scattershot
 ---
 
 - *玩家所说的投石车指的是攻城烈焰车，而不是投石炮，攻城烈焰车的数据请参考： [攻城烈焰车](/upgrade/0245-Flame-Flinger)。*
+- *如想查看由箭塔和投石炮合成的烟花炮手塔，请访问 [烟花炮手塔](/upgrade/031b-Firecracker-Tower)。*
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Scattershot7_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
