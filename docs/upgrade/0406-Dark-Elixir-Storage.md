@@ -9,7 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Dark_Elixir_Storage
 canonical: /upgrade/0406-Dark-Elixir-Storage
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Elixir_Storage13.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Dark_Elixir_Storage14.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 

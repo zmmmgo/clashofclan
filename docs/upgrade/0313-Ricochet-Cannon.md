@@ -11,7 +11,7 @@ canonical: /upgrade/0313-Ricochet-Cannon
 
 - *如想查看合并前的建筑，请访问 [加农炮](/upgrade/0301-Cannon)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Ricochet_Cannon4.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Ricochet_Cannon5.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 

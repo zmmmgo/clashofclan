@@ -11,7 +11,7 @@ canonical: /upgrade/0405-Elixir-Storage
 
 - *如想查看夜世界的圣水瓶，请访问：[夜世界圣水瓶](/upgrade/1204-Elixir-Storage)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Elixir_Storage19.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Elixir_Storage20.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 

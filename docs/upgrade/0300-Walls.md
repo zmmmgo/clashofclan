@@ -12,7 +12,7 @@ canonical: /upgrade/0300-Walls
 - *如想查看夜世界的城墙，请访问：[夜世界城墙](/upgrade/110c-Walls)。*
 - *如想查看都城的城墙，请访问：[都城城墙](/upgrade/2200-Walls)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Wall19.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Wall20.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 

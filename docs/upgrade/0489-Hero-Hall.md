@@ -9,7 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Hero_Hall
 canonical: /upgrade/0489-Hero-Hall
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Hero_Hall12_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Hero_Hall13_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 
 <SmallTitle>各等级图片</SmallTitle>
 

@@ -9,7 +9,7 @@ wiki: https://clashofclans.fandom.com/wiki/Clan_Castle
 canonical: /upgrade/0407-Clan-Castle
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Clan_Castle14_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Clan_Castle15_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
