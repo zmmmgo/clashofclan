@@ -10,7 +10,7 @@ canonical: /upgrade/0e1c-Golden-Dragon
 ---
 
 - *如想查看常驻常规兵种飞龙，请访问：[飞龙](/upgrade/0008-Dragon)。*
-- *如想查看常规超级兵种超级飞龙，请访问：[超级飞龙](/upgrade/0108-Super-Dragon)。*
+- *如想查看常规超级兵种超级飞龙，请访问：[超级飞龙](/upgrade/060d-Super-Dragon)。*
 
 <UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Golden_Dragon_info.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" :isSmallImg="true" />
 

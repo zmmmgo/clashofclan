@@ -35,8 +35,8 @@ canonical: /upgrade/031a-Spiky-Tower
     - 尖刺塔的反击频率没有上限，只要受到攻击就会立即反伤。如果单次攻击直接将尖刺塔摧毁，则不会触发反击。
     - 即使尖刺塔被 [冰冻法术](/upgrade/0104-Freeze-Spell) 冻结，或者攻击者处于隐身状态（如搭配 [灵狐](/upgrade/0288-Spirit-Fox) 的英雄或处于 [隐形法术](/upgrade/0106-Invisibility-Spell) 范围内的部队），尖刺塔依然能够正常锁定并发起反击。
 3. 伤害触发机制判定：
-    - 间接造成的溅射伤害（如 [超级飞龙](/upgrade/000c-Super-Dragon) 或 [超级巨石投手](/upgrade/060c-Super-Bowler) 的溅射）命中尖刺塔时，会正常触发反击。
-    - 连锁伤害（如 [雷电飞龙](/upgrade/000c-Electro-Dragon)、[超级法师](/upgrade/0605-Super-Wizard)）和光环伤害（如 [雷霆泰坦](/upgrade/000f-Electro-Titan)、[雷电战靴](/upgrade/07c5-Electro-Boots)）不会触发尖刺塔的反击。
+    - 间接造成的溅射伤害（如 [超级飞龙](/upgrade/060d-Super-Dragon) 或 [超级巨石投手](/upgrade/060c-Super-Bowler) 的溅射）命中尖刺塔时，会正常触发反击。
+    - 连锁伤害（如 [雷电飞龙](/upgrade/000c-Electro-Dragon)、[超级法师](/upgrade/0609-Super-Wizard)）和光环伤害（如 [雷霆泰坦](/upgrade/000f-Electro-Titan)、[雷电战靴](/upgrade/07c5-Electro-Boots)）不会触发尖刺塔的反击。
     - 绝大多数英雄装备的主动技能伤害不会触发反击，仅 [火箭飞矛](/upgrade/07c4-Rocket-Spear) 与 [贵族哑铃](/upgrade/0723-Noble-Iron) 例外（因为它们被视为英雄发出的强化普通攻击）。
 4. [狂暴法术塔](/upgrade/0311-Spell-Tower) 等伤害提升效果对尖刺塔无效。
 

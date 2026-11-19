@@ -6,10 +6,10 @@ description: "建筑工人学徒能帮助建筑工人更快完成升级。您每
 module: upgrade-home
 imgFolder: home_tech/0801
 wiki: https://clashofclans.fandom.com/wiki/Builder%27s_Apprentice
-canonical: /upgrade/0801-Builder%27s-Apprentice
+canonical: /upgrade/0801-Builder's-Apprentice
 ---
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builder%27s_Apprentice.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builder's_Apprentice.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>重要说明</SmallTitle>
 

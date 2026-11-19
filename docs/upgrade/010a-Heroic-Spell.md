@@ -17,7 +17,7 @@ canonical: /upgrade/010a-Heroic-Spell
 2. 部署英雄法术后，法术范围内的所有我方部队都会获得三种增益效果：小幅提升移动速度、获得伤害减免，并且地面部队获得穿过城墙的能力。
     - 英雄和偏好攻击建筑的目标获得的移动速度加成减半（若减半后为小数则四舍五入）。
     - 攻城机器不受移速加成影响。
-3. 英雄法术的效果不与相同类型的其他效果叠加（如 [狂暴法术](/upgrade/0102-Rage-Spell)、[急速法术](/upgrade/0181-Haste-Spell)、[冰障法术](/upgrade/0186-Ice-Block-Spell)、[英雄火炬](/upgrade/0786-Heroic-Torch) 等）。
+3. 英雄法术的效果不与相同类型的其他效果叠加（如 [狂暴法术](/upgrade/0102-Rage-Spell)、[急速法术](/upgrade/0182-Haste-Spell)、[冰障法术](/upgrade/0186-Ice-Block-Spell)、[英雄火炬](/upgrade/0786-Heroic-Torch) 等）。
 
 <SmallTitle>属性</SmallTitle>
 
