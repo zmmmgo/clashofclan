@@ -294,6 +294,7 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="精制台" imgSrc="048a/Crafting_Station_thumb.png" link="048a-Crafting-Station" />
         <ListItem name="英雄王座" imgSrc="048b/Hero_Banner_Empty.png" link="048b-Hero-Banner" />
         <ListItem name="守卫神殿" imgSrc="048c/Guardian_Shrine.png" link="048c-Guardian-Shrine" />
+        <ListItem name="小队训练营" imgSrc="048d/Squad_Barracks12.png" link="048d-Squad-Barracks" />
     </ListItems>
     <ListItems title="其他建筑" imgFolder="home_buildings">
         <ListItem name="小博木屋" imgSrc="0501/B.O.Bs_Hut.png" link="0501-B.O.Bs-Hut" />

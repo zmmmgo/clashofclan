@@ -10,6 +10,7 @@ canonical: /upgrade/0481-Barracks
 ---
 
 - *如想查看训练黑水兵的训练营，请访问：[暗黑训练营](/upgrade/0482-Dark-Barracks)。*
+- *如想查看训练小队的训练营，请访问：[小队训练营](/upgrade/048d-Squad-Barracks)。*
 - *如想查看夜世界的建筑大师训练营，请访问：[夜世界建筑大师训练营](/upgrade/1280-Builder-Barracks)。*
 - *都城的训练营比较多，这里就不放链接了，如有需求请自行前往相关页面查看。*
 
