@@ -58,7 +58,7 @@ onMounted(() => {
     const isKnownLocal = [
         "008c", "010a", "0604", "0842", "0747", "0726", "07e5", "0906", "0907", "0908",
         "1287", "1288", "2500", "0e1c", "0e1d", "0e1e", "0e1f", "0e20", "031a", "031b", "048b", "048c", "048d",
-        "X-Bow13", "Scattershot7", "Builders_Hut8", "Monolith5", "Army_Camp14",
+        "X-Bow13", "X-Bow14", "Scattershot7", "Builders_Hut8", "Builders_Hut9", "Monolith5", "Army_Camp14",
         "Dark_Barracks13", "Dark_Spell_Factory8", "Workshop9",
         "Barbarian14", "Archer15", "Giant15", "Goblin11", "Wall_Breaker15",
         "Balloon14", "Wizard15", "Healer12", "Dragon14", "PEKKA14",

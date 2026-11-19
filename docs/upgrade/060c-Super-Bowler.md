@@ -60,16 +60,12 @@ canonical: /upgrade/060c-Super-Bowler
 |   8  |    240    |    528    |  2600 |     16    |
 |   9  |    270    |    594    |  3000 |     17    |
 | 10 | 310 | 682 | 3700 | 18 |
-| 11 | 330 | 726 | 4000 | 19 |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
-    <TimelineItem date="2026/11/16">
-        <TimelineRow>在 19 本新增 11 级超级巨石投手。</TimelineRow>
-    </TimelineItem>
     <TimelineItem date="2026/04/27">
         <TimelineRow>10 级超级巨石投手的每秒伤害和生命值增加。</TimelineRow>
     </TimelineItem>

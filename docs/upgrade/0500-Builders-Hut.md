@@ -11,7 +11,7 @@ canonical: /upgrade/0500-Builders-Hut
 
 - *如想查看村庄内类似于建筑工人小屋的另一种建筑，请访问：[小博木屋（巴布小屋）](/upgrade/0501-B.O.Bs-Hut)。*
 
-<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builders_Hut8_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
+<UnitInfo :folder="$frontmatter.imgFolder" imgSrc="Builders_Hut9_hd.png" :imgAlt="$frontmatter.navTitle" :description="$frontmatter.description" />
 
 <SmallTitle>各等级图片</SmallTitle>
 
@@ -25,6 +25,7 @@ canonical: /upgrade/0500-Builders-Hut
         <UnitImg imgTitle="6 级" imgSrc="Builders_Hut6.png" imgHd="Builders_Hut6_hd.png" />
         <UnitImg imgTitle="7 级" imgSrc="Builders_Hut7.png" imgHd="Builders_Hut7_hd.png" />
         <UnitImg imgTitle="8 级" imgSrc="Builders_Hut8.png" imgHd="Builders_Hut8_hd.png" />
+        <UnitImg imgTitle="9 级" imgSrc="Builders_Hut9.png" imgHd="Builders_Hut9_hd.png" />
     </UnitImgGroup>
     <UnitImgGroup title="激活状态" :folder="$frontmatter.imgFolder">
         <UnitImg imgTitle="1 级" imgSrc="Builders_Hut1.png" />
@@ -35,6 +36,7 @@ canonical: /upgrade/0500-Builders-Hut
         <UnitImg imgTitle="6 级" imgSrc="Builders_Hut6_Active.png" />
         <UnitImg imgTitle="7 级" imgSrc="Builders_Hut7_Active.png" />
         <UnitImg imgTitle="8 级" imgSrc="Builders_Hut8_Active.png" />
+        <UnitImg imgTitle="9 级" imgSrc="Builders_Hut9_Active.png" imgHd="Builders_Hut9_Active_hd.png" />
     </UnitImgGroup>
 </Panel>
 

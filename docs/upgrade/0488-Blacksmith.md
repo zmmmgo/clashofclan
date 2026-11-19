@@ -100,13 +100,17 @@ const tableExtraInfo = [
 |   7  |  1300  |        40k      |       4000      |       800      |   9.2M   |   5     |                     |       14      |<a href="/upgrade/07c2-Hog-Rider-Puppet">野猪骑士木偶</a>|
 |   8  |  1400  |        45k      |       4500      |       900      |    10M   |   6     |                     |       15      |<a href="/upgrade/07c3-Haste-Vial">急速药水瓶</a>|
 |   9  |  1500  |        50k      |       5000      |      1000      |    11M   |   7     |                     |       16      |<a href="/upgrade/07e2-Stun-Blaster">爆震器</a>|
-|  10  |  1600  |        50k      |       5000      |      1000      |    18M   |  10     |                     |       17      |<a href="/upgrade/07e4-Electro-Fangs">雷电獠牙</a>|
+|  10  |  1600  |        50k      |       5000      |      1000      |    17M   |  10     |                     |       17      |<a href="/upgrade/07e4-Electro-Fangs">雷电獠牙</a>|
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>铁匠铺不再被视作资源建筑，现在法术可以对其造成伤害。</TimelineRow>
+        <TimelineRow>10 级铁匠铺的升级费用降低。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2025/11/17">
         <TimelineRow>17 本新增 10 级铁匠铺，可解锁新装备：雷电獠牙。</TimelineRow>
         <TimelineRow>9 级铁匠铺可以解锁新装备：爆震器。</TimelineRow>

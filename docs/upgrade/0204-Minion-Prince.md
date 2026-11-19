@@ -162,6 +162,11 @@ const tableExtraInfo = [
 | 93 | 759 | 645.15 | 4450 | 420k | 8 | \ | 12 | 18 |
 | 94 | 762 | 647.7 | 4480 | 430k | 8 | \ | 12 | 18 |
 | 95 | 765 | 650.25 | 4510 | 450k | 8 | \ | 12 | 18 |
+| 96 | 768 | 652.8 | 4540 | 500k | 8 | \ | 13 | 19 |
+| 97 | 771 | 655.35 | 4570 | 505k | 8 | \ | 13 | 19 |
+| 98 | 774 | 657.9 | 4600 | 510k | 8 | \ | 13 | 19 |
+| 99 | 777 | 660.45 | 4630 | 515k | 8 | \ | 13 | 19 |
+| 100 | 780 | 663 | 4660 | 520k | 8 | \ | 13 | 19 |
 
 </UnitTable>
 
@@ -192,7 +197,8 @@ const tableExtraInfo = [
 |   80 - 84   |         900        |
 |   85 - 89   |         950        |
 |   90 - 94   |        1000        |
-|      95     |        1050        |
+|   95 - 99   |        1050        |
+|     100     |        1100        |
 </Table>
 
 <SmallTitle>亡灵王子的初始等级</SmallTitle>
@@ -204,6 +210,9 @@ const tableExtraInfo = [
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>在 19 本新增 96 ~ 100 级亡灵王子。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>36 ~ 75 级亡灵王子的升级时间减少。</TimelineRow>
     </TimelineItem>

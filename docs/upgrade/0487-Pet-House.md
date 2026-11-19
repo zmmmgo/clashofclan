@@ -91,14 +91,17 @@ const tableExtraInfo = [
 | 8 | 1200 | 10M | 5, 12 |  | 15 | <a href="/upgrade/0287-Phoenix">凤凰</a> |
 | 9 | 1250 | 11M | 6 |  | 16 | <a href="/upgrade/0288-Spirit-Fox">灵狐</a> |
 | 10 | 1300 | 12M | 7 |  | 16 | <a href="/upgrade/0289-Angry-Jelly">愤怒水母</a> |
-| 11 | 1350 | 16.5M | 8 |  | 17 | <a href="/upgrade/028a-Sneezy">阿啾</a> |
-| 12 | 1400 | 25.5M | 13, 12 |  | 18 | <a href="/upgrade/028b-Greedy-Raven">贪婪渡鸦</a> |
+| 11 | 1350 | 15M | 8 |  | 17 | <a href="/upgrade/028a-Sneezy">阿啾</a> |
+| 12 | 1400 | 23M | 12, 12 |  | 18 | <a href="/upgrade/028b-Greedy-Raven">贪婪渡鸦</a> |
 
 </UnitTable>
 
 <SmallTitle>更新历史</SmallTitle>
 
 <Timeline>
+    <TimelineItem date="2026/11/16">
+        <TimelineRow>11 ~ 12 级战宠小屋的升级时间和升级费用减少。</TimelineRow>
+    </TimelineItem>
     <TimelineItem date="2026/02/23">
         <TimelineRow>18 本新增 12 级战宠小屋，可解锁新战宠：贪婪渡鸦。</TimelineRow>
     </TimelineItem>

@@ -245,11 +245,11 @@ if (activeTabCookieValue === "home-techniques") {
         <ListItem name="空气炮" imgSrc="0306/Air_Sweeper7.png" link="0306-Air-Sweeper" />
         <ListItem name="特斯拉电磁塔" imgSrc="0307/Hidden_Tesla18.png" link="0307-Hidden-Tesla" />
         <ListItem name="炸弹塔" imgSrc="0308/Bomb_Tower13.png" link="0308-Bomb-Tower" />
-        <ListItem name="X连弩" imgSrc="0309/X-Bow13.png" link="0309-X-Bow" />
+        <ListItem name="X连弩" imgSrc="0309/X-Bow14.png" link="0309-X-Bow" />
         <ListItem name="地狱之塔" imgSrc="030a/Inferno_Tower12.png" link="030a-Inferno-Tower" />
         <ListItem name="天鹰火炮" imgSrc="030b/Eagle_Artillery7.png" link="030b-Eagle-Artillery" />
         <ListItem name="投石炮" imgSrc="030e/Scattershot7.png" link="030e-Scattershot" />
-        <ListItem name="建筑工人小屋" imgSrc="0500/Builders_Hut8.png" link="0500-Builders-Hut" />
+        <ListItem name="建筑工人小屋" imgSrc="0500/Builders_Hut9.png" link="0500-Builders-Hut" />
         <ListItem name="法术塔" imgSrc="0311/Spell_Tower4_Rage.png" link="0311-Spell-Tower" />
         <ListItem name="巨石碑" imgSrc="0312/Monolith5.png" link="0312-Monolith" />
         <ListItem name="跳弹加农炮" imgSrc="0313/Ricochet_Cannon5.png" link="0313-Ricochet-Cannon" />
