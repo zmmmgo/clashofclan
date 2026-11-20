@@ -86,7 +86,7 @@ const imgSrcOriginal = computed(() => {
     if (srcProp.startsWith("http://") || srcProp.startsWith("https://")) {
         return srcProp;
     }
-    const isKnownLocal = ["/p/6637/", "/p/6957/", "/p/4583/", "/p/1073/", "/resources/", "/p/author/"].some(k => srcProp.includes(k));
+    const isKnownLocal = ["/p/6637/", "/p/6957/", "/p/4583/", "/p/1641/", "/p/1073/", "/resources/", "/p/author/"].some(k => srcProp.includes(k));
     if (isKnownLocal) {
         return srcProp;
     }
